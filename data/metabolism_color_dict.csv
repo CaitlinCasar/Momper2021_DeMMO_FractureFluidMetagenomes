@@ -1,0 +1,23 @@
+metabolism,color
+Nitrate reduction,#225f5b
+Nitrite reduction,#2d7f79
+Nitrite reduction to ammonium,#2d7f79
+Nitric oxide reduction,#78c1bd
+Nitrous oxide reduction,#279990
+Ammonia oxidation,#34ccc0
+Annamox,#85e0d9
+Oxygen reduction ,#b75cd6
+Carbon monoxide oxidation,#1e581e
+Methanol oxidation,#2fc22f
+Hydrogen oxidation,#787a78
+Thiosulfate disproportionation,#f4d98c
+Sulfur oxidation,#f9f9a5
+Tetrathionate reduction to thiosulfate,#bf8e11
+Sulfide oxidation,#ffff5a
+Sulfide oxidation or sulfite reduction,#a07710
+Sulfate reduction,#f7c23e
+Sulfate reduction or sulfite oxidation,#f4ea40
+Chemotaxis,#e058e0
+Flagellar Motility,#702c70
+Pilli,#ec9bec
+Twitching Motility,#f9def9
