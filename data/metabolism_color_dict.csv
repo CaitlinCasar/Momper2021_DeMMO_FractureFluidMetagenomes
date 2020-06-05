@@ -1,23 +1,242 @@
-metabolism,color
-Nitrate reduction,#225f5b
-Nitrite reduction,#2d7f79
-Nitrite reduction to ammonium,#2d7f79
-Nitric oxide reduction,#78c1bd
-Nitrous oxide reduction,#279990
-Ammonia oxidation,#34ccc0
-Annamox,#85e0d9
-Oxygen reduction ,#b75cd6
-Carbon monoxide oxidation,#1e581e
-Methanol oxidation,#2fc22f
-Hydrogen oxidation,#787a78
-Thiosulfate disproportionation,#f4d98c
-Sulfur oxidation,#f9f9a5
-Tetrathionate reduction to thiosulfate,#bf8e11
-Sulfide oxidation,#ffff5a
-Sulfide oxidation or sulfite reduction,#a07710
-Sulfate reduction,#f7c23e
-Sulfate reduction or sulfite oxidation,#f4ea40
-Chemotaxis,#e058e0
-Flagellar Motility,#702c70
-Pilli,#ec9bec
-Twitching Motility,#f9def9
+group,color,Lump,Category,Function
+?,,Thermophilic,Thermophilic specific,Thermophilic specific
+Carbon,#145214,heterotropy - AA,Amino acid utilization,4-aminobutyrate aminotransferase and related aminotransferases
+Carbon,#145214,heterotropy - AA,Amino acid utilization,Aminotransferase class I and II
+Carbon,#145214,heterotropy - AA,Amino acid utilization,Phosphoserine aminotransferase
+Carbon,#145214,heterotropy - AA,Amino acid utilization,Ornithine/acetylornithine aminotransferase
+Carbon,#145214,heterotropy - AA,Amino acid utilization,Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase
+Carbon,#145214,heterotropy - AA,Amino acid utilization,Aspartate/tyrosine/aromatic aminotransferase
+Carbon,#145214,heterotropy - AA,Amino acid utilization,Histidinol-phosphate/aromatic aminotransferase
+Carbon,#145214,heterotropy - AA,Amino acid utilization,Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
+Carbon,#FFC273,heterotropy - fermentation,Ethanol fermentation,Acetate => Acetaldehyde
+Carbon,#FFC273,heterotropy - fermentation,Ethanol fermentation,Acetaldehyde => Ethanol
+Carbon,#FFDAAB,heterotrophy - lipid,Fatty acid degradation,Fatty acid degradation
+Carbon,#FFDAAB,heterotrophy - lipid,Aromatics degradation,Protocatechuate/Catechol degradation
+Carbon,#FFDAAB,heterotrophy - lipid,Aromatics degradation,Phenol => Benzoyl-CoA
+Carbon,#FFDAAB,heterotrophy - lipid,Aromatics degradation,Phenol => Benzoyl-CoA
+Carbon,#FFDAAB,heterotrophy - lipid,Aromatics degradation,Benzoyl-CoA reduction
+Carbon,#FFDAAB,heterotrophy - lipid,Aromatics degradation,Benzoyl-CoA reduction
+Carbon,#FFDAAB,heterotrophy - lipid,Aromatics degradation,Benzoyl-CoA reduction
+Carbon,#FFDAAB,heterotrophy - lipid,Aromatics degradation,Benzoyl-CoA reduction
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Cellulose degrading
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Cellulose degrading
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Cellulose degrading
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Hemicullulose debranching
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Hemicullulose debranching
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Hemicullulose debranching
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Endohemicellulases
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Endohemicellulases
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Other oligosaccharide degrading
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Other oligosaccharide degrading
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Other oligosaccharide degrading
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Amylolytic enzymes
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Amylolytic enzymes
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Amylolytic enzymes
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Amylolytic enzymes
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Chitin degrading
+Carbon,#BF9156,heterotrophy - carbs,Complex carbon degradation,Chitin degrading
+Carbon,#FFC273,heterotropy - fermentation,Fermentation,Pyruvate oxidation
+Carbon,#FFC273,heterotropy - fermentation,Fermentation,Alcohol utilization
+Carbon,#FFC273,heterotropy - fermentation,Fermentation,Lactate utilization
+Carbon,#FFC273,heterotropy - fermentation,Fermentation,Acetogenesis
+Carbon,#FFC273,heterotropy - fermentation,Fermentation,Acetogenesis
+Carbon,#FFC273,heterotropy - fermentation,Fermentation,Acetogenesis
+Carbon,#FFC273,heterotropy - fermentation,Fermentation,Acetate to acetyl-CoA
+Carbon,#FFC273,heterotropy - fermentation,Fermentation,Pyruvate <=> acetyl-CoA + formate
+Carbon,#2fc22f,C1 - MeOH,C1 metabolism,Methanol oxidation
+Carbon,#2fc22f,C1 - MeOH,C1 metabolism,Methanol oxidation
+Carbon,#A9DBA9,C1 - Mamine,C1 metabolism,Methyl amine -> formaldehyde
+Carbon,#A9DBA9,C1 - Mamine,C1 metabolism,Methyl amine -> formaldehyde
+Carbon,#1E7B1E,C1 - Formaldehyde,C1 metabolism,Formaldehyde oxidation
+Carbon,#1E7B1E,C1 - Formaldehyde,C1 metabolism,Formaldehyde oxidation
+Carbon,#1E7B1E,C1 - Formaldehyde,C1 metabolism,Formaldehyde oxidation
+Carbon,#1E7B1E,C1 - Formaldehyde,C1 metabolism,Formaldehyde oxidation
+Carbon,#1E7B1E,C1 - Formaldehyde,C1 metabolism,Formaldehyde oxidation
+Carbon,#789B78,C1 - Formate,C1 metabolism,Formate oxidation
+Carbon,#789B78,C1 - Formate,C1 metabolism,Formate oxidation
+Carbon,#789B78,C1 - Formate,C1 metabolism,Formate oxidation
+Carbon,#789B78,C1 - Formate,C1 metabolism,Formate oxidation
+Carbon,#789B78,C1 - Formate,C1 metabolism,Formate oxidation
+Carbon,#1e581e,C1 - CO-ox,C1 metabolism,Aerobic CO oxidation
+Carbon,#1e581e,C1 - CO-ox,C1 metabolism,Aerobic CO oxidation
+Carbon,#1e581e,C1 - CO-ox,C1 metabolism,Aerobic CO oxidation
+Carbon,#A9DBA9,Methanotrophy,Methane metabolism,Methane oxidation - Partculate methane monooxygenase
+Carbon,#A9DBA9,Methanotrophy,Methane metabolism,Methane oxidation - Partculate methane monooxygenase
+Carbon,#A9DBA9,Methanotrophy,Methane metabolism,Methane oxidation - Partculate methane monooxygenase
+Carbon,#A9DBA9,Methanotrophy,Methane metabolism,Methane oxidation - Soluble methane monoxygenase
+Carbon,#A9DBA9,Methanotrophy,Methane metabolism,Methane oxidation - Soluble methane monoxygenase
+Carbon,#145214,Methanogenesis,Methane metabolism,Methane production
+Carbon,#145214,Methanogenesis,Methane metabolism,Methane production
+Carbon,#145214,Methanogenesis,Methane metabolism,Methane production
+Carbon,#407AFF,Cfix- CBB,Carbon fixation,CBB cycle - Rubisco
+Carbon,#407AFF,Cfix- CBB,Carbon fixation,CBB cycle - Rubisco
+Carbon,#407AFF,Cfix- CBB,Carbon fixation,CBB cycle - Rubisco
+Carbon,#407AFF,Cfix- CBB,Carbon fixation,CBB cycle - Rubisco
+Carbon,#407AFF,Cfix- CBB,Carbon fixation,CBB cycle - Rubisco
+Carbon,#496DC2,Cfix - 3HP,Carbon fixation,3 Hydroxypropionate cycle
+Carbon,#496DC2,Cfix - 3HP,Carbon fixation,3 Hydroxypropionate cycle
+Carbon,#496DC2,Cfix - 3HP,Carbon fixation,3 Hydroxypropionate cycle
+Carbon,#1B49B2,Cfix - 3HP/4HB,Carbon fixation,3HP/4HB
+Carbon,#1B49B2,Cfix - 3HP/4HB,Carbon fixation,3HP/4HB
+Carbon,#1B49B2,Cfix - 3HP/4HB,Carbon fixation,3HP/4HB
+Carbon,#1B49B2,Cfix - 3HP/4HB,Carbon fixation,3HP/4HB
+Carbon,#1B49B2,Cfix - 3HP/4HB,Carbon fixation,3HP/4HB
+Carbon,#6695FF,Cfix - WL,Carbon fixation,Wood Ljungdahl pathway
+Carbon,#6695FF,Cfix - WL,Carbon fixation,Wood Ljungdahl pathway
+Carbon,#6695FF,Cfix - WL,Carbon fixation,Wood Ljungdahl pathway
+Carbon,#B3CAFF,Cfix - rTCA,Carbon fixation,Reverse TCA cycle
+Carbon,#B3CAFF,Cfix - rTCA,Carbon fixation,Reverse TCA cycle
+Element Cycling,#34ccc0,N - NH4ox,Nitrogen cycling,Ammonia oxidation
+Element Cycling,#34ccc0,N - NH4ox,Nitrogen cycling,Ammonia oxidation
+Element Cycling,#34ccc0,N - NH4ox,Nitrogen cycling,Ammonia oxidation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#D47F61,N - N2 fix,Nitrogen cycling,N2 fixation
+Element Cycling,#5CD6CD,N - NO2 ox,Nitrogen cycling,Nitrite oxidation
+Element Cycling,#5CD6CD,N - NO2 ox,Nitrogen cycling,Nitrite oxidation
+Element Cycling,#225f5b,N - NO3 red,Nitrogen cycling,Nitrate reduction
+Element Cycling,#225f5b,N - NO3 red,Nitrogen cycling,Nitrate reduction
+Element Cycling,#225f5b,N - NO3 red,Nitrogen cycling,Nitrate reduction
+Element Cycling,#225f5b,N - NO3 red,Nitrogen cycling,Nitrate reduction
+Element Cycling,#2d7f79,N - DNRA,Nitrogen cycling,Nitrite reduction to ammonia
+Element Cycling,#2d7f79,N - DNRA,Nitrogen cycling,Nitrite reduction to ammonia
+Element Cycling,#2d7f79,N - DNRA,Nitrogen cycling,Nitrite reduction to ammonia
+Element Cycling,#2d7f79,N - DNRA,Nitrogen cycling,Nitrite reduction to ammonia
+Element Cycling,#2d7f79,N - DNRA,Nitrogen cycling,Nitrite reduction to ammonia
+Element Cycling,#2d7f79,N - NO2 red,Nitrogen cycling,Nitrite reduction
+Element Cycling,#2d7f79,N - NO2 red,Nitrogen cycling,Nitrite reduction
+Element Cycling,#2d7f79,N - NO2 red,Nitrogen cycling,Nitrite reduction
+Element Cycling,#78c1bd,N - N2O red,Nitrogen cycling,Nitric oxide reduction
+Element Cycling,#78c1bd,N - N2O red,Nitrogen cycling,Nitric oxide reduction
+Element Cycling,#279990,N - NO2,Nitrogen cycling,Nitrous oxide reduction
+Element Cycling,#279990,N - NO2,Nitrogen cycling,Nitrous oxide reduction
+Element Cycling,#85e0d9,N - Anammox,Nitrogen cycling,Anammox
+Element Cycling,#85e0d9,N - Anammox,Nitrogen cycling,Anammox
+Element Cycling,#ffff5a,S - Sulfide ox,Sulfur cycling,Sulfide oxidation
+Element Cycling,#ffff5a,S - Sulfide ox,Sulfur cycling,Sulfide oxidation
+Element Cycling,#a07710,S - SO3red,Sulfur cycling,Sulfite reduction
+Element Cycling,#f9f9a5,S - S0ox,Sulfur cycling,Sulfur oxidation
+Element Cycling,#f9f9a5,S - S0ox,Sulfur cycling,Sulfur oxidation
+Element Cycling,#f9f9a5,S - S0ox,Sulfur cycling,Sulfur oxidation
+Element Cycling,#f9f9a5,S - S0ox,Sulfur cycling,Sulfur oxidation
+Element Cycling,#FBF7B3,S - S0red,Sulfur cycling,Sulfur reduction
+Element Cycling,#FBF7B3,S - S0red,Sulfur cycling,Sulfur reduction
+Element Cycling,#FBF7B3,S - S0red,Sulfur cycling,Sulfur reduction
+Element Cycling,#D9BB70,S - Thio ox,Sulfur cycling,Thiosulfate oxidation
+Element Cycling,#D9BB70,S - Thio ox,Sulfur cycling,Thiosulfate oxidation
+Element Cycling,#D9BB70,S - Thio ox,Sulfur cycling,Thiosulfate oxidation
+Element Cycling,#f4ea40,S - SO3red,Sulfur cycling,Sulfite reduction
+Element Cycling,#f4ea40,S - SO3red,Sulfur cycling,Sulfite reduction
+Element Cycling,#f4ea40,S - SO3red,Sulfur cycling,Sulfite reduction
+Element Cycling,#f7c23e,S - SO4red,Sulfur cycling,Sulfate reduction
+Element Cycling,#f7c23e,S - SO4red,Sulfur cycling,Sulfate reduction
+Element Cycling,#f7c23e,S - SO4red,Sulfur cycling,Sulfate reduction
+Element Cycling,#f7c23e,S - SO4red,Sulfur cycling,Sulfate reduction
+Element Cycling,#f4d98c,S - thio dis,Sulfur cycling,Thiosulfate disproportionation
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,FeFe hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,FeFe hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,FeFe hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,FeFe hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,FeFe hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,FeFe hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,FeFe hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,Fe hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,Ni-Fe Hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,Ni-Fe Hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,Ni-Fe Hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,Ni-Fe Hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,Ni-Fe Hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,Ni-Fe Hydrogenase
+Element Cycling,#787a78,Hydrogenase,Hydrogenases,Ni-Fe Hydrogenase
+Element Cycling,#C7ABD0,Oxidative phosphorylation,Oxidative phosphorylation,Complex I (NADH-quinone oxidoreductase)
+Element Cycling,#C7ABD0,Oxidative phosphorylation,Oxidative phosphorylation,Complex I (NADH-quinone oxidoreductase)
+Element Cycling,#C7ABD0,Oxidative phosphorylation,Oxidative phosphorylation,Complex I (NADH-quinone oxidoreductase)
+Element Cycling,#C7ABD0,Oxidative phosphorylation,Oxidative phosphorylation,Complex I (NAD(P)H-quinone oxidoreductase)
+Element Cycling,#C7ABD0,Oxidative phosphorylation,Oxidative phosphorylation,Complex I (NAD(P)H-quinone oxidoreductase)
+Element Cycling,#C7ABD0,Oxidative phosphorylation,Oxidative phosphorylation,Complex I (NAD(P)H-quinone oxidoreductase)
+Element Cycling,#AA81B8,Oxidative phosphorylation,Oxidative phosphorylation,Complex II (Succinate dehydrogenase/Fumarate reductase)
+Element Cycling,#AA81B8,Oxidative phosphorylation,Oxidative phosphorylation,Complex II (Succinate dehydrogenase/Fumarate reductase)
+Element Cycling,#8E57A1,Oxidative phosphorylation,Oxidative phosphorylation,Complex III (Cytochrome c reductase)
+Element Cycling,#8E57A1,Oxidative phosphorylation,Oxidative phosphorylation,Complex III (Cytochrome c reductase)
+Element Cycling,#8E57A1,Oxidative phosphorylation,Oxidative phosphorylation,Complex III (Cytochrome c reductase)
+Element Cycling,#722D89,Oxidative phosphorylation,Oxidative phosphorylation,Complex V (ATP synthase: V/A-type H+/Na+-transporting ATPase)
+Element Cycling,#722D89,Oxidative phosphorylation,Oxidative phosphorylation,Complex V (ATP synthase: V/A-type H+/Na+-transporting ATPase)
+Element Cycling,#722D89,Oxidative phosphorylation,Oxidative phosphorylation,Complex V (F-type H+-transporting ATPase)
+Element Cycling,#722D89,Oxidative phosphorylation,Oxidative phosphorylation,Complex V (F-type H+-transporting ATPase)
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome c oxidase, caa3-type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome c oxidase, caa3-type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome c oxidase, cbb3-type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome c oxidase, cbb3-type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome c oxidase, cbb3-type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome (quinone) oxidase, bo type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome (quinone) oxidase, bo type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome (quinone) oxidase, bo type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome (quinone) oxidase, bo type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome (quinone) oxidase, bd type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome (quinone) oxidase, bd type"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD"
+Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylation Complex IV),"Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD"
+Element Cycling,#FFB76E,Urea,Urea utilization,Urease
+Element Cycling,#FFB76E,Urea,Urea utilization,Urease
+Element Cycling,#FFB76E,Urea,Urea utilization,Urease
+Element Cycling,#4097FF,Halo,Halogenated compound utilization,Halogenated compounds breakdown
+Element Cycling,#4097FF,Halo,Halogenated compound utilization,Halogenated compounds breakdown
+Element Cycling,#4097FF,Halo,Halogenated compound utilization,Halogenated compounds breakdown
+Element Cycling,#4097FF,Halo,Halogenated compound utilization,Halogenated compounds breakdown
+Element Cycling,#4097FF,Halo,Perchlorate reduction,Perchlorate reduction
+Element Cycling,#4097FF,Halo,Perchlorate reduction,Perchlorate reduction
+Element Cycling,#4097FF,Halo,Chlorite reduction,Chlorite reduction
+Element Cycling,#E0C2A4,Metal - As,As cycling,Arsenite oxidation
+Element Cycling,#E0C2A4,Metal - As,As cycling,Arsenite oxidation
+Element Cycling,#E0C2A4,Metal - As,As cycling,Arsenate reduction
+Element Cycling,#E0C2A4,Metal - As,As cycling,Arsenate reduction
+Element Cycling,#C28649,Metal - Se,Selenate reduction,Selenate reduction
+Element Cycling,#C28649,Metal - Se,Selenate reduction,Selenate reduction
+Element Cycling,#C28649,Metal - Se,Selenate reduction,Selenate reduction
+remove,NA,remove,Nitrile hydration,Nitrile hydratase
+remove,NA,remove,Nitrile hydration,Nitrile hydratase
+Element Cycling,#B2671B,Metal - Fe/Mn,Metal reduction,Metal (Iron/Manganese) reduction
+Element Cycling,#B2671B,Metal - Fe/Mn,Metal reduction,Metal (Iron/Manganese) reduction
+remove,NA,remove,NA,NA
+ExtraSulfur,#f7c23e,S - SO4red,Sulfur cycling enzymes (detailed),Sulfate reduction
+ExtraSulfur,#f7c23e,S - SO4red,Sulfur cycling enzymes (detailed),Sulfate reduction
+ExtraSulfur,#f7c23e,S - SO4red,Sulfur cycling enzymes (detailed),Sulfate reduction
+ExtraSulfur,#f7c23e,S - SO4red,Sulfur cycling enzymes (detailed),Sulfate reduction
+ExtraSulfur,#f7c23e,S - SO4red,Sulfur cycling enzymes (detailed),Sulfate reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation/Sulfite reduction
+ExtraSulfur,#D9BB70,S - Thio ox,Sulfur cycling enzymes (detailed),Thiosulfate oxidation
+ExtraSulfur,#D9BB70,S - Thio ox,Sulfur cycling enzymes (detailed),Thiosulfate oxidation
+ExtraSulfur,#D9BB70,S - Thio ox,Sulfur cycling enzymes (detailed),Thiosulfate oxidation
+ExtraSulfur,#D9BB70,S - Thio ox,Sulfur cycling enzymes (detailed),Thiosulfate oxidation
+ExtraSulfur,#D9BB70,S - Thio ox,Sulfur cycling enzymes (detailed),Thiosulfate oxidation
+ExtraSulfur,#D9BB70,S - Thio ox,Sulfur cycling enzymes (detailed),Thiosulfate oxidation
+ExtraSulfur,#D9BB70,S - Thio ox,Sulfur cycling enzymes (detailed),Thiosulfate oxidation
+ExtraSulfur,#D9BB70,S - Thio ox,Sulfur cycling enzymes (detailed),Thiosulfate oxidation
+ExtraSulfur,#ffff5a,S - Sulfide ox,Sulfur cycling enzymes (detailed),Sulfide oxidation
+ExtraSulfur,#ffff5a,S - Sulfide ox,Sulfur cycling enzymes (detailed),Sulfide oxidation
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation
+ExtraSulfur,#f9f9a5,S - S0ox,Sulfur cycling enzymes (detailed),Sulfur oxidation
+ExtraSulfur,#FBF7B3,S - S0red,Sulfur cycling enzymes (detailed),Sulfate reduction
+ExtraSulfur,#FBF7B3,S - S0red,Sulfur cycling enzymes (detailed),Sulfate reduction
+ExtraSulfur,#FBF7B3,S - S0red,Sulfur cycling enzymes (detailed),Sulfate reduction
+ExtraSulfur,#FBF7B3,S - S0red,Sulfur cycling enzymes (detailed),Thiosulfate disproportionation

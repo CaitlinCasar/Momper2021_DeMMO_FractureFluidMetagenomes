@@ -1,0 +1,663 @@
+Planctomycetota	C-S-01:Organic carbon oxidation	0.0028656680835633
+Planctomycetota	C-S-05:Hydrogen generation	0.0028656680835633
+Planctomycetota	C-S-06:Fermentation	0.0028656680835633
+Planctomycetota	O-S-02:Arsenate reduction	0.0028656680835633
+Planctomycetota	S-S-06:Sulfite reduction	0.0028656680835633
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00620708576488209
+Bacteroidota	C-S-04:Acetate oxidation	0.00620708576488209
+Bacteroidota	C-S-05:Hydrogen generation	0.00620708576488209
+Bacteroidota	C-S-06:Fermentation	0.00620708576488209
+Bacteroidota	N-S-05:Nitrite reduction	0.00620708576488209
+Bacteroidota	N-S-06:Nitric oxide reduction	0.00620708576488209
+Bacteroidota	N-S-08:Nitrite ammonification	0.00620708576488209
+Bacteroidota	O-S-02:Arsenate reduction	0.00620708576488209
+Bacteroidota	S-S-03:Sulfur oxidation	0.00620708576488209
+Firmicutes_D	C-S-01:Organic carbon oxidation	0.0113048869285159
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00407284239373094
+Chloroflexota	C-S-04:Acetate oxidation	0.00407284239373094
+Chloroflexota	C-S-06:Fermentation	0.00407284239373094
+Chloroflexota	N-S-05:Nitrite reduction	0.00407284239373094
+Chloroflexota	N-S-08:Nitrite ammonification	0.00407284239373094
+Chloroflexota	O-S-02:Arsenate reduction	0.00407284239373094
+Chloroflexota	O-S-04:Selenate reduction	0.00407284239373094
+Chloroflexota	S-S-04:Sulfite oxidation	0.00407284239373094
+Chloroflexota	S-S-05:Sulfate reduction	0.00407284239373094
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00262575339108333
+Desulfobacterota	C-S-02:Carbon fixation	0.00262575339108333
+Desulfobacterota	C-S-04:Acetate oxidation	0.00262575339108333
+Desulfobacterota	C-S-06:Fermentation	0.00262575339108333
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.00262575339108333
+Desulfobacterota	N-S-04:Nitrate reduction	0.00262575339108333
+Desulfobacterota	N-S-06:Nitric oxide reduction	0.00262575339108333
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00262575339108333
+Desulfobacterota	O-S-04:Selenate reduction	0.00262575339108333
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00262575339108333
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00262575339108333
+Desulfobacterota	S-S-05:Sulfate reduction	0.00262575339108333
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.0177269529281643
+Desulfobacterota	C-S-02:Carbon fixation	0.0177269529281643
+Desulfobacterota	C-S-05:Hydrogen generation	0.0177269529281643
+Desulfobacterota	C-S-06:Fermentation	0.0177269529281643
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.0177269529281643
+Desulfobacterota	N-S-01:Nitrogen fixation	0.0177269529281643
+Desulfobacterota	N-S-08:Nitrite ammonification	0.0177269529281643
+Desulfobacterota	O-S-02:Arsenate reduction	0.0177269529281643
+Desulfobacterota	O-S-04:Selenate reduction	0.0177269529281643
+Desulfobacterota	S-S-03:Sulfur oxidation	0.0177269529281643
+Desulfobacterota	S-S-04:Sulfite oxidation	0.0177269529281643
+Desulfobacterota	S-S-05:Sulfate reduction	0.0177269529281643
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.0177269529281643
+Spirochaetota	C-S-01:Organic carbon oxidation	0.00718084596681781
+Spirochaetota	C-S-05:Hydrogen generation	0.00718084596681781
+Spirochaetota	C-S-06:Fermentation	0.00718084596681781
+Spirochaetota	N-S-08:Nitrite ammonification	0.00718084596681781
+Spirochaetota	O-S-02:Arsenate reduction	0.00718084596681781
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00613381930908008
+Chloroflexota	C-S-02:Carbon fixation	0.00613381930908008
+Chloroflexota	C-S-04:Acetate oxidation	0.00613381930908008
+Chloroflexota	C-S-06:Fermentation	0.00613381930908008
+Chloroflexota	N-S-04:Nitrate reduction	0.00613381930908008
+Chloroflexota	N-S-05:Nitrite reduction	0.00613381930908008
+Chloroflexota	N-S-08:Nitrite ammonification	0.00613381930908008
+Chloroflexota	O-S-02:Arsenate reduction	0.00613381930908008
+Chloroflexota	O-S-04:Selenate reduction	0.00613381930908008
+Chloroflexota	S-S-04:Sulfite oxidation	0.00613381930908008
+Chloroflexota	S-S-05:Sulfate reduction	0.00613381930908008
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00189328199521611
+Chloroflexota	C-S-05:Hydrogen generation	0.00189328199521611
+Chloroflexota	C-S-06:Fermentation	0.00189328199521611
+Chloroflexota	C-S-09:Hydrogen oxidation	0.00189328199521611
+Chloroflexota	O-S-02:Arsenate reduction	0.00189328199521611
+Chloroflexota	O-S-04:Selenate reduction	0.00189328199521611
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00418380828863802
+Desulfobacterota	C-S-02:Carbon fixation	0.00418380828863802
+Desulfobacterota	C-S-04:Acetate oxidation	0.00418380828863802
+Desulfobacterota	C-S-06:Fermentation	0.00418380828863802
+Desulfobacterota	C-S-08:Methanotrophy	0.00418380828863802
+Desulfobacterota	N-S-06:Nitric oxide reduction	0.00418380828863802
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00418380828863802
+Desulfobacterota	O-S-02:Arsenate reduction	0.00418380828863802
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00418380828863802
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00418380828863802
+Desulfobacterota	S-S-05:Sulfate reduction	0.00418380828863802
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.00418380828863802
+Desulfobacterota	S-S-09:Thiosulfate disproportionation 2	0.00418380828863802
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.0700530804286774
+Desulfobacterota	C-S-02:Carbon fixation	0.0700530804286774
+Desulfobacterota	C-S-06:Fermentation	0.0700530804286774
+Desulfobacterota	C-S-08:Methanotrophy	0.0700530804286774
+Desulfobacterota	N-S-05:Nitrite reduction	0.0700530804286774
+Desulfobacterota	N-S-06:Nitric oxide reduction	0.0700530804286774
+Desulfobacterota	N-S-08:Nitrite ammonification	0.0700530804286774
+Desulfobacterota	O-S-02:Arsenate reduction	0.0700530804286774
+Desulfobacterota	O-S-04:Selenate reduction	0.0700530804286774
+Desulfobacterota	S-S-03:Sulfur oxidation	0.0700530804286774
+Desulfobacterota	S-S-04:Sulfite oxidation	0.0700530804286774
+Desulfobacterota	S-S-05:Sulfate reduction	0.0700530804286774
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.0700530804286774
+Desulfobacterota	S-S-09:Thiosulfate disproportionation 2	0.0700530804286774
+Firmicutes_B	C-S-01:Organic carbon oxidation	0.0160982517334124
+Firmicutes_B	C-S-02:Carbon fixation	0.0160982517334124
+Firmicutes_B	C-S-04:Acetate oxidation	0.0160982517334124
+Firmicutes_B	C-S-05:Hydrogen generation	0.0160982517334124
+Firmicutes_B	C-S-06:Fermentation	0.0160982517334124
+Firmicutes_B	C-S-09:Hydrogen oxidation	0.0160982517334124
+Firmicutes_B	N-S-01:Nitrogen fixation	0.0160982517334124
+Firmicutes_B	S-S-03:Sulfur oxidation	0.0160982517334124
+Firmicutes_B	S-S-04:Sulfite oxidation	0.0160982517334124
+Firmicutes_B	S-S-05:Sulfate reduction	0.0160982517334124
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00784745707961298
+Bacteroidota	C-S-04:Acetate oxidation	0.00784745707961298
+Bacteroidota	C-S-05:Hydrogen generation	0.00784745707961298
+Bacteroidota	C-S-06:Fermentation	0.00784745707961298
+Bacteroidota	N-S-04:Nitrate reduction	0.00784745707961298
+Bacteroidota	N-S-06:Nitric oxide reduction	0.00784745707961298
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.00784745707961298
+Bacteroidota	N-S-08:Nitrite ammonification	0.00784745707961298
+Bacteroidota	O-S-02:Arsenate reduction	0.00784745707961298
+Bacteroidota	O-S-04:Selenate reduction	0.00784745707961298
+Bacteroidota	S-S-08:Thiosulfate disproportionation 1	0.00784745707961298
+Bacteroidota	S-S-09:Thiosulfate disproportionation 2	0.00784745707961298
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00147253263359589
+Desulfobacterota	C-S-02:Carbon fixation	0.00147253263359589
+Desulfobacterota	C-S-04:Acetate oxidation	0.00147253263359589
+Desulfobacterota	C-S-05:Hydrogen generation	0.00147253263359589
+Desulfobacterota	C-S-06:Fermentation	0.00147253263359589
+Desulfobacterota	N-S-05:Nitrite reduction	0.00147253263359589
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00147253263359589
+Desulfobacterota	O-S-01:Metal reduction	0.00147253263359589
+Desulfobacterota	O-S-02:Arsenate reduction	0.00147253263359589
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00147253263359589
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00147253263359589
+Desulfobacterota	S-S-05:Sulfate reduction	0.00147253263359589
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.00147253263359589
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00124346393287522
+Desulfobacterota	C-S-02:Carbon fixation	0.00124346393287522
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00124346393287522
+Desulfobacterota	O-S-02:Arsenate reduction	0.00124346393287522
+Desulfobacterota	O-S-04:Selenate reduction	0.00124346393287522
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00124346393287522
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00124346393287522
+Desulfobacterota	S-S-05:Sulfate reduction	0.00124346393287522
+Armatimonadota	C-S-01:Organic carbon oxidation	0.00184883665024502
+Armatimonadota	C-S-02:Carbon fixation	0.00184883665024502
+Armatimonadota	C-S-05:Hydrogen generation	0.00184883665024502
+Armatimonadota	C-S-06:Fermentation	0.00184883665024502
+Armatimonadota	O-S-02:Arsenate reduction	0.00184883665024502
+Armatimonadota	S-S-03:Sulfur oxidation	0.00184883665024502
+Armatimonadota	S-S-06:Sulfite reduction	0.00184883665024502
+Omnitrophota	C-S-01:Organic carbon oxidation	0.00209584599562839
+Omnitrophota	C-S-02:Carbon fixation	0.00209584599562839
+Omnitrophota	C-S-05:Hydrogen generation	0.00209584599562839
+Omnitrophota	C-S-06:Fermentation	0.00209584599562839
+Omnitrophota	O-S-02:Arsenate reduction	0.00209584599562839
+Omnitrophota	S-S-03:Sulfur oxidation	0.00209584599562839
+Firmicutes	C-S-01:Organic carbon oxidation	0.00122135693530505
+Firmicutes	C-S-02:Carbon fixation	0.00122135693530505
+Firmicutes	C-S-06:Fermentation	0.00122135693530505
+Firmicutes	C-S-08:Methanotrophy	0.00122135693530505
+Firmicutes	O-S-02:Arsenate reduction	0.00122135693530505
+Firmicutes	S-S-03:Sulfur oxidation	0.00122135693530505
+Firmicutes	S-S-08:Thiosulfate disproportionation 1	0.00122135693530505
+Firmicutes_D	C-S-01:Organic carbon oxidation	0.00498689997109373
+Firmicutes_D	C-S-02:Carbon fixation	0.00498689997109373
+Firmicutes_D	C-S-04:Acetate oxidation	0.00498689997109373
+Firmicutes_D	C-S-05:Hydrogen generation	0.00498689997109373
+Firmicutes_D	C-S-06:Fermentation	0.00498689997109373
+Firmicutes_D	C-S-09:Hydrogen oxidation	0.00498689997109373
+Firmicutes_D	O-S-02:Arsenate reduction	0.00498689997109373
+Firmicutes_D	S-S-03:Sulfur oxidation	0.00498689997109373
+Omnitrophota	C-S-01:Organic carbon oxidation	0.0282910398127995
+Omnitrophota	C-S-05:Hydrogen generation	0.0282910398127995
+Omnitrophota	C-S-06:Fermentation	0.0282910398127995
+Omnitrophota	O-S-02:Arsenate reduction	0.0282910398127995
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00253962343366619
+Chloroflexota	C-S-02:Carbon fixation	0.00253962343366619
+Chloroflexota	C-S-04:Acetate oxidation	0.00253962343366619
+Chloroflexota	C-S-06:Fermentation	0.00253962343366619
+Chloroflexota	N-S-05:Nitrite reduction	0.00253962343366619
+Chloroflexota	O-S-02:Arsenate reduction	0.00253962343366619
+Chloroflexota	O-S-04:Selenate reduction	0.00253962343366619
+Chloroflexota	S-S-04:Sulfite oxidation	0.00253962343366619
+Chloroflexota	S-S-05:Sulfate reduction	0.00253962343366619
+Bacteroidota	C-S-01:Organic carbon oxidation	0.0525679607443837
+Bacteroidota	C-S-04:Acetate oxidation	0.0525679607443837
+Bacteroidota	C-S-05:Hydrogen generation	0.0525679607443837
+Bacteroidota	C-S-06:Fermentation	0.0525679607443837
+Bacteroidota	N-S-04:Nitrate reduction	0.0525679607443837
+Bacteroidota	N-S-05:Nitrite reduction	0.0525679607443837
+Bacteroidota	N-S-08:Nitrite ammonification	0.0525679607443837
+Bacteroidota	O-S-02:Arsenate reduction	0.0525679607443837
+Bacteroidota	O-S-04:Selenate reduction	0.0525679607443837
+Bacteroidota	S-S-03:Sulfur oxidation	0.0525679607443837
+Bacteroidota	C-S-01:Organic carbon oxidation	0.0772728017540462
+Bacteroidota	C-S-05:Hydrogen generation	0.0772728017540462
+Bacteroidota	C-S-06:Fermentation	0.0772728017540462
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.0772728017540462
+Bacteroidota	N-S-08:Nitrite ammonification	0.0772728017540462
+Bacteroidota	O-S-02:Arsenate reduction	0.0772728017540462
+Bacteroidota	O-S-04:Selenate reduction	0.0772728017540462
+Bacteroidota	S-S-08:Thiosulfate disproportionation 1	0.0772728017540462
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00204311151013137
+Bacteroidota	C-S-04:Acetate oxidation	0.00204311151013137
+Bacteroidota	C-S-05:Hydrogen generation	0.00204311151013137
+Bacteroidota	C-S-06:Fermentation	0.00204311151013137
+Bacteroidota	N-S-06:Nitric oxide reduction	0.00204311151013137
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.00204311151013137
+Bacteroidota	N-S-08:Nitrite ammonification	0.00204311151013137
+Bacteroidota	O-S-02:Arsenate reduction	0.00204311151013137
+Bacteroidota	O-S-04:Selenate reduction	0.00204311151013137
+Bacteroidota	S-S-03:Sulfur oxidation	0.00204311151013137
+Bacteroidota	S-S-08:Thiosulfate disproportionation 1	0.00204311151013137
+Eremiobacterota	C-S-01:Organic carbon oxidation	0.00213097129119988
+Eremiobacterota	C-S-02:Carbon fixation	0.00213097129119988
+Eremiobacterota	C-S-05:Hydrogen generation	0.00213097129119988
+Eremiobacterota	C-S-06:Fermentation	0.00213097129119988
+Eremiobacterota	N-S-06:Nitric oxide reduction	0.00213097129119988
+Eremiobacterota	O-S-02:Arsenate reduction	0.00213097129119988
+Eremiobacterota	S-S-03:Sulfur oxidation	0.00213097129119988
+Eremiobacterota	S-S-04:Sulfite oxidation	0.00213097129119988
+Eremiobacterota	S-S-05:Sulfate reduction	0.00213097129119988
+UBP1	C-S-01:Organic carbon oxidation	0.049194924085655
+UBP1	C-S-04:Acetate oxidation	0.049194924085655
+UBP1	C-S-06:Fermentation	0.049194924085655
+UBP1	N-S-08:Nitrite ammonification	0.049194924085655
+UBP1	O-S-02:Arsenate reduction	0.049194924085655
+UBP1	O-S-04:Selenate reduction	0.049194924085655
+UBP1	S-S-03:Sulfur oxidation	0.049194924085655
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00474886918549952
+Desulfobacterota	C-S-02:Carbon fixation	0.00474886918549952
+Desulfobacterota	C-S-04:Acetate oxidation	0.00474886918549952
+Desulfobacterota	C-S-06:Fermentation	0.00474886918549952
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.00474886918549952
+Desulfobacterota	N-S-01:Nitrogen fixation	0.00474886918549952
+Desulfobacterota	N-S-04:Nitrate reduction	0.00474886918549952
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00474886918549952
+Desulfobacterota	O-S-02:Arsenate reduction	0.00474886918549952
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00474886918549952
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00714783064732706
+Chloroflexota	C-S-05:Hydrogen generation	0.00714783064732706
+Chloroflexota	C-S-06:Fermentation	0.00714783064732706
+Chloroflexota	O-S-02:Arsenate reduction	0.00714783064732706
+Chloroflexota	O-S-04:Selenate reduction	0.00714783064732706
+Firmicutes_D	C-S-01:Organic carbon oxidation	0.00255478060626652
+Firmicutes_D	C-S-02:Carbon fixation	0.00255478060626652
+Firmicutes_D	C-S-05:Hydrogen generation	0.00255478060626652
+Firmicutes_D	C-S-06:Fermentation	0.00255478060626652
+Firmicutes_D	C-S-09:Hydrogen oxidation	0.00255478060626652
+Firmicutes_D	O-S-02:Arsenate reduction	0.00255478060626652
+Firmicutes_D	S-S-03:Sulfur oxidation	0.00255478060626652
+Firmicutes_D	S-S-08:Thiosulfate disproportionation 1	0.00255478060626652
+Bacteroidota	C-S-01:Organic carbon oxidation	0.101069045734349
+Bacteroidota	C-S-05:Hydrogen generation	0.101069045734349
+Bacteroidota	C-S-06:Fermentation	0.101069045734349
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.101069045734349
+Bacteroidota	N-S-08:Nitrite ammonification	0.101069045734349
+Bacteroidota	O-S-02:Arsenate reduction	0.101069045734349
+Bacteroidota	S-S-03:Sulfur oxidation	0.101069045734349
+Bacteroidota	S-S-04:Sulfite oxidation	0.101069045734349
+Bacteroidota	S-S-05:Sulfate reduction	0.101069045734349
+Firmicutes_D	C-S-01:Organic carbon oxidation	0.0121649260186872
+Firmicutes_D	C-S-02:Carbon fixation	0.0121649260186872
+Firmicutes_D	C-S-06:Fermentation	0.0121649260186872
+Firmicutes_D	C-S-09:Hydrogen oxidation	0.0121649260186872
+Firmicutes_D	O-S-02:Arsenate reduction	0.0121649260186872
+Firmicutes_D	S-S-03:Sulfur oxidation	0.0121649260186872
+Firmicutes_D	S-S-08:Thiosulfate disproportionation 1	0.0121649260186872
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00116185496697486
+Chloroflexota	C-S-02:Carbon fixation	0.00116185496697486
+Chloroflexota	C-S-04:Acetate oxidation	0.00116185496697486
+Chloroflexota	C-S-06:Fermentation	0.00116185496697486
+Chloroflexota	N-S-04:Nitrate reduction	0.00116185496697486
+Chloroflexota	N-S-08:Nitrite ammonification	0.00116185496697486
+Chloroflexota	O-S-02:Arsenate reduction	0.00116185496697486
+Chloroflexota	S-S-09:Thiosulfate disproportionation 2	0.00116185496697486
+Patescibacteria	C-S-01:Organic carbon oxidation	0.00622166396045378
+Patescibacteria	C-S-01:Organic carbon oxidation	0.0253157848028455
+Patescibacteria	C-S-06:Fermentation	0.0253157848028455
+OLB16	C-S-01:Organic carbon oxidation	0.00207088611618325
+OLB16	C-S-04:Acetate oxidation	0.00207088611618325
+OLB16	C-S-05:Hydrogen generation	0.00207088611618325
+OLB16	C-S-06:Fermentation	0.00207088611618325
+OLB16	C-S-09:Hydrogen oxidation	0.00207088611618325
+OLB16	O-S-01:Metal reduction	0.00207088611618325
+OLB16	O-S-02:Arsenate reduction	0.00207088611618325
+OLB16	S-S-03:Sulfur oxidation	0.00207088611618325
+OLB16	S-S-04:Sulfite oxidation	0.00207088611618325
+OLB16	S-S-05:Sulfate reduction	0.00207088611618325
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.000866032423331827
+Desulfobacterota	C-S-02:Carbon fixation	0.000866032423331827
+Desulfobacterota	C-S-04:Acetate oxidation	0.000866032423331827
+Desulfobacterota	C-S-06:Fermentation	0.000866032423331827
+Desulfobacterota	N-S-08:Nitrite ammonification	0.000866032423331827
+Desulfobacterota	O-S-04:Selenate reduction	0.000866032423331827
+Desulfobacterota	S-S-03:Sulfur oxidation	0.000866032423331827
+Desulfobacterota	S-S-04:Sulfite oxidation	0.000866032423331827
+Desulfobacterota	S-S-05:Sulfate reduction	0.000866032423331827
+Gemmatimonadota	C-S-01:Organic carbon oxidation	0.00175482916878146
+Gemmatimonadota	C-S-06:Fermentation	0.00175482916878146
+Gemmatimonadota	N-S-05:Nitrite reduction	0.00175482916878146
+Gemmatimonadota	N-S-06:Nitric oxide reduction	0.00175482916878146
+Gemmatimonadota	N-S-08:Nitrite ammonification	0.00175482916878146
+Gemmatimonadota	O-S-02:Arsenate reduction	0.00175482916878146
+Gemmatimonadota	O-S-04:Selenate reduction	0.00175482916878146
+Gemmatimonadota	S-S-03:Sulfur oxidation	0.00175482916878146
+Gemmatimonadota	S-S-04:Sulfite oxidation	0.00175482916878146
+Gemmatimonadota	S-S-05:Sulfate reduction	0.00175482916878146
+Chloroflexota	C-S-01:Organic carbon oxidation	0.0020215200663364
+Chloroflexota	C-S-02:Carbon fixation	0.0020215200663364
+Chloroflexota	C-S-04:Acetate oxidation	0.0020215200663364
+Chloroflexota	C-S-05:Hydrogen generation	0.0020215200663364
+Chloroflexota	C-S-06:Fermentation	0.0020215200663364
+Chloroflexota	N-S-04:Nitrate reduction	0.0020215200663364
+Chloroflexota	N-S-05:Nitrite reduction	0.0020215200663364
+Chloroflexota	N-S-08:Nitrite ammonification	0.0020215200663364
+Chloroflexota	O-S-02:Arsenate reduction	0.0020215200663364
+Chloroflexota	O-S-04:Selenate reduction	0.0020215200663364
+Chloroflexota	S-S-03:Sulfur oxidation	0.0020215200663364
+Chloroflexota	S-S-04:Sulfite oxidation	0.0020215200663364
+Chloroflexota	S-S-05:Sulfate reduction	0.0020215200663364
+Patescibacteria	C-S-01:Organic carbon oxidation	0.00169100481376737
+Chloroflexota	C-S-01:Organic carbon oxidation	0.0166143992583913
+Chloroflexota	C-S-06:Fermentation	0.0166143992583913
+Chloroflexota	N-S-05:Nitrite reduction	0.0166143992583913
+Chloroflexota	N-S-08:Nitrite ammonification	0.0166143992583913
+Chloroflexota	O-S-02:Arsenate reduction	0.0166143992583913
+Chloroflexota	S-S-04:Sulfite oxidation	0.0166143992583913
+Chloroflexota	S-S-05:Sulfate reduction	0.0166143992583913
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00445685748841758
+Chloroflexota	C-S-06:Fermentation	0.00445685748841758
+Chloroflexota	C-S-09:Hydrogen oxidation	0.00445685748841758
+Chloroflexota	O-S-02:Arsenate reduction	0.00445685748841758
+Chloroflexota	O-S-04:Selenate reduction	0.00445685748841758
+Patescibacteria	C-S-01:Organic carbon oxidation	0.00133693896017052
+Patescibacteria	C-S-06:Fermentation	0.00133693896017052
+Zixibacteria	C-S-01:Organic carbon oxidation	0.000847262183264476
+Zixibacteria	C-S-02:Carbon fixation	0.000847262183264476
+Zixibacteria	C-S-06:Fermentation	0.000847262183264476
+Zixibacteria	N-S-06:Nitric oxide reduction	0.000847262183264476
+Zixibacteria	S-S-03:Sulfur oxidation	0.000847262183264476
+Zixibacteria	S-S-04:Sulfite oxidation	0.000847262183264476
+Zixibacteria	S-S-05:Sulfate reduction	0.000847262183264476
+Zixibacteria	S-S-09:Thiosulfate disproportionation 2	0.000847262183264476
+Firmicutes_B	C-S-01:Organic carbon oxidation	0.000895490839004697
+Firmicutes_B	C-S-02:Carbon fixation	0.000895490839004697
+Firmicutes_B	C-S-06:Fermentation	0.000895490839004697
+Firmicutes_B	N-S-01:Nitrogen fixation	0.000895490839004697
+Firmicutes_B	O-S-04:Selenate reduction	0.000895490839004697
+Firmicutes_B	S-S-04:Sulfite oxidation	0.000895490839004697
+Firmicutes_B	S-S-05:Sulfate reduction	0.000895490839004697
+Firmicutes_B	S-S-08:Thiosulfate disproportionation 1	0.000895490839004697
+UBA3054	C-S-01:Organic carbon oxidation	0.00226910805737001
+UBA3054	C-S-05:Hydrogen generation	0.00226910805737001
+UBA3054	C-S-06:Fermentation	0.00226910805737001
+UBA3054	O-S-02:Arsenate reduction	0.00226910805737001
+UBA3054	S-S-03:Sulfur oxidation	0.00226910805737001
+Patescibacteria	C-S-01:Organic carbon oxidation	0.0216308450542526
+Patescibacteria	C-S-06:Fermentation	0.0216308450542526
+Patescibacteria	S-S-03:Sulfur oxidation	0.0216308450542526
+Firmicutes_E	C-S-01:Organic carbon oxidation	0.0028406229486258
+Firmicutes_E	C-S-02:Carbon fixation	0.0028406229486258
+Myxococcota	C-S-01:Organic carbon oxidation	0.00683370000872555
+Myxococcota	C-S-02:Carbon fixation	0.00683370000872555
+Myxococcota	C-S-04:Acetate oxidation	0.00683370000872555
+Myxococcota	C-S-05:Hydrogen generation	0.00683370000872555
+Myxococcota	C-S-06:Fermentation	0.00683370000872555
+Myxococcota	C-S-08:Methanotrophy	0.00683370000872555
+Myxococcota	N-S-04:Nitrate reduction	0.00683370000872555
+Myxococcota	N-S-05:Nitrite reduction	0.00683370000872555
+Myxococcota	N-S-06:Nitric oxide reduction	0.00683370000872555
+Myxococcota	O-S-04:Selenate reduction	0.00683370000872555
+Myxococcota	S-S-01:Sulfide oxidation	0.00683370000872555
+Myxococcota	S-S-03:Sulfur oxidation	0.00683370000872555
+Myxococcota	S-S-04:Sulfite oxidation	0.00683370000872555
+Myxococcota	S-S-05:Sulfate reduction	0.00683370000872555
+Myxococcota	S-S-08:Thiosulfate disproportionation 1	0.00683370000872555
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00100771897224201
+Gammaproteobacteria	C-S-02:Carbon fixation	0.00100771897224201
+Gammaproteobacteria	C-S-06:Fermentation	0.00100771897224201
+Gammaproteobacteria	N-S-01:Nitrogen fixation	0.00100771897224201
+Gammaproteobacteria	N-S-06:Nitric oxide reduction	0.00100771897224201
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.00100771897224201
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.00100771897224201
+Gammaproteobacteria	S-S-01:Sulfide oxidation	0.00100771897224201
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.00100771897224201
+Gammaproteobacteria	S-S-04:Sulfite oxidation	0.00100771897224201
+Gammaproteobacteria	S-S-05:Sulfate reduction	0.00100771897224201
+Gammaproteobacteria	S-S-09:Thiosulfate disproportionation 2	0.00100771897224201
+Bacteroidota	C-S-01:Organic carbon oxidation	0.000813938336128634
+Bacteroidota	C-S-04:Acetate oxidation	0.000813938336128634
+Bacteroidota	C-S-05:Hydrogen generation	0.000813938336128634
+Bacteroidota	C-S-06:Fermentation	0.000813938336128634
+Bacteroidota	N-S-05:Nitrite reduction	0.000813938336128634
+Bacteroidota	N-S-06:Nitric oxide reduction	0.000813938336128634
+Bacteroidota	N-S-08:Nitrite ammonification	0.000813938336128634
+Bacteroidota	O-S-02:Arsenate reduction	0.000813938336128634
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00166229721487047
+Chloroflexota	C-S-02:Carbon fixation	0.00166229721487047
+Chloroflexota	C-S-04:Acetate oxidation	0.00166229721487047
+Chloroflexota	C-S-06:Fermentation	0.00166229721487047
+Chloroflexota	N-S-06:Nitric oxide reduction	0.00166229721487047
+Chloroflexota	N-S-08:Nitrite ammonification	0.00166229721487047
+Chloroflexota	O-S-02:Arsenate reduction	0.00166229721487047
+Chloroflexota	O-S-04:Selenate reduction	0.00166229721487047
+Chloroflexota	S-S-03:Sulfur oxidation	0.00166229721487047
+Chloroflexota	S-S-04:Sulfite oxidation	0.00166229721487047
+Chloroflexota	S-S-05:Sulfate reduction	0.00166229721487047
+Patescibacteria	C-S-01:Organic carbon oxidation	0.00837589744154995
+Planctomycetota	C-S-01:Organic carbon oxidation	0.00437770335096701
+Planctomycetota	C-S-02:Carbon fixation	0.00437770335096701
+Planctomycetota	C-S-04:Acetate oxidation	0.00437770335096701
+Planctomycetota	C-S-05:Hydrogen generation	0.00437770335096701
+Planctomycetota	C-S-06:Fermentation	0.00437770335096701
+Planctomycetota	C-S-09:Hydrogen oxidation	0.00437770335096701
+Planctomycetota	N-S-05:Nitrite reduction	0.00437770335096701
+Patescibacteria	C-S-01:Organic carbon oxidation	0.00900686904545305
+Patescibacteria	C-S-08:Methanotrophy	0.00900686904545305
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00199239889635334
+Desulfobacterota	C-S-02:Carbon fixation	0.00199239889635334
+Desulfobacterota	C-S-04:Acetate oxidation	0.00199239889635334
+Desulfobacterota	C-S-05:Hydrogen generation	0.00199239889635334
+Desulfobacterota	C-S-06:Fermentation	0.00199239889635334
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.00199239889635334
+Desulfobacterota	N-S-04:Nitrate reduction	0.00199239889635334
+Desulfobacterota	N-S-05:Nitrite reduction	0.00199239889635334
+Desulfobacterota	N-S-06:Nitric oxide reduction	0.00199239889635334
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00199239889635334
+Desulfobacterota	O-S-02:Arsenate reduction	0.00199239889635334
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00199239889635334
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00199239889635334
+Desulfobacterota	S-S-05:Sulfate reduction	0.00199239889635334
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.00199239889635334
+Chloroflexota	C-S-01:Organic carbon oxidation	0.0114138484183018
+Chloroflexota	N-S-05:Nitrite reduction	0.0114138484183018
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00154895264334129
+Chloroflexota	C-S-02:Carbon fixation	0.00154895264334129
+Chloroflexota	N-S-05:Nitrite reduction	0.00154895264334129
+Chloroflexota	N-S-07:Nitrous oxide reduction	0.00154895264334129
+Chloroflexota	N-S-08:Nitrite ammonification	0.00154895264334129
+Firmicutes_E	C-S-01:Organic carbon oxidation	0.00318252446428627
+Firmicutes_E	C-S-02:Carbon fixation	0.00318252446428627
+Firmicutes_E	C-S-05:Hydrogen generation	0.00318252446428627
+Firmicutes_E	C-S-06:Fermentation	0.00318252446428627
+Firmicutes_E	O-S-02:Arsenate reduction	0.00318252446428627
+Firmicutes_E	O-S-04:Selenate reduction	0.00318252446428627
+Firmicutes_E	S-S-03:Sulfur oxidation	0.00318252446428627
+Firmicutes_E	S-S-08:Thiosulfate disproportionation 1	0.00318252446428627
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.000865436772464907
+Desulfobacterota	C-S-02:Carbon fixation	0.000865436772464907
+Desulfobacterota	C-S-06:Fermentation	0.000865436772464907
+Desulfobacterota	N-S-05:Nitrite reduction	0.000865436772464907
+Desulfobacterota	N-S-06:Nitric oxide reduction	0.000865436772464907
+Desulfobacterota	N-S-08:Nitrite ammonification	0.000865436772464907
+Desulfobacterota	S-S-03:Sulfur oxidation	0.000865436772464907
+Desulfobacterota	S-S-04:Sulfite oxidation	0.000865436772464907
+Desulfobacterota	S-S-05:Sulfate reduction	0.000865436772464907
+Elusimicrobiota	C-S-01:Organic carbon oxidation	0.00141249629124607
+Elusimicrobiota	C-S-02:Carbon fixation	0.00141249629124607
+Elusimicrobiota	C-S-06:Fermentation	0.00141249629124607
+Elusimicrobiota	N-S-08:Nitrite ammonification	0.00141249629124607
+Elusimicrobiota	O-S-02:Arsenate reduction	0.00141249629124607
+Elusimicrobiota	O-S-04:Selenate reduction	0.00141249629124607
+Elusimicrobiota	S-S-03:Sulfur oxidation	0.00141249629124607
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00413759259482597
+Chloroflexota	C-S-06:Fermentation	0.00413759259482597
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00191064741281682
+Desulfobacterota	C-S-02:Carbon fixation	0.00191064741281682
+Desulfobacterota	C-S-05:Hydrogen generation	0.00191064741281682
+Desulfobacterota	C-S-06:Fermentation	0.00191064741281682
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.00191064741281682
+Desulfobacterota	N-S-05:Nitrite reduction	0.00191064741281682
+Desulfobacterota	N-S-06:Nitric oxide reduction	0.00191064741281682
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00191064741281682
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00191064741281682
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00191064741281682
+Desulfobacterota	S-S-05:Sulfate reduction	0.00191064741281682
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00553327107626124
+Desulfobacterota	C-S-02:Carbon fixation	0.00553327107626124
+Desulfobacterota	C-S-04:Acetate oxidation	0.00553327107626124
+Desulfobacterota	C-S-06:Fermentation	0.00553327107626124
+Desulfobacterota	C-S-08:Methanotrophy	0.00553327107626124
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.00553327107626124
+Desulfobacterota	N-S-01:Nitrogen fixation	0.00553327107626124
+Desulfobacterota	N-S-04:Nitrate reduction	0.00553327107626124
+Desulfobacterota	N-S-05:Nitrite reduction	0.00553327107626124
+Desulfobacterota	O-S-02:Arsenate reduction	0.00553327107626124
+Desulfobacterota	S-S-01:Sulfide oxidation	0.00553327107626124
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00553327107626124
+Desulfobacterota	S-S-05:Sulfate reduction	0.00553327107626124
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.00553327107626124
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00125456139905342
+Chloroflexota	N-S-04:Nitrate reduction	0.00125456139905342
+Chloroflexota	N-S-08:Nitrite ammonification	0.00125456139905342
+Chloroflexota	O-S-04:Selenate reduction	0.00125456139905342
+Firmicutes	C-S-01:Organic carbon oxidation	0.0100737840340794
+Firmicutes	C-S-05:Hydrogen generation	0.0100737840340794
+Firmicutes	C-S-06:Fermentation	0.0100737840340794
+Firmicutes	O-S-02:Arsenate reduction	0.0100737840340794
+Firmicutes	O-S-04:Selenate reduction	0.0100737840340794
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00583023017110826
+Chloroflexota	C-S-02:Carbon fixation	0.00583023017110826
+Chloroflexota	C-S-04:Acetate oxidation	0.00583023017110826
+Chloroflexota	C-S-06:Fermentation	0.00583023017110826
+Chloroflexota	N-S-05:Nitrite reduction	0.00583023017110826
+Chloroflexota	O-S-02:Arsenate reduction	0.00583023017110826
+Chloroflexota	S-S-03:Sulfur oxidation	0.00583023017110826
+Chloroflexota	S-S-04:Sulfite oxidation	0.00583023017110826
+Chloroflexota	S-S-05:Sulfate reduction	0.00583023017110826
+Firmicutes_E	C-S-01:Organic carbon oxidation	0.00157152837807987
+Firmicutes_E	C-S-02:Carbon fixation	0.00157152837807987
+Firmicutes_E	C-S-06:Fermentation	0.00157152837807987
+Firmicutes_E	S-S-03:Sulfur oxidation	0.00157152837807987
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.000828937392404112
+Desulfobacterota	C-S-06:Fermentation	0.000828937392404112
+Desulfobacterota	S-S-04:Sulfite oxidation	0.000828937392404112
+Desulfobacterota	S-S-05:Sulfate reduction	0.000828937392404112
+Planctomycetota	C-S-01:Organic carbon oxidation	0.000829754427120426
+Planctomycetota	C-S-02:Carbon fixation	0.000829754427120426
+Planctomycetota	C-S-04:Acetate oxidation	0.000829754427120426
+Planctomycetota	C-S-06:Fermentation	0.000829754427120426
+Planctomycetota	N-S-03:Nitrite oxidation	0.000829754427120426
+Planctomycetota	N-S-05:Nitrite reduction	0.000829754427120426
+Planctomycetota	N-S-06:Nitric oxide reduction	0.000829754427120426
+Planctomycetota	N-S-08:Nitrite ammonification	0.000829754427120426
+Planctomycetota	O-S-02:Arsenate reduction	0.000829754427120426
+Planctomycetota	S-S-03:Sulfur oxidation	0.000829754427120426
+Chloroflexota	C-S-01:Organic carbon oxidation	0.000920970715108675
+Chloroflexota	C-S-06:Fermentation	0.000920970715108675
+Chloroflexota	S-S-03:Sulfur oxidation	0.000920970715108675
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00104594404067759
+Desulfobacterota	C-S-06:Fermentation	0.00104594404067759
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.00104594404067759
+Desulfobacterota	N-S-01:Nitrogen fixation	0.00104594404067759
+Desulfobacterota	N-S-05:Nitrite reduction	0.00104594404067759
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00104594404067759
+Desulfobacterota	O-S-02:Arsenate reduction	0.00104594404067759
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00104594404067759
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00104594404067759
+Desulfobacterota	S-S-05:Sulfate reduction	0.00104594404067759
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.00104594404067759
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.007535942015761
+Desulfobacterota	C-S-02:Carbon fixation	0.007535942015761
+Desulfobacterota	C-S-04:Acetate oxidation	0.007535942015761
+Desulfobacterota	C-S-06:Fermentation	0.007535942015761
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.007535942015761
+Desulfobacterota	N-S-01:Nitrogen fixation	0.007535942015761
+Desulfobacterota	N-S-04:Nitrate reduction	0.007535942015761
+Desulfobacterota	N-S-08:Nitrite ammonification	0.007535942015761
+Desulfobacterota	O-S-02:Arsenate reduction	0.007535942015761
+Desulfobacterota	S-S-03:Sulfur oxidation	0.007535942015761
+Desulfobacterota	S-S-04:Sulfite oxidation	0.007535942015761
+Desulfobacterota	S-S-05:Sulfate reduction	0.007535942015761
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.007535942015761
+Actinobacteriota	C-S-01:Organic carbon oxidation	0.00262631424451494
+Actinobacteriota	C-S-02:Carbon fixation	0.00262631424451494
+Actinobacteriota	C-S-04:Acetate oxidation	0.00262631424451494
+Actinobacteriota	C-S-06:Fermentation	0.00262631424451494
+Actinobacteriota	C-S-08:Methanotrophy	0.00262631424451494
+Actinobacteriota	C-S-09:Hydrogen oxidation	0.00262631424451494
+Firmicutes_E	C-S-01:Organic carbon oxidation	0.000745269424400647
+Firmicutes_E	C-S-02:Carbon fixation	0.000745269424400647
+Firmicutes_E	C-S-06:Fermentation	0.000745269424400647
+Bipolaricaulota	C-S-01:Organic carbon oxidation	0.109161717962948
+Bipolaricaulota	C-S-02:Carbon fixation	0.109161717962948
+Bipolaricaulota	C-S-06:Fermentation	0.109161717962948
+Bipolaricaulota	O-S-04:Selenate reduction	0.109161717962948
+Firmicutes_B	C-S-01:Organic carbon oxidation	0.00114257249805315
+Firmicutes_B	C-S-02:Carbon fixation	0.00114257249805315
+Firmicutes_B	C-S-05:Hydrogen generation	0.00114257249805315
+Firmicutes_B	C-S-06:Fermentation	0.00114257249805315
+Firmicutes_B	C-S-09:Hydrogen oxidation	0.00114257249805315
+Firmicutes_B	N-S-08:Nitrite ammonification	0.00114257249805315
+Chloroflexota	C-S-01:Organic carbon oxidation	0.000922395316955469
+Chloroflexota	C-S-06:Fermentation	0.000922395316955469
+Chloroflexota	O-S-04:Selenate reduction	0.000922395316955469
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00282510442606147
+Desulfobacterota	C-S-02:Carbon fixation	0.00282510442606147
+Desulfobacterota	C-S-04:Acetate oxidation	0.00282510442606147
+Desulfobacterota	C-S-06:Fermentation	0.00282510442606147
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.00282510442606147
+Desulfobacterota	N-S-06:Nitric oxide reduction	0.00282510442606147
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00282510442606147
+Desulfobacterota	O-S-02:Arsenate reduction	0.00282510442606147
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00282510442606147
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00282510442606147
+Desulfobacterota	S-S-05:Sulfate reduction	0.00282510442606147
+Desulfobacterota	S-S-08:Thiosulfate disproportionation 1	0.00282510442606147
+Chloroflexota	C-S-01:Organic carbon oxidation	0.0238378011684571
+Chloroflexota	C-S-02:Carbon fixation	0.0238378011684571
+Chloroflexota	O-S-02:Arsenate reduction	0.0238378011684571
+Chloroflexota	S-S-03:Sulfur oxidation	0.0238378011684571
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00133887708788121
+Bacteroidota	C-S-04:Acetate oxidation	0.00133887708788121
+Bacteroidota	C-S-06:Fermentation	0.00133887708788121
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.00133887708788121
+Bacteroidota	N-S-08:Nitrite ammonification	0.00133887708788121
+Bacteroidota	O-S-02:Arsenate reduction	0.00133887708788121
+Chloroflexota	C-S-01:Organic carbon oxidation	0.000767876367943912
+Chloroflexota	C-S-02:Carbon fixation	0.000767876367943912
+Chloroflexota	C-S-06:Fermentation	0.000767876367943912
+Firmicutes_E	C-S-01:Organic carbon oxidation	0.0018083285511989
+Firmicutes_E	C-S-05:Hydrogen generation	0.0018083285511989
+Firmicutes_E	C-S-06:Fermentation	0.0018083285511989
+Firmicutes_E	C-S-09:Hydrogen oxidation	0.0018083285511989
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00124619521797476
+Chloroflexota	C-S-02:Carbon fixation	0.00124619521797476
+Chloroflexota	C-S-06:Fermentation	0.00124619521797476
+Chloroflexota	N-S-03:Nitrite oxidation	0.00124619521797476
+Chloroflexota	N-S-04:Nitrate reduction	0.00124619521797476
+Chloroflexota	N-S-08:Nitrite ammonification	0.00124619521797476
+Chloroflexota	S-S-03:Sulfur oxidation	0.00124619521797476
+Chloroflexota	S-S-04:Sulfite oxidation	0.00124619521797476
+Chloroflexota	S-S-05:Sulfate reduction	0.00124619521797476
+Bacteroidota	C-S-01:Organic carbon oxidation	0.0088287468237845
+Bacteroidota	C-S-04:Acetate oxidation	0.0088287468237845
+Bacteroidota	C-S-05:Hydrogen generation	0.0088287468237845
+Bacteroidota	C-S-06:Fermentation	0.0088287468237845
+Bacteroidota	C-S-08:Methanotrophy	0.0088287468237845
+Bacteroidota	C-S-09:Hydrogen oxidation	0.0088287468237845
+Bacteroidota	N-S-05:Nitrite reduction	0.0088287468237845
+Bacteroidota	N-S-06:Nitric oxide reduction	0.0088287468237845
+Bacteroidota	N-S-08:Nitrite ammonification	0.0088287468237845
+Bacteroidota	O-S-02:Arsenate reduction	0.0088287468237845
+Bacteroidota	S-S-01:Sulfide oxidation	0.0088287468237845
+Bacteroidota	S-S-08:Thiosulfate disproportionation 1	0.0088287468237845
+Deferrisomatota	C-S-01:Organic carbon oxidation	0.00367208212056411
+Deferrisomatota	C-S-02:Carbon fixation	0.00367208212056411
+Deferrisomatota	C-S-06:Fermentation	0.00367208212056411
+Deferrisomatota	N-S-08:Nitrite ammonification	0.00367208212056411
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00744567271340626
+Desulfobacterota	C-S-02:Carbon fixation	0.00744567271340626
+Desulfobacterota	N-S-06:Nitric oxide reduction	0.00744567271340626
+Desulfobacterota	O-S-02:Arsenate reduction	0.00744567271340626
+Desulfobacterota	S-S-03:Sulfur oxidation	0.00744567271340626
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.0038351960870941
+Desulfobacterota	C-S-02:Carbon fixation	0.0038351960870941
+Desulfobacterota	C-S-04:Acetate oxidation	0.0038351960870941
+Desulfobacterota	C-S-06:Fermentation	0.0038351960870941
+Desulfobacterota	C-S-09:Hydrogen oxidation	0.0038351960870941
+Desulfobacterota	N-S-01:Nitrogen fixation	0.0038351960870941
+Desulfobacterota	O-S-02:Arsenate reduction	0.0038351960870941
+Desulfobacterota	S-S-04:Sulfite oxidation	0.0038351960870941
+Desulfobacterota	S-S-05:Sulfate reduction	0.0038351960870941
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00201236606362727
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.00550451960408883
+Desulfobacterota	C-S-02:Carbon fixation	0.00550451960408883
+Desulfobacterota	C-S-06:Fermentation	0.00550451960408883
+Desulfobacterota	C-S-08:Methanotrophy	0.00550451960408883
+Desulfobacterota	N-S-08:Nitrite ammonification	0.00550451960408883
+Desulfobacterota	S-S-04:Sulfite oxidation	0.00550451960408883
+Desulfobacterota	S-S-05:Sulfate reduction	0.00550451960408883
+Desulfobacterota	C-S-01:Organic carbon oxidation	0.000766013212665607
+Desulfobacterota	C-S-04:Acetate oxidation	0.000766013212665607
+Desulfobacterota	C-S-06:Fermentation	0.000766013212665607
+Desulfobacterota	C-S-08:Methanotrophy	0.000766013212665607
+Desulfobacterota	O-S-02:Arsenate reduction	0.000766013212665607
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00111981630456978
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00468348691166233
+Chloroflexota	C-S-01:Organic carbon oxidation	0.000806681131484908
+Chloroflexota	N-S-08:Nitrite ammonification	0.000806681131484908
+Chloroflexota	C-S-01:Organic carbon oxidation	0.0174847469016305
+Chloroflexota	C-S-02:Carbon fixation	0.0174847469016305
+Chloroflexota	C-S-06:Fermentation	0.0174847469016305
+Chloroflexota	N-S-05:Nitrite reduction	0.0174847469016305

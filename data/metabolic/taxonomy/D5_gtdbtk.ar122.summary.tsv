@@ -1,0 +1,7 @@
+user_genome	classification	fastani_reference	fastani_taxonomy	fastani_ani	fastani_af	closest_placement_reference	closest_placement_taxonomy	closest_placement_ani	closest_placement_af	classification_method	note	other_related_references(genome_id,species_name,ANI,AF)
+DeMMO5_51	d__Archaea;p__JdFR-18;c__JdFR-18;o__JdFR-18;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO5_44	d__Archaea;p__JdFR-18;c__JdFR-18;o__JdFR-18;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO5_50	d__Archaea;p__Hadesarchaeota;c__YNP-45;o__YNP-45;f__YNP-45;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO5_54	d__Archaea;p__Thermoplasmatota;c__CG49143;o__CG49143;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO5_17	d__Archaea;p__Thermoplasmatota;c__Thermoplasmata_A;o__UBA10834;f__UBA10834;g__COMBO-56-21;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO5_32	d__Archaea;p__Halobacterota;c__Methanosarcinia;o__Methanosarcinales;f__Methanoperedenaceae;g__Methanoperedens;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None

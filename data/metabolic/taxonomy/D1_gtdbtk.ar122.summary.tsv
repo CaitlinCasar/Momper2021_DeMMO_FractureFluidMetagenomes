@@ -1,0 +1,5 @@
+user_genome	classification	fastani_reference	fastani_taxonomy	fastani_ani	fastani_af	closest_placement_reference	closest_placement_taxonomy	closest_placement_ani	closest_placement_af	classification_method	note	other_related_references(genome_id,species_name,ANI,AF)
+DeMMO1_8	d__Archaea;p__Nanoarchaeota;c__Woesearchaeia;o__Pacearchaeales;f__CG1-02-32-21;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO1_7	d__Archaea;p__Nanoarchaeota;c__Woesearchaeia;o__UBA10200;f__UBA10200;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO1_25	d__Archaea;p__Micrarchaeota;c__Micrarchaeia;o__UBA10214;f__UBA10161;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO1_24	d__Archaea;p__Euryarchaeota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__UBA349;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None

@@ -1,0 +1,100 @@
+user_genome	classification	fastani_reference	fastani_taxonomy	fastani_ani	fastani_af	closest_placement_reference	closest_placement_taxonomy	closest_placement_ani	closest_placement_af	classification_method	note	other_related_references(genome_id,species_name,ANI,AF)
+DeMMO6_31	d__Bacteria;p__UBP1;c__PRR-12;o__SSS58A;f__SSS58A;g__SSS58A;s__GCA_002403075.1	GCA_002403075.1	d__Bacteria;p__UBP1;c__PRR-12;o__SSS58A;f__SSS58A;g__SSS58A;s__	95.11	0.82	GCA_002403075.1	d__Bacteria;p__UBP1;c__PRR-12;o__SSS58A;f__SSS58A;g__SSS58A;s__	95.11	0.82	ANI/Placement	topological placement and ANI have congruent species assignments	
+DeMMO6_66	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA6170;s__UBA6170 sp1	GCA_002840735.1	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA6170;s__UBA6170 sp1	97.65	0.83	GCA_002840735.1	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA6170;s__UBA6170 sp1	97.65	0.83	ANI/Placement	topological placement and ANI have congruent species assignments	
+DeMMO6_37	d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__Dehalococcoidales;f__UBA3254;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_85	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_70	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_15	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__OLB14;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_11	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__UBA8950;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_16	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_96	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_69	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_60	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA6170;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_33	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA8523;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_87	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA8523;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_83	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA5211;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_74	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA5211;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_97	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA4781;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_46	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__UBA4781;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_27	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA6092;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_43	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA4823;g__RBG-16-57-11;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_56	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA4823;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_61	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA4823;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_45	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA11579;g__UBA11579;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_99	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA11579;g__UBA11579;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_98	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__SBR1031;f__UBA2029;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_89	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_39	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__Shapirobacterales;f__UBA12405;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_54	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__Shapirobacterales;f__Um-filter-40-11;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_78	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__Shapirobacterales;f__Um-filter-40-11;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_59	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__GWA2-44-7;f__Woesebacteraceae;g__GWC1-37-12b;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_57	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__GWA2-44-7;f__Woesebacteraceae;g__GWB1-39-10;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_63	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__GWA2-44-7;f__Woesebacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_50	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__Woykebacterales;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_44	d__Bacteria;p__Patescibacteria;c__WWE3;o__UBA101185;f__UBA10185;g__OXYD1-FULL-39-9;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_38	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA6257;f__Jorgensenbacteraceae;g__GWA2-45-9;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_41	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA6257;f__Jorgensenbacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_76	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Campbellbacteraceae;g__UBA12079;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_47	d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA10025;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_30	d__Bacteria;p__Eremiobacterota;c__;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_81	d__Bacteria;p__Bipolaricaulota;c__Bipolaricaulia;o__Bipolaricaulales;f__Bipolaricaulaceae;g__Bipolaricaulis;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_8	d__Bacteria;p__Actinobacteriota;c__RBG-13-55-18;o__RBG-13-55-18;f__RBG-13-55-18;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_22	d__Bacteria;p__Armatimonadota;c__;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_100	d__Bacteria;p__Firmicutes_D;c__Dethiobacteria;o__DTU022;f__UBA8154;g__UBA9862;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_36	d__Bacteria;p__Firmicutes_D;c__Dethiobacteria;o__DTU022;f__UBA8154;g__UBA9862;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_34	d__Bacteria;p__Firmicutes_D;c__Dethiobacteria;o__DTU022;f__UBA8154;g__UBA9862;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_25	d__Bacteria;p__Firmicutes_D;c__Dethiobacteria;o__DTU022;f__DTU022;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_7	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Acholeplasmataceae;g__UBA2284;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_24	d__Bacteria;p__Firmicutes;c__Alicyclobacillia;o__Tumebacillales;f__Effusibacillaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_82	d__Bacteria;p__Firmicutes_B;c__Thermincolia;o__Thermincolales;f__UBA2595;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_49	d__Bacteria;p__Firmicutes_B;c__Desulfotomaculia;o__Desulfotomaculales;f__BRHc4a;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_19	d__Bacteria;p__Firmicutes_B;c__Desulfotomaculia;o__Ammonifexales;f__Ammonificaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_80	d__Bacteria;p__Firmicutes_E;c__UBA3569;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_71	d__Bacteria;p__Firmicutes_E;c__DTU015;o__UBA9673;f__UBA9673;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_88	d__Bacteria;p__Firmicutes_E;c__DTU015;o__UBA9673;f__UBA9673;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_51	d__Bacteria;p__Firmicutes_E;c__DTU015;o__UBA995;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_62	d__Bacteria;p__Firmicutes_E;c__DTU015;o__UBA8153;f__UBA8153;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_23	d__Bacteria;p__Omnitrophota;c__koll11;o__GIF10;f__UBA6249;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_26	d__Bacteria;p__Omnitrophota;c__koll11;o__GIF10;f__UBA6249;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_5	d__Bacteria;p__UBA3054;c__UBA3054;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_65	d__Bacteria;p__Elusimicrobiota;c__Elusimicrobia;o__Elusimicrobiales;f__UBA9959;g__UBA2231;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_42	d__Bacteria;p__Gemmatimonadota;c__GCA-2686955;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_48	d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__Zixibacteria-1;f__Zixibacteria-1;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_28	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Melioribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_86	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Melioribacteraceae;g__XYB12-FULL-38-5;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_10	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Melioribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_3	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Melioribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_29	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Melioribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_2	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Ignavibacteriaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_35	d__Bacteria;p__Bacteroidota;c__Kapabacteria;o__Kapabacteriales;f__XYC2-FULL-35-21;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_55	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Prolixibacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_9	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__F082;g__UBA6192;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_4	d__Bacteria;p__OLB16;c__OLB16;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_58	d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__UBA1845;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_73	d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__SG8-4;f__SG8-4;g__PLanc-01;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_1	d__Bacteria;p__Planctomycetota;c__;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_14	d__Bacteria;p__Spirochaetota;c__Brevinematia;o__Brevinematales;f__GWF1-51-8;g__GWF1-51-8;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_32	d__Bacteria;p__Desulfobacterota;c__Desulfobulbia;o__Desulfobulbales;f__Desulfurivibrionaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_68	d__Bacteria;p__Desulfobacterota;c__Desulfobulbia;o__Desulfobulbales;f__Desulfobulbaceae;g__UBA10518;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_94	d__Bacteria;p__Desulfobacterota;c__Desulfobulbia;o__Desulfobulbales;f__Desulfobulbaceae;g__UBA10518;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_91	d__Bacteria;p__Desulfobacterota;c__Desulfobulbia;o__Desulfobulbales;f__Desulfobulbaceae;g__UBA10518;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_92	d__Bacteria;p__Desulfobacterota;c__Desulfovibrionia;o__Desulfovibrionales;f__Desulfovibrionaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_75	d__Bacteria;p__Desulfobacterota;c__Desulfovibrionia;o__Desulfovibrionales;f__Desulfovibrionaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_6	d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfatiglanales;f__HGW-15;g__HGW-15;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_18	d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfatiglanales;f__HGW-15;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_40	d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfatiglanales;f__CG2-30-51-40;g__CG2-30-51-40;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_12	d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfobacterales;f__UBA2245;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_20	d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfobacterales;f__20-14-all-51-8;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_93	d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfobacterales;f__Desulfobacteraceae;g__Desulfobacula;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_67	d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfobacterales;f__Desulfobacteraceae;g__Desulfobacula;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_21	d__Bacteria;p__Desulfobacterota;c__Desulfobacteria;o__Desulfobacterales;f__Desulfatibacillaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_79	d__Bacteria;p__Desulfobacterota;c__Desulfarculia;o__Desulfarculales;f__Desulfarculaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_95	d__Bacteria;p__Desulfobacterota;c__Desulfarculia;o__Desulfarculales;f__Desulfarculaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_84	d__Bacteria;p__Desulfobacterota;c__Desulfarculia;o__Desulfarculales;f__Desulfarculaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+DeMMO6_13	d__Bacteria;p__Desulfobacterota;c__Desulfobaccia;o__Desulfobaccales;f__0-14-0-80-60-11;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_17	d__Bacteria;p__Desulfobacterota;c__BSN033;o__BSN033;f__UBA1163;g__RBG-16-49-23;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_72	d__Bacteria;p__Desulfobacterota;c__BSN033;o__UBA8473;f__UBA8473;g__UBA8473;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_64	d__Bacteria;p__Desulfobacterota;c__JdFR-97;o__JdFR-97;f__JdFR-97;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_90	d__Bacteria;p__Deferrisomatota;c__Deferrisomatia;o__Deferrisomatales;f__Deferrisomataceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_52	d__Bacteria;p__Myxococcota;c__UBA1671;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO6_53	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Sulfuricellaceae;g__UBA2239;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None

@@ -1,0 +1,13 @@
+user_genome	classification	fastani_reference	fastani_taxonomy	fastani_ani	fastani_af	closest_placement_reference	closest_placement_taxonomy	closest_placement_ani	closest_placement_af	classification_method	note	other_related_references(genome_id,species_name,ANI,AF)
+DeMMO2_30	d__Archaea;p__Nanoarchaeota;c__Woesearchaeia;o__SM23-78;f__SM23-78;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_15	d__Archaea;p__Nanoarchaeota;c__Woesearchaeia;o__SM23-78;f__UBA9642;g__UBA9642;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_77	d__Archaea;p__Nanoarchaeota;c__Woesearchaeia;o__UBA12501;f__UBA11576;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_42	d__Archaea;p__Nanoarchaeota;c__Woesearchaeia;o__GW2011-AR15;f__GW2011-AR15;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_14	d__Archaea;p__Micrarchaeota;c__Micrarchaeia;o__UBA8480;f__UBA97;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_7	d__Archaea;p__Micrarchaeota;c__Micrarchaeia;o__UBA10214;f__UBA10161;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_26	d__Archaea;p__Micrarchaeota;c__Micrarchaeia;o__UBA10214;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_91	d__Archaea;p__Micrarchaeota;c__Iainarchaeia;o__0-14-0-20-30-16;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_69	d__Archaea;p__Micrarchaeota;c__Iainarchaeia;o__Iainarchaeales;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_21	d__Archaea;p__Micrarchaeota;c__Iainarchaeia;o__Iainarchaeales;f__GCA-2688035;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_50	d__Archaea;p__Micrarchaeota;c__Iainarchaeia;o__Iainarchaeales;f__1-14-0-10-31-34;g__1-14-0-10-31-34;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+DeMMO2_43	d__Archaea;p__Thermoplasmatota;c__Thermoplasmata_A;o__UBA10834;f__UBA10834;g__COMBO-56-21;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None

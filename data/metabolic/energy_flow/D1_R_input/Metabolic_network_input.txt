@@ -1,0 +1,368 @@
+#Genome	Step1	Step2	Taxonomic Group	Coverage value(average)
+DeMMO1_1	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-01:Organic carbon oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-01:Organic carbon oxidation	N-S-05:Nitrite reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-01:Organic carbon oxidation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-01:Organic carbon oxidation	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-01:Organic carbon oxidation	O-S-03:Arsenite oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-01:Organic carbon oxidation	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-04:Acetate oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-04:Acetate oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-04:Acetate oxidation	N-S-05:Nitrite reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-04:Acetate oxidation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-04:Acetate oxidation	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-04:Acetate oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-04:Acetate oxidation	O-S-03:Arsenite oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-04:Acetate oxidation	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-06:Fermentation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-06:Fermentation	N-S-05:Nitrite reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-06:Fermentation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-06:Fermentation	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-06:Fermentation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-06:Fermentation	O-S-03:Arsenite oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	C-S-06:Fermentation	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-04:Nitrate reduction	N-S-05:Nitrite reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-04:Nitrate reduction	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-04:Nitrate reduction	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-04:Nitrate reduction	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-04:Nitrate reduction	O-S-03:Arsenite oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-04:Nitrate reduction	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-05:Nitrite reduction	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-05:Nitrite reduction	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-05:Nitrite reduction	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-05:Nitrite reduction	O-S-03:Arsenite oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-05:Nitrite reduction	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-06:Nitric oxide reduction	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-06:Nitric oxide reduction	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-06:Nitric oxide reduction	O-S-03:Arsenite oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-06:Nitric oxide reduction	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-08:Nitrite ammonification	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-08:Nitrite ammonification	O-S-03:Arsenite oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	N-S-08:Nitrite ammonification	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	O-S-02:Arsenate reduction	O-S-03:Arsenite oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	O-S-02:Arsenate reduction	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_1	O-S-03:Arsenite oxidation	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0726459919268844
+DeMMO1_10	C-S-01:Organic carbon oxidation	N-S-04:Nitrate reduction	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	C-S-01:Organic carbon oxidation	N-S-08:Nitrite ammonification	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	C-S-01:Organic carbon oxidation	S-S-01:Sulfide oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	C-S-01:Organic carbon oxidation	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	N-S-04:Nitrate reduction	N-S-08:Nitrite ammonification	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	N-S-04:Nitrate reduction	O-S-02:Arsenate reduction	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	N-S-04:Nitrate reduction	S-S-01:Sulfide oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	N-S-04:Nitrate reduction	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	N-S-08:Nitrite ammonification	O-S-02:Arsenate reduction	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	N-S-08:Nitrite ammonification	S-S-01:Sulfide oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	N-S-08:Nitrite ammonification	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	O-S-02:Arsenate reduction	S-S-01:Sulfide oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	O-S-02:Arsenate reduction	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_10	S-S-01:Sulfide oxidation	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.068730859280494
+DeMMO1_12	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-01:Organic carbon oxidation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-01:Organic carbon oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-01:Organic carbon oxidation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-01:Organic carbon oxidation	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-06:Fermentation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-06:Fermentation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-06:Fermentation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-06:Fermentation	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-06:Fermentation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-09:Hydrogen oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-09:Hydrogen oxidation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-09:Hydrogen oxidation	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	C-S-09:Hydrogen oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	N-S-04:Nitrate reduction	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	N-S-04:Nitrate reduction	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	N-S-04:Nitrate reduction	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	N-S-06:Nitric oxide reduction	N-S-08:Nitrite ammonification	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	N-S-06:Nitric oxide reduction	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_12	N-S-08:Nitrite ammonification	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0354376234602103
+DeMMO1_13	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-01:Organic carbon oxidation	C-S-08:Methanotrophy	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-01:Organic carbon oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-01:Organic carbon oxidation	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-01:Organic carbon oxidation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-02:Carbon fixation	C-S-04:Acetate oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-02:Carbon fixation	C-S-06:Fermentation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-02:Carbon fixation	C-S-08:Methanotrophy	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-02:Carbon fixation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-02:Carbon fixation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-02:Carbon fixation	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-02:Carbon fixation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-04:Acetate oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-04:Acetate oxidation	C-S-08:Methanotrophy	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-04:Acetate oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-04:Acetate oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-04:Acetate oxidation	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-04:Acetate oxidation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-06:Fermentation	C-S-08:Methanotrophy	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-06:Fermentation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-06:Fermentation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-06:Fermentation	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-06:Fermentation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-08:Methanotrophy	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-08:Methanotrophy	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-08:Methanotrophy	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	C-S-08:Methanotrophy	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	N-S-04:Nitrate reduction	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	N-S-04:Nitrate reduction	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	N-S-04:Nitrate reduction	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	O-S-02:Arsenate reduction	S-S-03:Sulfur oxidation	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	O-S-02:Arsenate reduction	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0672092554566882
+DeMMO1_13	S-S-03:Sulfur oxidation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0672092554566882
+DeMMO1_14	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	UBA9089	0.0141197540310965
+DeMMO1_14	C-S-01:Organic carbon oxidation	O-S-04:Selenate reduction	UBA9089	0.0141197540310965
+DeMMO1_14	C-S-01:Organic carbon oxidation	S-S-03:Sulfur oxidation	UBA9089	0.0141197540310965
+DeMMO1_14	C-S-01:Organic carbon oxidation	S-S-04:Sulfite oxidation	UBA9089	0.0141197540310965
+DeMMO1_14	C-S-01:Organic carbon oxidation	S-S-05:Sulfate reduction	UBA9089	0.0141197540310965
+DeMMO1_14	C-S-02:Carbon fixation	O-S-04:Selenate reduction	UBA9089	0.0141197540310965
+DeMMO1_14	C-S-02:Carbon fixation	S-S-03:Sulfur oxidation	UBA9089	0.0141197540310965
+DeMMO1_14	C-S-02:Carbon fixation	S-S-04:Sulfite oxidation	UBA9089	0.0141197540310965
+DeMMO1_14	C-S-02:Carbon fixation	S-S-05:Sulfate reduction	UBA9089	0.0141197540310965
+DeMMO1_14	O-S-04:Selenate reduction	S-S-03:Sulfur oxidation	UBA9089	0.0141197540310965
+DeMMO1_14	O-S-04:Selenate reduction	S-S-04:Sulfite oxidation	UBA9089	0.0141197540310965
+DeMMO1_14	O-S-04:Selenate reduction	S-S-05:Sulfate reduction	UBA9089	0.0141197540310965
+DeMMO1_14	S-S-03:Sulfur oxidation	S-S-04:Sulfite oxidation	UBA9089	0.0141197540310965
+DeMMO1_14	S-S-03:Sulfur oxidation	S-S-05:Sulfate reduction	UBA9089	0.0141197540310965
+DeMMO1_14	S-S-04:Sulfite oxidation	S-S-05:Sulfate reduction	UBA9089	0.0141197540310965
+DeMMO1_15	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-01:Organic carbon oxidation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-01:Organic carbon oxidation	S-S-04:Sulfite oxidation	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-01:Organic carbon oxidation	S-S-05:Sulfate reduction	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-01:Organic carbon oxidation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-06:Fermentation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-06:Fermentation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-06:Fermentation	S-S-04:Sulfite oxidation	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-06:Fermentation	S-S-05:Sulfate reduction	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	C-S-06:Fermentation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	O-S-02:Arsenate reduction	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	O-S-02:Arsenate reduction	S-S-04:Sulfite oxidation	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	O-S-02:Arsenate reduction	S-S-05:Sulfate reduction	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	O-S-02:Arsenate reduction	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	S-S-01:Sulfide oxidation	S-S-04:Sulfite oxidation	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	S-S-01:Sulfide oxidation	S-S-05:Sulfate reduction	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	S-S-01:Sulfide oxidation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	S-S-04:Sulfite oxidation	S-S-05:Sulfate reduction	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	S-S-04:Sulfite oxidation	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0299384625455346
+DeMMO1_15	S-S-05:Sulfate reduction	S-S-09:Thiosulfate disproportionation 2	Gammaproteobacteria	0.0299384625455346
+DeMMO1_16	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Patescibacteria	0.0244263154890782
+DeMMO1_17	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-01:Organic carbon oxidation	N-S-05:Nitrite reduction	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-01:Organic carbon oxidation	S-S-01:Sulfide oxidation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-02:Carbon fixation	C-S-04:Acetate oxidation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-02:Carbon fixation	C-S-06:Fermentation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-02:Carbon fixation	N-S-05:Nitrite reduction	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-02:Carbon fixation	S-S-01:Sulfide oxidation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-04:Acetate oxidation	C-S-06:Fermentation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-04:Acetate oxidation	N-S-05:Nitrite reduction	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-04:Acetate oxidation	S-S-01:Sulfide oxidation	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-06:Fermentation	N-S-05:Nitrite reduction	Nitrospirota	0.0268667623296655
+DeMMO1_17	C-S-06:Fermentation	S-S-01:Sulfide oxidation	Nitrospirota	0.0268667623296655
+DeMMO1_17	N-S-05:Nitrite reduction	S-S-01:Sulfide oxidation	Nitrospirota	0.0268667623296655
+DeMMO1_19	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Verrucomicrobiota	0.0273110641345769
+DeMMO1_19	C-S-01:Organic carbon oxidation	S-S-03:Sulfur oxidation	Verrucomicrobiota	0.0273110641345769
+DeMMO1_19	O-S-02:Arsenate reduction	S-S-03:Sulfur oxidation	Verrucomicrobiota	0.0273110641345769
+DeMMO1_2	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-01:Organic carbon oxidation	C-S-05:Hydrogen generation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-01:Organic carbon oxidation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-01:Organic carbon oxidation	N-S-01:Nitrogen fixation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-01:Organic carbon oxidation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-01:Organic carbon oxidation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-02:Carbon fixation	C-S-04:Acetate oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-02:Carbon fixation	C-S-05:Hydrogen generation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-02:Carbon fixation	C-S-06:Fermentation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-02:Carbon fixation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-02:Carbon fixation	N-S-01:Nitrogen fixation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-02:Carbon fixation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-02:Carbon fixation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-02:Carbon fixation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-04:Acetate oxidation	C-S-05:Hydrogen generation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-04:Acetate oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-04:Acetate oxidation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-04:Acetate oxidation	N-S-01:Nitrogen fixation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-04:Acetate oxidation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-04:Acetate oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-04:Acetate oxidation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-05:Hydrogen generation	C-S-06:Fermentation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-05:Hydrogen generation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-05:Hydrogen generation	N-S-01:Nitrogen fixation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-05:Hydrogen generation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-05:Hydrogen generation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-05:Hydrogen generation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-06:Fermentation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-06:Fermentation	N-S-01:Nitrogen fixation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-06:Fermentation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-06:Fermentation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-06:Fermentation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-09:Hydrogen oxidation	N-S-01:Nitrogen fixation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-09:Hydrogen oxidation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-09:Hydrogen oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	C-S-09:Hydrogen oxidation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	N-S-01:Nitrogen fixation	N-S-06:Nitric oxide reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	N-S-01:Nitrogen fixation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	N-S-01:Nitrogen fixation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	N-S-06:Nitric oxide reduction	O-S-02:Arsenate reduction	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	N-S-06:Nitric oxide reduction	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_2	O-S-02:Arsenate reduction	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.046103702703575
+DeMMO1_20	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Desulfobacterota	0.0321176390658152
+DeMMO1_20	C-S-01:Organic carbon oxidation	N-S-08:Nitrite ammonification	Desulfobacterota	0.0321176390658152
+DeMMO1_20	C-S-01:Organic carbon oxidation	S-S-03:Sulfur oxidation	Desulfobacterota	0.0321176390658152
+DeMMO1_20	C-S-01:Organic carbon oxidation	S-S-08:Thiosulfate disproportionation 1	Desulfobacterota	0.0321176390658152
+DeMMO1_20	C-S-06:Fermentation	N-S-08:Nitrite ammonification	Desulfobacterota	0.0321176390658152
+DeMMO1_20	C-S-06:Fermentation	S-S-03:Sulfur oxidation	Desulfobacterota	0.0321176390658152
+DeMMO1_20	C-S-06:Fermentation	S-S-08:Thiosulfate disproportionation 1	Desulfobacterota	0.0321176390658152
+DeMMO1_20	N-S-08:Nitrite ammonification	S-S-03:Sulfur oxidation	Desulfobacterota	0.0321176390658152
+DeMMO1_20	N-S-08:Nitrite ammonification	S-S-08:Thiosulfate disproportionation 1	Desulfobacterota	0.0321176390658152
+DeMMO1_20	S-S-03:Sulfur oxidation	S-S-08:Thiosulfate disproportionation 1	Desulfobacterota	0.0321176390658152
+DeMMO1_21	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-01:Organic carbon oxidation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-01:Organic carbon oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-01:Organic carbon oxidation	O-S-01:Metal reduction	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-01:Organic carbon oxidation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-06:Fermentation	C-S-09:Hydrogen oxidation	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-06:Fermentation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-06:Fermentation	O-S-01:Metal reduction	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-06:Fermentation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-09:Hydrogen oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-09:Hydrogen oxidation	O-S-01:Metal reduction	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	C-S-09:Hydrogen oxidation	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	N-S-04:Nitrate reduction	O-S-01:Metal reduction	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	N-S-04:Nitrate reduction	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.0238341833646363
+DeMMO1_21	O-S-01:Metal reduction	S-S-01:Sulfide oxidation	Gammaproteobacteria	0.0238341833646363
+DeMMO1_24	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-01:Organic carbon oxidation	C-S-09:Hydrogen oxidation	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-01:Organic carbon oxidation	N-S-08:Nitrite ammonification	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-04:Acetate oxidation	C-S-06:Fermentation	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-04:Acetate oxidation	C-S-09:Hydrogen oxidation	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-04:Acetate oxidation	N-S-08:Nitrite ammonification	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-06:Fermentation	C-S-09:Hydrogen oxidation	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-06:Fermentation	N-S-08:Nitrite ammonification	Euryarchaeota	0.0267894126239316
+DeMMO1_24	C-S-09:Hydrogen oxidation	N-S-08:Nitrite ammonification	Euryarchaeota	0.0267894126239316
+DeMMO1_3	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-01:Organic carbon oxidation	C-S-08:Methanotrophy	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-01:Organic carbon oxidation	N-S-08:Nitrite ammonification	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-02:Carbon fixation	C-S-04:Acetate oxidation	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-02:Carbon fixation	C-S-06:Fermentation	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-02:Carbon fixation	C-S-08:Methanotrophy	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-02:Carbon fixation	N-S-08:Nitrite ammonification	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-02:Carbon fixation	O-S-02:Arsenate reduction	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-04:Acetate oxidation	C-S-06:Fermentation	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-04:Acetate oxidation	C-S-08:Methanotrophy	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-04:Acetate oxidation	N-S-08:Nitrite ammonification	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-04:Acetate oxidation	O-S-02:Arsenate reduction	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-06:Fermentation	C-S-08:Methanotrophy	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-06:Fermentation	N-S-08:Nitrite ammonification	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-06:Fermentation	O-S-02:Arsenate reduction	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-08:Methanotrophy	N-S-08:Nitrite ammonification	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	C-S-08:Methanotrophy	O-S-02:Arsenate reduction	Verrucomicrobiota	0.0428585259429748
+DeMMO1_3	N-S-08:Nitrite ammonification	O-S-02:Arsenate reduction	Verrucomicrobiota	0.0428585259429748
+DeMMO1_4	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-01:Organic carbon oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-02:Carbon fixation	C-S-04:Acetate oxidation	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-02:Carbon fixation	C-S-06:Fermentation	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-02:Carbon fixation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-02:Carbon fixation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-04:Acetate oxidation	C-S-06:Fermentation	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-04:Acetate oxidation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-04:Acetate oxidation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-06:Fermentation	N-S-04:Nitrate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	C-S-06:Fermentation	O-S-02:Arsenate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_4	N-S-04:Nitrate reduction	O-S-02:Arsenate reduction	Gammaproteobacteria	0.043651808283702
+DeMMO1_5	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-01:Organic carbon oxidation	O-S-02:Arsenate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-01:Organic carbon oxidation	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-01:Organic carbon oxidation	S-S-04:Sulfite oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-01:Organic carbon oxidation	S-S-05:Sulfate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-01:Organic carbon oxidation	S-S-07:Thiosulfate oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-01:Organic carbon oxidation	S-S-09:Thiosulfate disproportionation 2	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-02:Carbon fixation	C-S-06:Fermentation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-02:Carbon fixation	O-S-02:Arsenate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-02:Carbon fixation	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-02:Carbon fixation	S-S-04:Sulfite oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-02:Carbon fixation	S-S-05:Sulfate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-02:Carbon fixation	S-S-07:Thiosulfate oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-02:Carbon fixation	S-S-09:Thiosulfate disproportionation 2	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-06:Fermentation	O-S-02:Arsenate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-06:Fermentation	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-06:Fermentation	S-S-04:Sulfite oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-06:Fermentation	S-S-05:Sulfate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-06:Fermentation	S-S-07:Thiosulfate oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	C-S-06:Fermentation	S-S-09:Thiosulfate disproportionation 2	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	O-S-02:Arsenate reduction	S-S-03:Sulfur oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	O-S-02:Arsenate reduction	S-S-04:Sulfite oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	O-S-02:Arsenate reduction	S-S-05:Sulfate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	O-S-02:Arsenate reduction	S-S-07:Thiosulfate oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	O-S-02:Arsenate reduction	S-S-09:Thiosulfate disproportionation 2	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-03:Sulfur oxidation	S-S-04:Sulfite oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-03:Sulfur oxidation	S-S-05:Sulfate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-03:Sulfur oxidation	S-S-07:Thiosulfate oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-03:Sulfur oxidation	S-S-09:Thiosulfate disproportionation 2	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-04:Sulfite oxidation	S-S-05:Sulfate reduction	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-04:Sulfite oxidation	S-S-07:Thiosulfate oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-04:Sulfite oxidation	S-S-09:Thiosulfate disproportionation 2	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-05:Sulfate reduction	S-S-07:Thiosulfate oxidation	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-05:Sulfate reduction	S-S-09:Thiosulfate disproportionation 2	Alphaproteobacteria	0.0492493995049116
+DeMMO1_5	S-S-07:Thiosulfate oxidation	S-S-09:Thiosulfate disproportionation 2	Alphaproteobacteria	0.0492493995049116
+DeMMO1_6	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-01:Organic carbon oxidation	O-S-04:Selenate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-01:Organic carbon oxidation	S-S-03:Sulfur oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-01:Organic carbon oxidation	S-S-04:Sulfite oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-01:Organic carbon oxidation	S-S-05:Sulfate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-01:Organic carbon oxidation	S-S-08:Thiosulfate disproportionation 1	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-02:Carbon fixation	C-S-04:Acetate oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-02:Carbon fixation	C-S-06:Fermentation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-02:Carbon fixation	O-S-04:Selenate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-02:Carbon fixation	S-S-03:Sulfur oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-02:Carbon fixation	S-S-04:Sulfite oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-02:Carbon fixation	S-S-05:Sulfate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-02:Carbon fixation	S-S-08:Thiosulfate disproportionation 1	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-04:Acetate oxidation	C-S-06:Fermentation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-04:Acetate oxidation	O-S-04:Selenate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-04:Acetate oxidation	S-S-03:Sulfur oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-04:Acetate oxidation	S-S-04:Sulfite oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-04:Acetate oxidation	S-S-05:Sulfate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-04:Acetate oxidation	S-S-08:Thiosulfate disproportionation 1	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-06:Fermentation	O-S-04:Selenate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-06:Fermentation	S-S-03:Sulfur oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-06:Fermentation	S-S-04:Sulfite oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-06:Fermentation	S-S-05:Sulfate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	C-S-06:Fermentation	S-S-08:Thiosulfate disproportionation 1	UBA9089	0.0872858916566774
+DeMMO1_6	O-S-04:Selenate reduction	S-S-03:Sulfur oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	O-S-04:Selenate reduction	S-S-04:Sulfite oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	O-S-04:Selenate reduction	S-S-05:Sulfate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	O-S-04:Selenate reduction	S-S-08:Thiosulfate disproportionation 1	UBA9089	0.0872858916566774
+DeMMO1_6	S-S-03:Sulfur oxidation	S-S-04:Sulfite oxidation	UBA9089	0.0872858916566774
+DeMMO1_6	S-S-03:Sulfur oxidation	S-S-05:Sulfate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	S-S-03:Sulfur oxidation	S-S-08:Thiosulfate disproportionation 1	UBA9089	0.0872858916566774
+DeMMO1_6	S-S-04:Sulfite oxidation	S-S-05:Sulfate reduction	UBA9089	0.0872858916566774
+DeMMO1_6	S-S-04:Sulfite oxidation	S-S-08:Thiosulfate disproportionation 1	UBA9089	0.0872858916566774
+DeMMO1_6	S-S-05:Sulfate reduction	S-S-08:Thiosulfate disproportionation 1	UBA9089	0.0872858916566774
+DeMMO1_7	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Nanoarchaeota	0.0410290336151716
+DeMMO1_9	C-S-01:Organic carbon oxidation	C-S-02:Carbon fixation	Omnitrophota	0.0302273214237435
+DeMMO1_9	C-S-01:Organic carbon oxidation	C-S-04:Acetate oxidation	Omnitrophota	0.0302273214237435
+DeMMO1_9	C-S-01:Organic carbon oxidation	C-S-06:Fermentation	Omnitrophota	0.0302273214237435
+DeMMO1_9	C-S-02:Carbon fixation	C-S-04:Acetate oxidation	Omnitrophota	0.0302273214237435
+DeMMO1_9	C-S-02:Carbon fixation	C-S-06:Fermentation	Omnitrophota	0.0302273214237435
+DeMMO1_9	C-S-04:Acetate oxidation	C-S-06:Fermentation	Omnitrophota	0.0302273214237435

@@ -1,14 +1,54 @@
-pacman::p_load(readxl, tidyverse, plotly)
+pacman::p_load(readxl, tidyverse, plotly, heatmaply)
+
+#load old metadata from JGI annotations for gene counts per genome - need to update this
+gene_counts_old <- read_csv("../submission/data/genome_metadata.csv") %>%
+  select(`Genome Name / Sample Name`, `Gene Count   * assembled`) %>%
+  rename(genome_sample = `Genome Name / Sample Name`) %>%
+  rename(gene_count_old = `Gene Count   * assembled`) %>%
+  mutate(site = if_else(str_detect(genome_sample, regex("DeMMO", ignore.case = TRUE)),
+                        paste0("D", str_extract(genome_sample, "(?<=DeMMO)(.*)(?=_)")),
+                        if_else(str_detect(genome_sample, regex("White_creek", ignore.case = TRUE)), "White Creek", "Service Water")),
+         genome = str_extract(genome_sample, "(?=[^_]+$)(\\d.*)")) %>%
+  select(-genome_sample)
+
+gene_counts <- read_delim("data/geneCounts.txt", delim = " ", col_names = F) %>%
+  rename(gene_count = "X2") %>%
+  separate(X1, c("site", "genome"), "_") %>%
+  mutate(site = str_remove(site, "eMMO"),
+         gene_count = as.numeric(gene_count))
+
+#load old metadata - this is not from metabolic output, need total # genes per genome. 
+path <- "../submission/data/DeMMO_genome_master.xlsx"
+metadata  <- path %>%
+  excel_sheets() %>%
+  set_names() %>%
+  map(read_excel, path = path) %>%
+  reduce(bind_rows) %>%
+  select(user_genome, Completeness, Contamination) %>%
+  separate(user_genome, c("site", "genome"), sep = "_") %>%
+  mutate(site = str_remove(site, "eMMO")) %>%
+  left_join(gene_counts) %>%
+  left_join(gene_counts_old) %>%
+  mutate(gene_diff = `gene_count`/`gene_count_old`*100)
+
+#load GTDBtk taxonomy from metabolic output
+files <- list.files("../data/metabolic/taxonomy/", full.names = T)
+
+read_files <- function(file){
+  file %>% read_delim(delim = "\t")
+}
+
+taxonomy <- lapply(files, read_files) %>%
+  reduce(bind_rows) %>%
+  select(user_genome, classification) %>%
+  separate(user_genome, c("site", "genome"), sep = "_") %>%
+  separate(classification, c("domain","phylum", "class", "order", "family", "genus", "species"), sep = ";p__|;c__|;o__|;f__|;g__|;s__") %>%
+  mutate(domain = str_remove(domain, "d__"),
+         site = str_remove(site, "eMMO"))
 
 
-metadata <- read_csv("../data/metadata.csv") %>%
-  mutate(site = paste0("D", str_extract(`Genome Name / Sample Name`, "(?<=DeMMO)(.*)(?=_)")),
-         genome = str_extract(`Genome Name / Sample Name`, "(?<=DeMMO\\d_)(.*)")) %>%
-  filter(!is.na(genome))
-
-
-# load metabolic files
-files <- list.files("../data/metabolic", full.names = T)
+# load metabolic annotations 
+files <- list.files("../data/metabolic/annotations/", full.names = T)
 
 read_files <- function(file){
   site <- str_extract(file, "(?<=data/metabolic/)(.*)(?=_METABOLIC_result[.]xlsx)")
@@ -17,12 +57,19 @@ read_files <- function(file){
     rename(genome_id = "...2") %>%
     separate(`Genome ID map`, c("site", "genome"), "_") %>%
     mutate(site = str_remove(site, "eMMO"))
+  
+presence <- file %>%
+  read_excel(sheet = "HMMHitNum") %>%
+  select(-contains("Hits"), -contains("Hit numbers")) %>%
+  gather(genome_id, presence, contains("Hmm presence")) %>%
+  mutate(genome_id = str_remove(genome_id, " Hmm presence")) 
     
-  file %>%
+   file %>%
     read_excel(sheet = "HMMHitNum") %>%
-    select(-contains("Hmm presence"), -contains("Hits")) %>%
-    rename_at(vars(matches(".*Hit numbers")), ~ str_remove(., " Hit numbers")) %>%
-    gather(genome_id, hits, -c(Category,Function,`Gene abbreviation`,`Gene name`,`Hmm file`,`Corresponding KO`, Reaction,Substrate,Product)) %>%
+    select(-contains("Hits"), -contains("Hmm presence")) %>%
+    gather(genome_id, hits, contains("Hit numbers")) %>%
+    mutate(genome_id = str_remove(genome_id, " Hit numbers")) %>%
+    left_join(presence) %>%
     full_join(map) 
 }
 
@@ -30,22 +77,35 @@ file_list = lapply(files, read_files)
 data <- reduce(file_list, bind_rows) 
 
 
-metabolism <- c("Nitrogen cycling", "Sulfur cycling", "As cycling", "Hydrogenases", "Methane metabolism", "Carbon fixation", "Chlorite reduction", "Selenate reduction", "Metal reduction", "Perchlorate reduction")
+
+# bubble plot -------------------------------------------------------------
+
+#metabolism <- c("Nitrogen cycling", "Sulfur cycling", "As cycling", "Hydrogenases", "Methane metabolism", "Carbon fixation", "Chlorite reduction", "Selenate reduction", "Metal reduction", "Perchlorate reduction")
+metabolism_color_dict <- read_csv("../data/metabolism_color_dict.csv")
+element_cycling <- metabolism_color_dict %>%
+  filter(group == "Element Cycling") %>%
+  distinct()
+element_cycling_colors <- element_cycling$color
+names(element_cycling_colors) <- element_cycling$Lump
+
+
 
 bubble_plot <- data %>%
-  left_join(metadata %>% dplyr::select(site, genome, `Gene Count   * assembled`)) %>%
-  filter(!is.na(`Gene Count   * assembled`)) %>%
+  left_join(metadata %>% dplyr::select(site, genome, gene_count)) %>%
+  filter(!is.na(gene_count)) %>%
   filter(hits > 0) %>%
   group_by(site) %>%
-  mutate(gene_count = sum(`Gene Count   * assembled`),
+  mutate(gene_count = sum(na.omit(gene_count)),
          hits = (hits/gene_count)*100) %>%
   group_by(site, Function, Category, `Gene abbreviation`) %>%
   summarise(hits = sum(hits)) %>%
-  filter(Category %in% metabolism) %>%
-  ggplot(aes(site, `Gene abbreviation`, color = Function, label=Category)) +
+  inner_join(element_cycling) %>%
+  ggplot(aes(site, `Gene abbreviation`, color = Lump, label=Category)) +
   geom_point(ggplot2::aes(size = hits)) +
   scale_x_discrete(position = "top") +
+  scale_color_manual(values = element_cycling_colors) +
   theme_bw() +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
   theme(axis.title.x=ggplot2::element_blank(), 
         axis.title.y=ggplot2::element_blank(),
         legend.position = "none",
@@ -56,4 +116,19 @@ bubble_plot <- data %>%
   #scale_color_manual(values=metabolism_color_dict) +
   
 plotly::ggplotly(bubble_plot)
+
+
+n_genomes <- data %>%
+  select(site, genome) %>%
+  distinct() %>%
+  group_by(site) %>%
+  summarise(n_genomes = n())
+
+n_genomes_meta <- metadata %>%
+  select(site, genome) %>%
+  distinct() %>%
+  group_by(site) %>%
+  mutate(n_genomes_meta = n()) %>%
+  full_join(n_genomes)
+
 

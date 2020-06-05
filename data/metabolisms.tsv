@@ -1,0 +1,242 @@
+Category	Function	Gene abbreviation
+Thermophilic specific	Thermophilic specific	rgy
+Amino acid utilization	4-aminobutyrate aminotransferase and related aminotransferases	4-aminobutyrate aminotransferase and related aminotransferases
+Amino acid utilization	Aminotransferase class I and II	aminotransferase class I and II
+Amino acid utilization	Phosphoserine aminotransferase	phosphoserine aminotransferase
+Amino acid utilization	Ornithine/acetylornithine aminotransferase	ornithine/acetylornithine aminotransferase
+Amino acid utilization	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase
+Amino acid utilization	Aspartate/tyrosine/aromatic aminotransferase	aspartate/tyrosine/aromatic aminotransferase
+Amino acid utilization	Histidinol-phosphate/aromatic aminotransferase	histidinol-phosphate/aromatic aminotransferase
+Amino acid utilization	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase	serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
+Ethanol fermentation	Acetate => Acetaldehyde	acetate => acetaldehyde
+Ethanol fermentation	Acetaldehyde => Ethanol	acetaldehyde => ethanol
+Fatty acid degradation	Fatty acid degradation	acyl-CoA dehydrogenase
+Aromatics degradation	Protocatechuate/Catechol degradation	catA
+Aromatics degradation	Phenol => Benzoyl-CoA	ubiX
+Aromatics degradation	Phenol => Benzoyl-CoA	bsdC
+Aromatics degradation	Benzoyl-CoA reduction	bcrC
+Aromatics degradation	Benzoyl-CoA reduction	bcrB
+Aromatics degradation	Benzoyl-CoA reduction	bcrA
+Aromatics degradation	Benzoyl-CoA reduction	bcrD
+Complex carbon degradation	Cellulose degrading	cellobiosidase
+Complex carbon degradation	Cellulose degrading	cellulase
+Complex carbon degradation	Cellulose degrading	beta-glucosidase
+Complex carbon degradation	Hemicullulose debranching	arabinosidase
+Complex carbon degradation	Hemicullulose debranching	beta-glucuronidase
+Complex carbon degradation	Hemicullulose debranching	alpha-L-rhamnosidase
+Complex carbon degradation	Endohemicellulases	mannan endo-1,4-beta-mannosidase
+Complex carbon degradation	Endohemicellulases	alpha-D-xyloside xylohydrolase
+Complex carbon degradation	Other oligosaccharide degrading	beta-xylosidase
+Complex carbon degradation	Other oligosaccharide degrading	beta-mannosidase
+Complex carbon degradation	Other oligosaccharide degrading	beta-galactosidase
+Complex carbon degradation	Amylolytic enzymes	alpha-amylase
+Complex carbon degradation	Amylolytic enzymes	glucoamylase
+Complex carbon degradation	Amylolytic enzymes	pullulanase
+Complex carbon degradation	Amylolytic enzymes	isoamylase
+Complex carbon degradation	Chitin degrading	chitiniase
+Complex carbon degradation	Chitin degrading	hexosaminidase
+Fermentation	Pyruvate oxidation	porA
+Fermentation	Alcohol utilization	adh
+Fermentation	Lactate utilization	ldh
+Fermentation	Acetogenesis	acdA
+Fermentation	Acetogenesis	ack
+Fermentation	Acetogenesis	pta
+Fermentation	Acetate to acetyl-CoA	acs
+Fermentation	Pyruvate <=> acetyl-CoA + formate	pflD
+C1 metabolism	Methanol oxidation	mxaF
+C1 metabolism	Methanol oxidation	mdh
+C1 metabolism	Methyl amine -> formaldehyde	mauA
+C1 metabolism	Methyl amine -> formaldehyde	mauB
+C1 metabolism	Formaldehyde oxidation	fdhA
+C1 metabolism	Formaldehyde oxidation	fghA
+C1 metabolism	Formaldehyde oxidation	frmA
+C1 metabolism	Formaldehyde oxidation	mycoS_dep_FDH
+C1 metabolism	Formaldehyde oxidation	fae
+C1 metabolism	Formate oxidation	fdoG
+C1 metabolism	Formate oxidation	fdwB
+C1 metabolism	Formate oxidation	fdoH
+C1 metabolism	Formate oxidation	fdhA
+C1 metabolism	Formate oxidation	fdhB
+C1 metabolism	Aerobic CO oxidation	coxS
+C1 metabolism	Aerobic CO oxidation	coxM
+C1 metabolism	Aerobic CO oxidation	coxL
+Methane metabolism	Methane oxidation - Partculate methane monooxygenase	pmoA
+Methane metabolism	Methane oxidation - Partculate methane monooxygenase	pmoB
+Methane metabolism	Methane oxidation - Partculate methane monooxygenase	pmoC
+Methane metabolism	Methane oxidation - Soluble methane monoxygenase	mmoB
+Methane metabolism	Methane oxidation - Soluble methane monoxygenase	mmoD
+Methane metabolism	Methane production	mcrA
+Methane metabolism	Methane production	mcrB
+Methane metabolism	Methane production	mcrC
+Carbon fixation	CBB cycle - Rubisco	Form I
+Carbon fixation	CBB cycle - Rubisco	Form II
+Carbon fixation	CBB cycle - Rubisco	Form II/III
+Carbon fixation	CBB cycle - Rubisco	Form III
+Carbon fixation	CBB cycle - Rubisco	Form IV
+Carbon fixation	3 Hydroxypropionate cycle	prpE
+Carbon fixation	3 Hydroxypropionate cycle	mcr
+Carbon fixation	3 Hydroxypropionate cycle	K15017
+Carbon fixation	3HP/4HB	K14466
+Carbon fixation	3HP/4HB	4hbl
+Carbon fixation	3HP/4HB	K18861
+Carbon fixation	3HP/4HB	E6.2.1.56
+Carbon fixation	3HP/4HB	abfD
+Carbon fixation	Wood Ljungdahl pathway	cdhD
+Carbon fixation	Wood Ljungdahl pathway	cdhE
+Carbon fixation	Wood Ljungdahl pathway	cooS
+Carbon fixation	Reverse TCA cycle	aclA
+Carbon fixation	Reverse TCA cycle	aclB
+Nitrogen cycling	Ammonia oxidation	amoA
+Nitrogen cycling	Ammonia oxidation	amoB
+Nitrogen cycling	Ammonia oxidation	amoC
+Nitrogen cycling	N2 fixation	anfD
+Nitrogen cycling	N2 fixation	anfK
+Nitrogen cycling	N2 fixation	anfG
+Nitrogen cycling	N2 fixation	nifD
+Nitrogen cycling	N2 fixation	nifK
+Nitrogen cycling	N2 fixation	vnfD
+Nitrogen cycling	N2 fixation	vnfK
+Nitrogen cycling	N2 fixation	vnfG
+Nitrogen cycling	N2 fixation	nifH
+Nitrogen cycling	Nitrite oxidation	nxrA
+Nitrogen cycling	Nitrite oxidation	nxrB
+Nitrogen cycling	Nitrate reduction	napA
+Nitrogen cycling	Nitrate reduction	napB
+Nitrogen cycling	Nitrate reduction	narG
+Nitrogen cycling	Nitrate reduction	narH
+Nitrogen cycling	Nitrite reduction to ammonia	nrfH
+Nitrogen cycling	Nitrite reduction to ammonia	nrfA
+Nitrogen cycling	Nitrite reduction to ammonia	nrfD
+Nitrogen cycling	Nitrite reduction to ammonia	nirB
+Nitrogen cycling	Nitrite reduction to ammonia	nirD
+Nitrogen cycling	Nitrite reduction	nirK
+Nitrogen cycling	Nitrite reduction	nirS
+Nitrogen cycling	Nitrite reduction	octR
+Nitrogen cycling	Nitric oxide reduction	norB
+Nitrogen cycling	Nitric oxide reduction	norC
+Nitrogen cycling	Nitrous oxide reduction	nosD
+Nitrogen cycling	Nitrous oxide reduction	nosZ
+Nitrogen cycling	Anammox	hzoA
+Nitrogen cycling	Anammox	hzsA
+Sulfur cycling	Sulfide oxidation	fccB
+Sulfur cycling	Sulfide oxidation	sqr
+Sulfur cycling	Sulfite reduction	dsrD
+Sulfur cycling	Sulfur oxidation	dsrA
+Sulfur cycling	Sulfur oxidation	dsrB
+Sulfur cycling	Sulfur oxidation	sor
+Sulfur cycling	Sulfur oxidation	sdo
+Sulfur cycling	Sulfur reduction	sreA
+Sulfur cycling	Sulfur reduction	sreB
+Sulfur cycling	Sulfur reduction	sreC
+Sulfur cycling	Thiosulfate oxidation	soxB
+Sulfur cycling	Thiosulfate oxidation	soxY
+Sulfur cycling	Thiosulfate oxidation	soxC
+Sulfur cycling	Sulfite reduction	asrA
+Sulfur cycling	Sulfite reduction	asrB
+Sulfur cycling	Sulfite reduction	asrC
+Sulfur cycling	Sulfate reduction	aprA
+Sulfur cycling	Sulfate reduction	sat
+Sulfur cycling	Sulfate reduction	cysC
+Sulfur cycling	Sulfate reduction	cysN
+Sulfur cycling	Thiosulfate disproportionation	phsA
+Hydrogenases	FeFe hydrogenase	fefe-group-a13
+Hydrogenases	FeFe hydrogenase	fefe-group-a2
+Hydrogenases	FeFe hydrogenase	fefe-group-a4
+Hydrogenases	FeFe hydrogenase	fefe-group-b
+Hydrogenases	FeFe hydrogenase	fefe-group-c1
+Hydrogenases	FeFe hydrogenase	fefe-group-c2
+Hydrogenases	FeFe hydrogenase	fefe-group-c3
+Hydrogenases	Fe hydrogenase	fe
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-1
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-2ade
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-2bc
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-3abd
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-3c
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-4a-g
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-4hi
+Oxidative phosphorylation	Complex I (NADH-quinone oxidoreductase)	nuoA
+Oxidative phosphorylation	Complex I (NADH-quinone oxidoreductase)	nuoB
+Oxidative phosphorylation	Complex I (NADH-quinone oxidoreductase)	nuoC
+Oxidative phosphorylation	Complex I (NAD(P)H-quinone oxidoreductase)	NdhA
+Oxidative phosphorylation	Complex I (NAD(P)H-quinone oxidoreductase)	NdhB
+Oxidative phosphorylation	Complex I (NAD(P)H-quinone oxidoreductase)	NdhC
+Oxidative phosphorylation	Complex II (Succinate dehydrogenase/Fumarate reductase)	sdhC
+Oxidative phosphorylation	Complex II (Succinate dehydrogenase/Fumarate reductase)	sdhD
+Oxidative phosphorylation	Complex III (Cytochrome c reductase)	petA
+Oxidative phosphorylation	Complex III (Cytochrome c reductase)	petB
+Oxidative phosphorylation	Complex III (Cytochrome c reductase)	fbcH
+Oxidative phosphorylation	Complex V (ATP synthase: V/A-type H+/Na+-transporting ATPase)	atpA (V/A-type)
+Oxidative phosphorylation	Complex V (ATP synthase: V/A-type H+/Na+-transporting ATPase)	atpB (V/A-type)
+Oxidative phosphorylation	Complex V (F-type H+-transporting ATPase)	atpA (F-type)
+Oxidative phosphorylation	Complex V (F-type H+-transporting ATPase)	atpD (F-type)
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome c oxidase, caa3-type	coxA
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome c oxidase, caa3-type	coxB
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome c oxidase, cbb3-type	ccoN
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome c oxidase, cbb3-type	ccoO
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome c oxidase, cbb3-type	ccoP
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	cyoA
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	cyoD
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	cyoB
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	cyoC
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, bd type	cydA
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, bd type	cydB
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD	qoxA
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD	qoxB
+Urea utilization	Urease	ureC
+Urea utilization	Urease	ureB
+Urea utilization	Urease	ureA
+Halogenated compound utilization	Halogenated compounds breakdown	E3.8.1.2
+Halogenated compound utilization	Halogenated compounds breakdown	pcpC
+Halogenated compound utilization	Halogenated compounds breakdown	cprA
+Halogenated compound utilization	Halogenated compounds breakdown	pceA
+Perchlorate reduction	Perchlorate reduction	pcrA
+Perchlorate reduction	Perchlorate reduction	pcrB
+Chlorite reduction	Chlorite reduction	cld
+As cycling	Arsenite oxidation	aoxA
+As cycling	Arsenite oxidation	aoxB
+As cycling	Arsenate reduction	arsC1
+As cycling	Arsenate reduction	arsC2
+Selenate reduction	Selenate reduction	ygfM
+Selenate reduction	Selenate reduction	xdhD
+Selenate reduction	Selenate reduction	YgfK
+Nitrile hydration	Nitrile hydratase	nthA
+Nitrile hydration	Nitrile hydratase	nthB
+Metal reduction	Metal (Iron/Manganese) reduction	mtrC
+Metal reduction	Metal (Iron/Manganese) reduction	mtrB
+NA	NA	NA
+Sulfur cycling enzymes (detailed)	Sulfate reduction	aprA
+Sulfur cycling enzymes (detailed)	Sulfate reduction	aprB
+Sulfur cycling enzymes (detailed)	Sulfate reduction	asrA
+Sulfur cycling enzymes (detailed)	Sulfate reduction	asrB
+Sulfur cycling enzymes (detailed)	Sulfate reduction	asrC
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrA
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrB
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrC
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrD
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrE
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrF
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrH
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrJ
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrK
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrM
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrO
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrP
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrR
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrS
+Sulfur cycling enzymes (detailed)	Sulfur oxidation/Sulfite reduction	dsrT
+Sulfur cycling enzymes (detailed)	Thiosulfate oxidation	soxA
+Sulfur cycling enzymes (detailed)	Thiosulfate oxidation	soxB
+Sulfur cycling enzymes (detailed)	Thiosulfate oxidation	soxC
+Sulfur cycling enzymes (detailed)	Thiosulfate oxidation	soxD
+Sulfur cycling enzymes (detailed)	Thiosulfate oxidation	soxX
+Sulfur cycling enzymes (detailed)	Thiosulfate oxidation	soxY
+Sulfur cycling enzymes (detailed)	Thiosulfate oxidation	soxYZ
+Sulfur cycling enzymes (detailed)	Thiosulfate oxidation	soxZ
+Sulfur cycling enzymes (detailed)	Sulfide oxidation	fccB
+Sulfur cycling enzymes (detailed)	Sulfide oxidation	sqr
+Sulfur cycling enzymes (detailed)	Sulfur oxidation	sor
+Sulfur cycling enzymes (detailed)	Sulfur oxidation	sdo
+Sulfur cycling enzymes (detailed)	Sulfate reduction	sat
+Sulfur cycling enzymes (detailed)	Sulfate reduction	cysC
+Sulfur cycling enzymes (detailed)	Sulfate reduction	cysN
+Sulfur cycling enzymes (detailed)	Thiosulfate disproportionation	phsA
