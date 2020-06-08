@@ -1,4 +1,4 @@
-pacman::p_load(readxl, tidyverse, plotly, heatmaply)
+pacman::p_load(readxl, tidyverse, plotly, heatmaply, grid)
 
 #load old metadata from JGI annotations for gene counts per genome - need to update this
 gene_counts_old <- read_csv("../submission/data/genome_metadata.csv") %>%
@@ -88,8 +88,6 @@ element_cycling <- metabolism_color_dict %>%
 element_cycling_colors <- element_cycling$color
 names(element_cycling_colors) <- element_cycling$Lump
 
-
-
 bubble_plot <- data %>%
   left_join(metadata %>% dplyr::select(site, genome, gene_count)) %>%
   filter(!is.na(gene_count)) %>%
@@ -100,22 +98,41 @@ bubble_plot <- data %>%
   group_by(site, Function, Category, `Gene abbreviation`) %>%
   summarise(hits = sum(hits)) %>%
   inner_join(element_cycling) %>%
+  ungroup() %>%
+  mutate(Category = factor(Category, levels = c("Nitrogen cycling", "Urea utilization","Sulfur cycling", "Hydrogenases","Oxidative phosphorylation",                               
+                                                   "Oxygen metabolism (Oxidative phosphorylation Complex IV)",                                         
+                                                   "Halogenated compound utilization","Perchlorate reduction", "Chlorite reduction","As cycling",                                           
+                                                   "Selenate reduction","Metal reduction"))) %>%
   ggplot(aes(site, `Gene abbreviation`, color = Lump, label=Category)) +
   geom_point(ggplot2::aes(size = hits)) +
   scale_x_discrete(position = "top") +
-  scale_color_manual(values = element_cycling_colors) +
+  scale_color_manual(values = element_cycling_colors, name = "Metabolism Category") +
   theme_bw() +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
+  guides(col = guide_legend(ncol = 1)) +
+  #guides(fill=guide_legend(title="Category")) +
   theme(axis.title.x=ggplot2::element_blank(), 
         axis.title.y=ggplot2::element_blank(),
-        legend.position = "none",
+        #legend.position = "none",
         #strip.background = element_blank(), 
         panel.spacing = unit(0,"line"), 
-        panel.border = element_rect(size = 0.25, color = "black"))  +
-  facet_grid(rows=vars(Category), scales = "free")
-  #scale_color_manual(values=metabolism_color_dict) +
+        panel.border = element_rect(size = 0.25, color = "black"),
+        strip.text.y = element_text(angle = 180, size=8, lineheight=1))  +
+  facet_grid(rows=vars(Category), switch = "y", scales = "free", space = "free_y",
+             labeller = labeller(Category = label_wrap_gen(10)))
   
 plotly::ggplotly(bubble_plot)
+
+
+
+gt = ggplot_gtable(ggplot_build(bubble_plot))
+
+#show layout of plot to figure out which rows to manually resize
+gtable::gtable_show_layout(gt)
+
+for(i in c(9, 19, 21, 23, 25, 27, 29)){
+  gt$heights[i] = 1.5*gt$heights[i]
+}
+grid.draw(gt)
 
 
 n_genomes <- data %>%
