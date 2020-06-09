@@ -99,10 +99,11 @@ bubble_plot <- data %>%
   summarise(hits = sum(hits)) %>%
   inner_join(element_cycling) %>%
   ungroup() %>%
-  mutate(Category = factor(Category, levels = c("Nitrogen cycling", "Urea utilization","Sulfur cycling", "Hydrogenases","Oxidative phosphorylation",                               
+  mutate(Category = if_else(Category == "Metal reduction", "Fe/Mn reduction", Category),
+         Category = factor(Category, levels = c("Nitrogen cycling", "Urea utilization","Sulfur cycling", "Hydrogenases","Oxidative phosphorylation",                               
                                                    "Oxygen metabolism (Oxidative phosphorylation Complex IV)",                                         
                                                    "Halogenated compound utilization","Perchlorate reduction", "Chlorite reduction","As cycling",                                           
-                                                   "Selenate reduction","Metal reduction"))) %>%
+                                                   "Selenate reduction","Fe/Mn reduction"))) %>%
   ggplot(aes(site, `Gene abbreviation`, color = Lump, label=Category)) +
   geom_point(ggplot2::aes(size = hits)) +
   scale_size_continuous(breaks = c(2e-05, 5e-05, 1e-04, 5e-04, 1e-03), name = "% metagenome") +
