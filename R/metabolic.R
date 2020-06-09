@@ -105,6 +105,7 @@ bubble_plot <- data %>%
                                                    "Selenate reduction","Metal reduction"))) %>%
   ggplot(aes(site, `Gene abbreviation`, color = Lump, label=Category)) +
   geom_point(ggplot2::aes(size = hits)) +
+  scale_size_continuous(breaks = c(2e-05, 5e-05, 1e-04, 5e-04, 1e-03), name = "% metagenome") +
   scale_x_discrete(position = "top") +
   scale_color_manual(values = element_cycling_colors, name = "Metabolism Category") +
   theme_bw() +
