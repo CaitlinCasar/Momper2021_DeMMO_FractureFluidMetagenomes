@@ -185,13 +185,13 @@ Element Cycling,#391745,O2 metabolism,Oxygen metabolism (Oxidative phosphorylati
 Element Cycling,#FFB76E,Urea,Urea utilization,Urease
 Element Cycling,#FFB76E,Urea,Urea utilization,Urease
 Element Cycling,#FFB76E,Urea,Urea utilization,Urease
-Element Cycling,#4097FF,Halo,Halogenated compound utilization,Halogenated compounds breakdown
-Element Cycling,#4097FF,Halo,Halogenated compound utilization,Halogenated compounds breakdown
-Element Cycling,#4097FF,Halo,Halogenated compound utilization,Halogenated compounds breakdown
-Element Cycling,#4097FF,Halo,Halogenated compound utilization,Halogenated compounds breakdown
-Element Cycling,#4097FF,Halo,Perchlorate reduction,Perchlorate reduction
-Element Cycling,#4097FF,Halo,Perchlorate reduction,Perchlorate reduction
-Element Cycling,#4097FF,Halo,Chlorite reduction,Chlorite reduction
+Element Cycling,#4097FF,Halogenated compound utilization,Halogenated compound utilization,Halogenated compounds breakdown
+Element Cycling,#4097FF,Halogenated compound utilization,Halogenated compound utilization,Halogenated compounds breakdown
+Element Cycling,#4097FF,Halogenated compound utilization,Halogenated compound utilization,Halogenated compounds breakdown
+Element Cycling,#4097FF,Halogenated compound utilization,Halogenated compound utilization,Halogenated compounds breakdown
+Element Cycling,#55688f,Perchlorate reduction,Perchlorate reduction,Perchlorate reduction
+Element Cycling,#55688f,Perchlorate reduction,Perchlorate reduction,Perchlorate reduction
+Element Cycling,#98b3dd,Chlorite reduction,Chlorite reduction,Chlorite reduction
 Element Cycling,#E0C2A4,Metal - As,As cycling,Arsenite oxidation
 Element Cycling,#E0C2A4,Metal - As,As cycling,Arsenite oxidation
 Element Cycling,#E0C2A4,Metal - As,As cycling,Arsenate reduction

@@ -1,8 +1,8 @@
 pacman::p_load(readxl, tidyverse, plotly, heatmaply, grid)
 
 #load old metadata from JGI annotations for gene counts per genome - need to update this
-gene_counts_old <- read_csv("../submission/data/genome_metadata.csv") %>%
-  select(`Genome Name / Sample Name`, `Gene Count   * assembled`) %>%
+gene_counts_old <- read_csv("../../submission/data/genome_metadata.csv") %>%
+  select(`Genome Name / Sample Name`, `Gene Count   * assembled`, Phylum) %>%
   rename(genome_sample = `Genome Name / Sample Name`) %>%
   rename(gene_count_old = `Gene Count   * assembled`) %>%
   mutate(site = if_else(str_detect(genome_sample, regex("DeMMO", ignore.case = TRUE)),
@@ -100,10 +100,15 @@ bubble_plot <- data %>%
   inner_join(element_cycling) %>%
   ungroup() %>%
   mutate(Category = if_else(Category == "Metal reduction", "Fe/Mn reduction", Category),
-         Category = factor(Category, levels = c("Nitrogen cycling", "Urea utilization","Sulfur cycling", "Hydrogenases","Oxidative phosphorylation",                               
+         Category = if_else(Category == "Urea utilization", "Fe/Mn reduction", Category),
+         Category = if_else(Category == "Halogenated compound utilization", "Halogen cycling", Category),
+         Category = if_else(Category == "Perchlorate reduction", "Halogen cycling", Category),
+         Category = if_else(Category == "Chlorite reduction", "Halogen cycling", Category),
+         Category = factor(Category, levels = c("Nitrogen cycling", "Sulfur cycling", "Hydrogenases","Oxidative phosphorylation",                               
                                                    "Oxygen metabolism (Oxidative phosphorylation Complex IV)",                                         
-                                                   "Halogenated compound utilization","Perchlorate reduction", "Chlorite reduction","As cycling",                                           
-                                                   "Selenate reduction","Fe/Mn reduction"))) %>%
+                                                  "Halogen cycling","As cycling",                                           
+                                                   "Selenate reduction","Fe/Mn reduction")),
+         Lump = as.factor(Lump)) %>%
   ggplot(aes(site, `Gene abbreviation`, color = Lump, label=Category)) +
   geom_point(ggplot2::aes(size = hits)) +
   scale_size_continuous(breaks = c(2e-05, 5e-05, 1e-04, 5e-04, 1e-03), name = "% metagenome") +
@@ -129,10 +134,10 @@ plotly::ggplotly(bubble_plot)
 gt = ggplot_gtable(ggplot_build(bubble_plot))
 
 #show layout of plot to figure out which rows to manually resize
-gtable::gtable_show_layout(gt)
+#gtable::gtable_show_layout(gt)
 
 for(i in c(9, 19, 21, 23, 25, 27, 29)){
-  gt$heights[i] = 1.5*gt$heights[i]
+  gt$heights[i] = 2*gt$heights[i]
 }
 grid.draw(gt)
 
@@ -151,3 +156,8 @@ n_genomes_meta <- metadata %>%
   full_join(n_genomes)
 
 
+
+Ermiobacterota <- data %>%
+  left_join(taxonomy) %>%
+  filter(phylum == "Eremiobacterota") %>%
+  write_delim("Eremiobacterota_metabolic_output.txt", delim="\t")
