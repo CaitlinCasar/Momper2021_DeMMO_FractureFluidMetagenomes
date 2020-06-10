@@ -100,7 +100,7 @@ bubble_plot <- data %>%
   inner_join(element_cycling) %>%
   ungroup() %>%
   mutate(Category = if_else(Category == "Metal reduction", "Fe/Mn reduction", Category),
-         Category = if_else(Category == "Urea utilization", "Fe/Mn reduction", Category),
+         Category = if_else(Category == "Urea utilization", "Nitrogen cycling", Category),
          Category = if_else(Category == "Halogenated compound utilization", "Halogen cycling", Category),
          Category = if_else(Category == "Perchlorate reduction", "Halogen cycling", Category),
          Category = if_else(Category == "Chlorite reduction", "Halogen cycling", Category),
@@ -108,7 +108,8 @@ bubble_plot <- data %>%
                                                    "Oxygen metabolism (Oxidative phosphorylation Complex IV)",                                         
                                                   "Halogen cycling","As cycling",                                           
                                                    "Selenate reduction","Fe/Mn reduction")),
-         Lump = as.factor(Lump)) %>%
+         Lump = as.factor(Lump),
+         `Gene abbreviation` = factor(`Gene abbreviation`, levels = unique(`Gene abbreviation`[order(Lump)]))) %>%
   ggplot(aes(site, `Gene abbreviation`, color = Lump, label=Category)) +
   geom_point(ggplot2::aes(size = hits)) +
   scale_size_continuous(breaks = c(2e-05, 5e-05, 1e-04, 5e-04, 1e-03), name = "% metagenome") +
@@ -136,7 +137,7 @@ gt = ggplot_gtable(ggplot_build(bubble_plot))
 #show layout of plot to figure out which rows to manually resize
 #gtable::gtable_show_layout(gt)
 
-for(i in c(9, 19, 21, 23, 25, 27, 29)){
+for(i in c(28)){
   gt$heights[i] = 2*gt$heights[i]
 }
 grid.draw(gt)
