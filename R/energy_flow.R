@@ -13,7 +13,7 @@ read_files <- function(file){
 file_list = lapply(files, read_files)
 data <- reduce(file_list, bind_rows)
 
-phylum_colors <- read_csv("../data/phylum_color_data.csv") %>%
+phylum_colors <- read_csv("../data/phylum_color_data.csv") 
   
   
 phylum_color_dict <- phylum_colors$hex.color

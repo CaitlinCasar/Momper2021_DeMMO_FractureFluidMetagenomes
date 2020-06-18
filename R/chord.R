@@ -48,29 +48,38 @@ metabolism <- data.frame(Step1 = c("C-S-01:Organic carbon oxidation",
                  "S-S-07:Thiosulfate oxidation",         
                  "S-S-08:Thiosulfate disproportionation 1",
                 "S-S-09:Thiosulfate disproportionation 2"), order = c(1:26),
-                color = c(rep("#000", 6), rep("#34ccc0", 7), rep("#B2671B", 4),
-                          rep("#787a78", 2), rep("#f4d98c", 7)))
+                #color = c(rep("#000000", 6), rep("#34ccc0", 7), rep("#B2671B", 4),
+                          #rep("#787a78", 2), rep("#f4d98c", 7)))
+                color = c(rep("#9E0142", 6), rep("#F88D51", 7), rep("#FFFFBF", 4),
+                  rep("#88CFA4", 2), rep("#5E4FA2", 7))) %>%
+  mutate(Category = str_extract(Step1, "[^-]+"),
+         Category = recode(Category, "C" = "Carbon", "S" = "Sulfur", "N" = "Nitrogen", "O" = "Oxygen"))
 metabolism_colors <- metabolism$color
-names(metabolism_colors) <- metabolism$Step1
+names(metabolism_colors) <- metabolism$order
 
 network_plot <- data %>%
   filter(site == "D1") %>%
-  select(-`#Genome`) %>%
   left_join(metabolism) %>%
-  arrange(order) %>%
+  rename(from = "order") %>%
+  left_join(metabolism, by=c("Step2" = "Step1")) %>%
+  rename(to = "order") %>%
+  arrange(from) %>%
   mutate(Category = str_extract(Step1, "[^-]+"),
          Category = recode(Category, "C" = "Carbon", "S" = "Sulfur", "N" = "Nitrogen", "O" = "Oxygen")) %>%
+  select(from, to, `Taxonomic Group`, `Coverage value(average)`, Category) %>%
 ggraph(layout = 'linear', circular = TRUE) + 
-  geom_edge_arc(aes(colour = as.factor(`Taxonomic Group`), edge_width = `Coverage value(average)`), alpha = 0.5) +
+  geom_edge_arc(aes(colour = as.factor(`Taxonomic Group`))) +
+  #geom_edge_arc(aes(colour = as.factor(`Taxonomic Group`), edge_width = `Coverage value(average)`), alpha = 0.5) +
   scale_edge_color_manual(values = phylum_color_dict) +
   coord_fixed() +
-  geom_node_point(aes(color = as.factor(name)), size = 3)+ 
+  geom_node_point(aes(color=Category), size = 3)+ 
   scale_color_manual(values = metabolism_colors, guide = F) +
+  #geom_node_point(aes(color = as.factor(name)), size = 3)+ 
+  #scale_color_manual(values = metabolism_colors, guide = F) +
   geom_node_text(aes(label = name)) +
   theme_minimal() +
   theme(line = element_blank(),
         axis.title = element_blank(),
-        axis.text = element_blank())
+        axis.text = element_blank()) +
+  facet_wrap(~`Taxonomic Group`)
   
-
-

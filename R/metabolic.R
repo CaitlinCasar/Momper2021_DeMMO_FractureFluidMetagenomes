@@ -162,3 +162,7 @@ Ermiobacterota <- data %>%
   left_join(taxonomy) %>%
   filter(phylum == "Eremiobacterota") %>%
   write_delim("Eremiobacterota_metabolic_output.txt", delim="\t")
+
+thiosulf <- data %>% select(Function, `Gene abbreviation`) %>% 
+  filter(Function %in% c("Thiosulfate oxidation", "Sulfur oxidation")) %>% 
+  distinct()
