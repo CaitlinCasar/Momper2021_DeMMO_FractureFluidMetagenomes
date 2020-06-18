@@ -72,10 +72,8 @@ ggraph(layout = 'linear', circular = TRUE) +
   #geom_edge_arc(aes(colour = as.factor(`Taxonomic Group`), edge_width = `Coverage value(average)`), alpha = 0.5) +
   scale_edge_color_manual(values = phylum_color_dict) +
   coord_fixed() +
-  geom_node_point(aes(color=Category), size = 3)+ 
+  geom_node_point(aes(color = as.factor(name)), size = 3)+ 
   scale_color_manual(values = metabolism_colors, guide = F) +
-  #geom_node_point(aes(color = as.factor(name)), size = 3)+ 
-  #scale_color_manual(values = metabolism_colors, guide = F) +
   geom_node_text(aes(label = name)) +
   theme_minimal() +
   theme(line = element_blank(),
