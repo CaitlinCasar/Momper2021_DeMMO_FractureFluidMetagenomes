@@ -7,10 +7,11 @@ gene_counts_old <- read_csv("../../submission/data/genome_metadata.csv") %>%
   rename(gene_count_old = `Gene Count   * assembled`) %>%
   mutate(site = if_else(str_detect(genome_sample, regex("DeMMO", ignore.case = TRUE)),
                         paste0("D", str_extract(genome_sample, "(?<=DeMMO)(.*)(?=_)")),
-                        if_else(str_detect(genome_sample, regex("White_creek", ignore.case = TRUE)), "White Creek", "Service Water")),
+                        if_else(str_detect(genome_sample, regex("White_creek", ignore.case = TRUE)), "WC", "SW")),
          genome = str_extract(genome_sample, "(?=[^_]+$)(\\d.*)")) %>%
   select(-genome_sample)
 
+#missing ORFs for white creek and service water 
 gene_counts <- read_delim("data/geneCounts.txt", delim = " ", col_names = F) %>%
   rename(gene_count = "X2") %>%
   separate(X1, c("site", "genome"), "_") %>%
@@ -18,7 +19,8 @@ gene_counts <- read_delim("data/geneCounts.txt", delim = " ", col_names = F) %>%
          gene_count = as.numeric(gene_count))
 
 #load old metadata - this is not from metabolic output, need total # genes per genome. 
-path <- "../submission/data/DeMMO_genome_master.xlsx"
+path <- "../data/DeMMO_genome_master.xlsx"
+
 metadata  <- path %>%
   excel_sheets() %>%
   set_names() %>%
@@ -47,11 +49,22 @@ taxonomy <- lapply(files, read_files) %>%
          site = str_remove(site, "eMMO"))
 
 
-# load metabolic annotations 
-files <- list.files("../data/metabolic/annotations/", full.names = T)
+# load metabolic annotations - control files formatted differently, no map sheet
+files <- list.files("../data/metabolic/annotations", full.names = T)
 
 read_files <- function(file){
-  site <- str_extract(file, "(?<=data/metabolic/)(.*)(?=_METABOLIC_result[.]xlsx)")
+  site <- str_extract(file, "(?<=data/metabolic/annotations/)(.*)(?=_METABOLIC_result[.]xlsx)")
+  message(site)
+  if(site %in% c("D6", "SW", "WC")){
+    file %>%
+      read_excel(sheet = "HMMHitNum") %>%
+      select(-contains("Hits"), -contains("Hmm.presence")) %>%
+      gather(genome_id, hits, contains("Hit.numbers")) %>%
+      mutate(site = site, 
+             genome = str_extract(genome_id, "(?<=_)(.*)(?=[.]Hit)"),
+             presence = if_else(hits > 0, "Present", "Absent")) %>%
+      rename_at(vars(contains(".")),funs(gsub("\\.", " ", .)))
+  }else{
   map <- file %>%
     read_excel(sheet = "map") %>%
     rename(genome_id = "...2") %>%
@@ -71,6 +84,8 @@ presence <- file %>%
     mutate(genome_id = str_remove(genome_id, " Hit numbers")) %>%
     left_join(presence) %>%
     full_join(map) 
+  }
+  
 }
 
 file_list = lapply(files, read_files)
@@ -84,12 +99,15 @@ data <- reduce(file_list, bind_rows)
 metabolism_color_dict <- read_csv("../data/metabolism_color_dict.csv")
 element_cycling <- metabolism_color_dict %>%
   filter(group == "Element Cycling") %>%
-  distinct()
+  distinct() %>%
+  filter(!Category %in% c("As cycling", "Oxidative phosphorylation")) 
 element_cycling_colors <- element_cycling$color
 names(element_cycling_colors) <- element_cycling$Lump
 
 bubble_plot <- data %>%
-  left_join(metadata %>% dplyr::select(site, genome, gene_count)) %>%
+  filter(!`Gene abbreviation` %in% c("E3.8.1.2", "ccoN", "ccoO", "ccoP"))%>%
+  left_join(metadata %>% dplyr::select(site, genome, gene_count_old)) %>%
+  rename(gene_count = "gene_count_old") %>%
   filter(!is.na(gene_count)) %>%
   filter(hits > 0) %>%
   group_by(site) %>%
@@ -104,9 +122,9 @@ bubble_plot <- data %>%
          Category = if_else(Category == "Halogenated compound utilization", "Halogen cycling", Category),
          Category = if_else(Category == "Perchlorate reduction", "Halogen cycling", Category),
          Category = if_else(Category == "Chlorite reduction", "Halogen cycling", Category),
-         Category = factor(Category, levels = c("Nitrogen cycling", "Sulfur cycling", "Hydrogenases","Oxidative phosphorylation",                               
+         Category = factor(Category, levels = c("Nitrogen cycling", "Sulfur cycling", "Hydrogenases",                               
                                                    "Oxygen metabolism (Oxidative phosphorylation Complex IV)",                                         
-                                                  "Halogen cycling","As cycling",                                           
+                                                  "Halogen cycling",                                           
                                                    "Selenate reduction","Fe/Mn reduction")),
          Lump = as.factor(Lump),
          `Gene abbreviation` = factor(`Gene abbreviation`, levels = unique(`Gene abbreviation`[order(Lump)]))) %>%

@@ -1,0 +1,61 @@
+user_genome	classification	fastani_reference	fastani_taxonomy	fastani_ani	fastani_af	closest_placement_reference	closest_placement_taxonomy	closest_placement_ani	closest_placement_af	classification_method	note	other_related_references(genome_id,species_name,ANI,AF)
+WC_52	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__	GCA_002382495.1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__	95.07	0.32	GCA_001800905.1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium sp4	N/A	N/A	ANI/Placement	topological placement and ANI have incongruent species assignments	
+WC_13	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__Levybacterales;f__UBA12049;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_12	d__Bacteria;p__Patescibacteria;c__Berkelbacteria;o__;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_24	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Nomurabacteraceae;g__2-01-FULL-33-17;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_22	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__UBA1006;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_39	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__GCA-2401445;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_40	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__GCA-2401445;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_30	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Zambryskibacteraceae;g__UBA910;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_57	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Zambryskibacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_11	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Zambryskibacteraceae;g__12-FULL-43-12b;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_38	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Taylorbacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_43	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Taylorbacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_28	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Taylorbacteraceae;g__UBA6065;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_46	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_47	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Kaiserbacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_32	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Kaiserbacteraceae;g__1-14-0-10-45-20;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_14	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Kaiserbacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_51	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Kaiserbacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_23	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Kaiserbacteraceae;g__UBA10103;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_15	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Kaiserbacteraceae;g__UBA10103;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_36	d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983;f__Kaiserbacteraceae;g__2-01-FULL-51-21;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_26	d__Bacteria;p__Patescibacteria;c__ABY1;o__Uhrbacterales;f__UBA9934;g__UBA11707;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_7	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__Peribacterales;f__Peribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_37	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__Peribacterales;f__Peribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_25	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__Peribacterales;f__Peribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_2	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__Peribacterales;f__Peribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_21	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__Peribacterales;f__Peribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_19	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__Peribacterales;f__Peribacteraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_53	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__BD1-5;f__UBA6164;g__GCA-2747975;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_18	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Nanopelagicales;f__Nanopelagicaceae;g__Planktophila;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_50	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Nanopelagicales;f__Nanopelagicaceae;g__Planktophila;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_42	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Nanopelagicales;f__Nanopelagicaceae;g__Nanopelagicus;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_34	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Nanopelagicales;f__AcAMD-5;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_41	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Microbacteriaceae;g__Rhodoluna;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_16	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Chamaesiphonaceae;g__Chamaesiphon;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_1	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Thermosynechococcales;f__Thermosynechococcaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_55	d__Bacteria;p__Omnitrophota;c__Omnitrophia;o__Omnitrophales;f__GWA2-52-8;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_44	d__Bacteria;p__Omnitrophota;c__UBA9649;o__2-02-FULL-51-18;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_9	d__Bacteria;p__Omnitrophota;c__UBA9649;o__2-02-FULL-51-18;f__;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_27	d__Bacteria;p__Omnitrophota;c__koll11;o__UBA10015;f__kpj58rc;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_54	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767-A;f__2013-40CM-41-45;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_5	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Solitaleaceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_3	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__UBA10320;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_45	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Sediminibacterium;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_60	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_20	d__Bacteria;p__Planctomycetota;c__UBA11346;o__UBA11346;f__UBA11346;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_8	d__Bacteria;p__Verrucomicrobiota;c__Chlamydiia;o__Parachlamydiales;f__SM23-39;g__;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_33	d__Bacteria;p__Nitrospirota;c__Nitrospiria;o__Nitrospirales;f__Nitrospiraceae;g__Nitrospira;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_49	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Rickettsiaceae;g__GCA-2402195;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_35	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__OSC116;g__;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_17	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Pseudorhodobacter_A;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_48	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Ga0077559;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_29	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Methylophilaceae;g__Methylophilus;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_56	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Burkholderiaceae;g__UBA2334;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_59	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Burkholderiaceae;g__Brachymonas;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_58	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Burkholderiaceae;g__Rhodoferax;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_4	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Burkholderiaceae;g__Polaromonas;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_10	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Burkholderiaceae;g__Polaromonas;s__	None	None	None	None	None	None	None	None	taxonomic novelty determined using RED	None	None
+WC_6	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Burkholderiaceae;g__Polynucleobacter;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None
+WC_31	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Betaproteobacteriales;f__Burkholderiaceae;g__Polynucleobacter;s__	None	None	None	None	None	None	None	None	taxonomic classification fully defined by topology	None	None

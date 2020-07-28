@@ -1,0 +1,385 @@
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00772152807000697
+Gammaproteobacteria	C-S-02:Carbon fixation	0.00772152807000697
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00772152807000697
+Gammaproteobacteria	C-S-06:Fermentation	0.00772152807000697
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.00772152807000697
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.00772152807000697
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.00772152807000697
+Gammaproteobacteria	S-S-09:Thiosulfate disproportionation 2	0.00772152807000697
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.015396584646201
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.015396584646201
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.0104523561965659
+Verrucomicrobiota	C-S-06:Fermentation	0.0104523561965659
+Cyanobacteriota	C-S-01:Organic carbon oxidation	0.01706565162195
+Cyanobacteriota	C-S-04:Acetate oxidation	0.01706565162195
+Cyanobacteriota	C-S-05:Hydrogen generation	0.01706565162195
+Cyanobacteriota	C-S-06:Fermentation	0.01706565162195
+Cyanobacteriota	S-S-03:Sulfur oxidation	0.01706565162195
+Cyanobacteriota	S-S-04:Sulfite oxidation	0.01706565162195
+Cyanobacteriota	S-S-05:Sulfate reduction	0.01706565162195
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.0041529157888082
+Verrucomicrobiota	C-S-04:Acetate oxidation	0.0041529157888082
+Verrucomicrobiota	C-S-06:Fermentation	0.0041529157888082
+Verrucomicrobiota	N-S-06:Nitric oxide reduction	0.0041529157888082
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0040463399993691
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.0040463399993691
+Gammaproteobacteria	C-S-06:Fermentation	0.0040463399993691
+Gammaproteobacteria	N-S-06:Nitric oxide reduction	0.0040463399993691
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.0707017159592841
+Alphaproteobacteria	C-S-02:Carbon fixation	0.0707017159592841
+Alphaproteobacteria	C-S-04:Acetate oxidation	0.0707017159592841
+Alphaproteobacteria	C-S-06:Fermentation	0.0707017159592841
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.0707017159592841
+Alphaproteobacteria	S-S-03:Sulfur oxidation	0.0707017159592841
+Alphaproteobacteria	S-S-09:Thiosulfate disproportionation 2	0.0707017159592841
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00506173633324546
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0506315158503813
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.0506315158503813
+Gammaproteobacteria	C-S-06:Fermentation	0.0506315158503813
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.0506315158503813
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.0506315158503813
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.0037859373185347
+Verrucomicrobiota	C-S-04:Acetate oxidation	0.0037859373185347
+Verrucomicrobiota	C-S-06:Fermentation	0.0037859373185347
+Verrucomicrobiota	C-S-08:Methanotrophy	0.0037859373185347
+Verrucomicrobiota	S-S-03:Sulfur oxidation	0.0037859373185347
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00747964520724706
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00747964520724706
+Gammaproteobacteria	C-S-06:Fermentation	0.00747964520724706
+Gammaproteobacteria	N-S-06:Nitric oxide reduction	0.00747964520724706
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00963202105516579
+Alphaproteobacteria	C-S-04:Acetate oxidation	0.00963202105516579
+Alphaproteobacteria	C-S-06:Fermentation	0.00963202105516579
+Alphaproteobacteria	N-S-07:Nitrous oxide reduction	0.00963202105516579
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.00963202105516579
+Cyanobacteriota	C-S-01:Organic carbon oxidation	0.00740578518364452
+Cyanobacteriota	N-S-06:Nitric oxide reduction	0.00740578518364452
+Cyanobacteriota	O-S-02:Arsenate reduction	0.00740578518364452
+Cyanobacteriota	S-S-03:Sulfur oxidation	0.00740578518364452
+Cyanobacteriota	C-S-01:Organic carbon oxidation	0.00379572226291154
+Cyanobacteriota	C-S-06:Fermentation	0.00379572226291154
+Cyanobacteriota	C-S-08:Methanotrophy	0.00379572226291154
+Cyanobacteriota	N-S-04:Nitrate reduction	0.00379572226291154
+Cyanobacteriota	N-S-06:Nitric oxide reduction	0.00379572226291154
+Cyanobacteriota	O-S-02:Arsenate reduction	0.00379572226291154
+Cyanobacteriota	S-S-03:Sulfur oxidation	0.00379572226291154
+Dependentiae	C-S-01:Organic carbon oxidation	0.00796396818170396
+Dependentiae	C-S-01:Organic carbon oxidation	0.0118786745898145
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00525873991941625
+Gammaproteobacteria	C-S-02:Carbon fixation	0.00525873991941625
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00525873991941625
+Gammaproteobacteria	C-S-06:Fermentation	0.00525873991941625
+Gammaproteobacteria	N-S-04:Nitrate reduction	0.00525873991941625
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.00525873991941625
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.00525873991941625
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.00525873991941625
+Gammaproteobacteria	S-S-07:Thiosulfate oxidation	0.00525873991941625
+Gammaproteobacteria	S-S-09:Thiosulfate disproportionation 2	0.00525873991941625
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00523475712032029
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.00523475712032029
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00395595893228807
+Gammaproteobacteria	C-S-02:Carbon fixation	0.00395595893228807
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00395595893228807
+Gammaproteobacteria	C-S-06:Fermentation	0.00395595893228807
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.00395595893228807
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.00395595893228807
+Gammaproteobacteria	S-S-04:Sulfite oxidation	0.00395595893228807
+Gammaproteobacteria	S-S-05:Sulfate reduction	0.00395595893228807
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00889357488224797
+Gammaproteobacteria	S-S-04:Sulfite oxidation	0.00889357488224797
+Gammaproteobacteria	S-S-05:Sulfate reduction	0.00889357488224797
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.00323555759992724
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00271022740632748
+Bacteroidota	C-S-04:Acetate oxidation	0.00271022740632748
+Bacteroidota	C-S-06:Fermentation	0.00271022740632748
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.00271022740632748
+Bacteroidota	O-S-02:Arsenate reduction	0.00271022740632748
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.0549806312335565
+Alphaproteobacteria	C-S-04:Acetate oxidation	0.0549806312335565
+Alphaproteobacteria	C-S-06:Fermentation	0.0549806312335565
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.0549806312335565
+Bdellovibrionota	C-S-01:Organic carbon oxidation	0.00327420252246883
+Bdellovibrionota	C-S-06:Fermentation	0.00327420252246883
+Bdellovibrionota	N-S-05:Nitrite reduction	0.00327420252246883
+Bdellovibrionota	O-S-02:Arsenate reduction	0.00327420252246883
+Bdellovibrionota	S-S-03:Sulfur oxidation	0.00327420252246883
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0163061883777201
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.0163061883777201
+Gammaproteobacteria	C-S-06:Fermentation	0.0163061883777201
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.0163061883777201
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00261987276352053
+Alphaproteobacteria	C-S-04:Acetate oxidation	0.00261987276352053
+Alphaproteobacteria	C-S-06:Fermentation	0.00261987276352053
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.00261987276352053
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00787331207721279
+Patescibacteria	C-S-01:Organic carbon oxidation	0.106953146988535
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00533252144960371
+Bacteroidota	C-S-04:Acetate oxidation	0.00533252144960371
+Bacteroidota	C-S-06:Fermentation	0.00533252144960371
+Bacteroidota	N-S-03:Nitrite oxidation	0.00533252144960371
+Bacteroidota	O-S-02:Arsenate reduction	0.00533252144960371
+Bacteroidota	S-S-03:Sulfur oxidation	0.00533252144960371
+Nitrospirota	C-S-01:Organic carbon oxidation	0.0145655581027463
+Nitrospirota	C-S-02:Carbon fixation	0.0145655581027463
+Nitrospirota	C-S-04:Acetate oxidation	0.0145655581027463
+Nitrospirota	C-S-05:Hydrogen generation	0.0145655581027463
+Nitrospirota	C-S-06:Fermentation	0.0145655581027463
+Nitrospirota	N-S-05:Nitrite reduction	0.0145655581027463
+Nitrospirota	N-S-08:Nitrite ammonification	0.0145655581027463
+Nitrospirota	O-S-02:Arsenate reduction	0.0145655581027463
+Nitrospirota	S-S-01:Sulfide oxidation	0.0145655581027463
+Nitrospirota	S-S-03:Sulfur oxidation	0.0145655581027463
+Planctomycetota	C-S-01:Organic carbon oxidation	0.00569405590085807
+Planctomycetota	C-S-04:Acetate oxidation	0.00569405590085807
+Planctomycetota	C-S-06:Fermentation	0.00569405590085807
+Planctomycetota	N-S-08:Nitrite ammonification	0.00569405590085807
+Planctomycetota	S-S-04:Sulfite oxidation	0.00569405590085807
+Planctomycetota	S-S-05:Sulfate reduction	0.00569405590085807
+Planctomycetota	S-S-09:Thiosulfate disproportionation 2	0.00569405590085807
+Planctomycetota	C-S-01:Organic carbon oxidation	0.00273400121938431
+Planctomycetota	C-S-06:Fermentation	0.00273400121938431
+Planctomycetota	N-S-03:Nitrite oxidation	0.00273400121938431
+Planctomycetota	N-S-08:Nitrite ammonification	0.00273400121938431
+Planctomycetota	O-S-02:Arsenate reduction	0.00273400121938431
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00419102803007417
+Gammaproteobacteria	C-S-08:Methanotrophy	0.00419102803007417
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.00419102803007417
+Cyanobacteriota	C-S-01:Organic carbon oxidation	0.00810149651379779
+Cyanobacteriota	C-S-05:Hydrogen generation	0.00810149651379779
+Cyanobacteriota	C-S-06:Fermentation	0.00810149651379779
+Cyanobacteriota	C-S-09:Hydrogen oxidation	0.00810149651379779
+Cyanobacteriota	N-S-06:Nitric oxide reduction	0.00810149651379779
+Cyanobacteriota	O-S-02:Arsenate reduction	0.00810149651379779
+Cyanobacteriota	S-S-03:Sulfur oxidation	0.00810149651379779
+Cyanobacteriota	S-S-09:Thiosulfate disproportionation 2	0.00810149651379779
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.00279431228387813
+Verrucomicrobiota	C-S-04:Acetate oxidation	0.00279431228387813
+Verrucomicrobiota	C-S-05:Hydrogen generation	0.00279431228387813
+Verrucomicrobiota	C-S-06:Fermentation	0.00279431228387813
+Verrucomicrobiota	C-S-09:Hydrogen oxidation	0.00279431228387813
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00263185976693191
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00263185976693191
+Gammaproteobacteria	C-S-06:Fermentation	0.00263185976693191
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.00263185976693191
+Planctomycetota	C-S-01:Organic carbon oxidation	0.00314908066762725
+Planctomycetota	C-S-04:Acetate oxidation	0.00314908066762725
+Planctomycetota	C-S-06:Fermentation	0.00314908066762725
+Planctomycetota	N-S-03:Nitrite oxidation	0.00314908066762725
+Planctomycetota	O-S-02:Arsenate reduction	0.00314908066762725
+Planctomycetota	S-S-04:Sulfite oxidation	0.00314908066762725
+Planctomycetota	S-S-05:Sulfate reduction	0.00314908066762725
+Dependentiae	C-S-01:Organic carbon oxidation	0.00480349227763817
+Planctomycetota	C-S-01:Organic carbon oxidation	0.00662646119097926
+Planctomycetota	C-S-02:Carbon fixation	0.00662646119097926
+Planctomycetota	C-S-04:Acetate oxidation	0.00662646119097926
+Planctomycetota	C-S-06:Fermentation	0.00662646119097926
+Planctomycetota	C-S-08:Methanotrophy	0.00662646119097926
+Planctomycetota	N-S-08:Nitrite ammonification	0.00662646119097926
+Planctomycetota	S-S-03:Sulfur oxidation	0.00662646119097926
+Planctomycetota	S-S-04:Sulfite oxidation	0.00662646119097926
+Planctomycetota	S-S-05:Sulfate reduction	0.00662646119097926
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00595836343900148
+Alphaproteobacteria	N-S-08:Nitrite ammonification	0.00595836343900148
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.00595836343900148
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00960795155472625
+Alphaproteobacteria	N-S-05:Nitrite reduction	0.00960795155472625
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00558083202857751
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.00558083202857751
+Bacteroidota	O-S-02:Arsenate reduction	0.00558083202857751
+Bacteroidota	S-S-03:Sulfur oxidation	0.00558083202857751
+Cyanobacteriota	C-S-01:Organic carbon oxidation	0.0123041419405102
+Cyanobacteriota	C-S-06:Fermentation	0.0123041419405102
+Cyanobacteriota	N-S-06:Nitric oxide reduction	0.0123041419405102
+Cyanobacteriota	O-S-02:Arsenate reduction	0.0123041419405102
+Cyanobacteriota	S-S-03:Sulfur oxidation	0.0123041419405102
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.0469900430866565
+Alphaproteobacteria	C-S-02:Carbon fixation	0.0469900430866565
+Alphaproteobacteria	C-S-04:Acetate oxidation	0.0469900430866565
+Alphaproteobacteria	C-S-06:Fermentation	0.0469900430866565
+Alphaproteobacteria	S-S-03:Sulfur oxidation	0.0469900430866565
+Alphaproteobacteria	S-S-07:Thiosulfate oxidation	0.0469900430866565
+Alphaproteobacteria	S-S-09:Thiosulfate disproportionation 2	0.0469900430866565
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0130989368544302
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.0130989368544302
+Gammaproteobacteria	C-S-06:Fermentation	0.0130989368544302
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.0130989368544302
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.0130989368544302
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.0130989368544302
+Gammaproteobacteria	S-S-04:Sulfite oxidation	0.0130989368544302
+Gammaproteobacteria	S-S-05:Sulfate reduction	0.0130989368544302
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00364674583070603
+Bacteroidota	C-S-04:Acetate oxidation	0.00364674583070603
+Bacteroidota	C-S-06:Fermentation	0.00364674583070603
+Bacteroidota	O-S-02:Arsenate reduction	0.00364674583070603
+Bacteroidota	S-S-03:Sulfur oxidation	0.00364674583070603
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0119796782235276
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.00250269556045484
+Verrucomicrobiota	C-S-06:Fermentation	0.00250269556045484
+Dependentiae	C-S-01:Organic carbon oxidation	0.0183106527186913
+Dependentiae	C-S-04:Acetate oxidation	0.0183106527186913
+Dependentiae	C-S-06:Fermentation	0.0183106527186913
+Dependentiae	C-S-08:Methanotrophy	0.0183106527186913
+Dependentiae	C-S-01:Organic carbon oxidation	0.012307624935354
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0117161631877584
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.0117161631877584
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.0117161631877584
+Gammaproteobacteria	S-S-09:Thiosulfate disproportionation 2	0.0117161631877584
+Acidobacteriota	C-S-01:Organic carbon oxidation	0.00243301641265246
+Acidobacteriota	C-S-06:Fermentation	0.00243301641265246
+Dadabacteria	C-S-01:Organic carbon oxidation	0.0645477189974346
+Dadabacteria	C-S-06:Fermentation	0.0645477189974346
+Dadabacteria	O-S-02:Arsenate reduction	0.0645477189974346
+Bacteroidota	C-S-01:Organic carbon oxidation	0.020590361869894
+Bacteroidota	C-S-04:Acetate oxidation	0.020590361869894
+Bacteroidota	C-S-06:Fermentation	0.020590361869894
+Bacteroidota	O-S-02:Arsenate reduction	0.020590361869894
+Bacteroidota	S-S-03:Sulfur oxidation	0.020590361869894
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0165058110964024
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.0165058110964024
+Gammaproteobacteria	C-S-06:Fermentation	0.0165058110964024
+Gammaproteobacteria	N-S-01:Nitrogen fixation	0.0165058110964024
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.0165058110964024
+Gammaproteobacteria	O-S-02:Arsenate reduction	0.0165058110964024
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.0165058110964024
+Gammaproteobacteria	S-S-04:Sulfite oxidation	0.0165058110964024
+Gammaproteobacteria	S-S-05:Sulfate reduction	0.0165058110964024
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00697903036454366
+Alphaproteobacteria	N-S-04:Nitrate reduction	0.00697903036454366
+Alphaproteobacteria	N-S-05:Nitrite reduction	0.00697903036454366
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.00697903036454366
+Alphaproteobacteria	S-S-07:Thiosulfate oxidation	0.00697903036454366
+Alphaproteobacteria	S-S-09:Thiosulfate disproportionation 2	0.00697903036454366
+Planctomycetota	C-S-01:Organic carbon oxidation	0.00228973176298897
+Planctomycetota	C-S-06:Fermentation	0.00228973176298897
+Planctomycetota	O-S-02:Arsenate reduction	0.00228973176298897
+Planctomycetota	S-S-03:Sulfur oxidation	0.00228973176298897
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00541035294612731
+Gammaproteobacteria	C-S-02:Carbon fixation	0.00541035294612731
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00541035294612731
+Gammaproteobacteria	C-S-06:Fermentation	0.00541035294612731
+Gammaproteobacteria	N-S-04:Nitrate reduction	0.00541035294612731
+Gammaproteobacteria	N-S-05:Nitrite reduction	0.00541035294612731
+Gammaproteobacteria	N-S-06:Nitric oxide reduction	0.00541035294612731
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.00541035294612731
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.00541035294612731
+Gammaproteobacteria	S-S-04:Sulfite oxidation	0.00541035294612731
+Gammaproteobacteria	S-S-05:Sulfate reduction	0.00541035294612731
+Gammaproteobacteria	S-S-09:Thiosulfate disproportionation 2	0.00541035294612731
+Planctomycetota	C-S-01:Organic carbon oxidation	0.0107377076993711
+Planctomycetota	C-S-06:Fermentation	0.0107377076993711
+Planctomycetota	N-S-06:Nitric oxide reduction	0.0107377076993711
+Planctomycetota	S-S-03:Sulfur oxidation	0.0107377076993711
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.0304959720715319
+Alphaproteobacteria	C-S-04:Acetate oxidation	0.0304959720715319
+Alphaproteobacteria	C-S-06:Fermentation	0.0304959720715319
+Alphaproteobacteria	N-S-08:Nitrite ammonification	0.0304959720715319
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.0304959720715319
+Alphaproteobacteria	S-S-03:Sulfur oxidation	0.0304959720715319
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00459767823234298
+Bacteroidota	C-S-04:Acetate oxidation	0.00459767823234298
+Bacteroidota	C-S-06:Fermentation	0.00459767823234298
+Bacteroidota	N-S-06:Nitric oxide reduction	0.00459767823234298
+Bacteroidota	S-S-03:Sulfur oxidation	0.00459767823234298
+Bdellovibrionota	C-S-01:Organic carbon oxidation	0.00293878557360769
+Bdellovibrionota	C-S-06:Fermentation	0.00293878557360769
+Cyanobacteriota	C-S-01:Organic carbon oxidation	0.00214148710641852
+Cyanobacteriota	C-S-06:Fermentation	0.00214148710641852
+Cyanobacteriota	N-S-06:Nitric oxide reduction	0.00214148710641852
+Cyanobacteriota	O-S-02:Arsenate reduction	0.00214148710641852
+Cyanobacteriota	S-S-09:Thiosulfate disproportionation 2	0.00214148710641852
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.0137104543479387
+Alphaproteobacteria	C-S-06:Fermentation	0.0137104543479387
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.00573724804361139
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.00239740057890643
+Verrucomicrobiota	C-S-04:Acetate oxidation	0.00239740057890643
+Verrucomicrobiota	C-S-06:Fermentation	0.00239740057890643
+Verrucomicrobiota	N-S-05:Nitrite reduction	0.00239740057890643
+Verrucomicrobiota	O-S-02:Arsenate reduction	0.00239740057890643
+Dependentiae	C-S-01:Organic carbon oxidation	0.00265537085036225
+Dependentiae	C-S-04:Acetate oxidation	0.00265537085036225
+Dependentiae	C-S-06:Fermentation	0.00265537085036225
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0090824254455441
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.0090824254455441
+Gammaproteobacteria	C-S-06:Fermentation	0.0090824254455441
+Gammaproteobacteria	C-S-09:Hydrogen oxidation	0.0090824254455441
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.0090824254455441
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00310566910015187
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00310566910015187
+Gammaproteobacteria	C-S-06:Fermentation	0.00310566910015187
+Verrucomicrobiota	C-S-01:Organic carbon oxidation	0.00199379124832308
+Verrucomicrobiota	C-S-02:Carbon fixation	0.00199379124832308
+Verrucomicrobiota	C-S-09:Hydrogen oxidation	0.00199379124832308
+Verrucomicrobiota	N-S-06:Nitric oxide reduction	0.00199379124832308
+Verrucomicrobiota	N-S-08:Nitrite ammonification	0.00199379124832308
+Verrucomicrobiota	O-S-01:Metal reduction	0.00199379124832308
+Verrucomicrobiota	S-S-03:Sulfur oxidation	0.00199379124832308
+Verrucomicrobiota	S-S-09:Thiosulfate disproportionation 2	0.00199379124832308
+Chloroflexota	C-S-01:Organic carbon oxidation	0.00233814068779255
+Chloroflexota	O-S-04:Selenate reduction	0.00233814068779255
+Chloroflexota	S-S-04:Sulfite oxidation	0.00233814068779255
+Chloroflexota	S-S-05:Sulfate reduction	0.00233814068779255
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00272277258017323
+Alphaproteobacteria	S-S-04:Sulfite oxidation	0.00272277258017323
+Alphaproteobacteria	S-S-05:Sulfate reduction	0.00272277258017323
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00392941427915162
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00301545518066938
+Planctomycetota	C-S-01:Organic carbon oxidation	0.00514926685913096
+Planctomycetota	C-S-06:Fermentation	0.00514926685913096
+Planctomycetota	N-S-06:Nitric oxide reduction	0.00514926685913096
+Planctomycetota	N-S-08:Nitrite ammonification	0.00514926685913096
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00461301632618982
+Bacteroidota	C-S-06:Fermentation	0.00461301632618982
+Bacteroidota	N-S-06:Nitric oxide reduction	0.00461301632618982
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.00461301632618982
+Bacteroidota	O-S-02:Arsenate reduction	0.00461301632618982
+Bacteroidota	S-S-03:Sulfur oxidation	0.00461301632618982
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00373961265211192
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00373961265211192
+Gammaproteobacteria	C-S-06:Fermentation	0.00373961265211192
+Nitrospirota	C-S-01:Organic carbon oxidation	0.00393104647538275
+Nitrospirota	C-S-06:Fermentation	0.00393104647538275
+Nitrospirota	N-S-05:Nitrite reduction	0.00393104647538275
+Nitrospirota	N-S-08:Nitrite ammonification	0.00393104647538275
+Nitrospirota	O-S-02:Arsenate reduction	0.00393104647538275
+Nitrospirota	S-S-03:Sulfur oxidation	0.00393104647538275
+Nitrospirota	S-S-07:Thiosulfate oxidation	0.00393104647538275
+Nitrospirota	S-S-09:Thiosulfate disproportionation 2	0.00393104647538275
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.00693569384621919
+Gammaproteobacteria	C-S-04:Acetate oxidation	0.00693569384621919
+Gammaproteobacteria	C-S-06:Fermentation	0.00693569384621919
+Dependentiae	C-S-01:Organic carbon oxidation	0.0029776437929848
+Dependentiae	C-S-06:Fermentation	0.0029776437929848
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.0203257140182155
+Alphaproteobacteria	C-S-02:Carbon fixation	0.0203257140182155
+Alphaproteobacteria	N-S-04:Nitrate reduction	0.0203257140182155
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.0203257140182155
+Alphaproteobacteria	S-S-01:Sulfide oxidation	0.0203257140182155
+Bacteroidota	C-S-01:Organic carbon oxidation	0.00414493256611137
+Bacteroidota	N-S-06:Nitric oxide reduction	0.00414493256611137
+Bacteroidota	N-S-07:Nitrous oxide reduction	0.00414493256611137
+Bacteroidota	S-S-03:Sulfur oxidation	0.00414493256611137
+Cyanobacteriota	C-S-01:Organic carbon oxidation	0.0097710258624607
+Cyanobacteriota	N-S-04:Nitrate reduction	0.0097710258624607
+Cyanobacteriota	N-S-06:Nitric oxide reduction	0.0097710258624607
+Cyanobacteriota	O-S-02:Arsenate reduction	0.0097710258624607
+Cyanobacteriota	S-S-03:Sulfur oxidation	0.0097710258624607
+Cyanobacteriota	S-S-09:Thiosulfate disproportionation 2	0.0097710258624607
+Acidobacteriota	C-S-01:Organic carbon oxidation	0.00274727420992112
+Acidobacteriota	C-S-04:Acetate oxidation	0.00274727420992112
+Acidobacteriota	C-S-06:Fermentation	0.00274727420992112
+Acidobacteriota	C-S-08:Methanotrophy	0.00274727420992112
+Acidobacteriota	N-S-08:Nitrite ammonification	0.00274727420992112
+Acidobacteriota	O-S-01:Metal reduction	0.00274727420992112
+Acidobacteriota	O-S-02:Arsenate reduction	0.00274727420992112
+Acidobacteriota	S-S-03:Sulfur oxidation	0.00274727420992112
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00324011583548294
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.00324011583548294
+Alphaproteobacteria	S-S-03:Sulfur oxidation	0.00324011583548294
+Gammaproteobacteria	C-S-01:Organic carbon oxidation	0.0070635975079932
+Gammaproteobacteria	N-S-06:Nitric oxide reduction	0.0070635975079932
+Gammaproteobacteria	N-S-08:Nitrite ammonification	0.0070635975079932
+Gammaproteobacteria	S-S-03:Sulfur oxidation	0.0070635975079932
+Alphaproteobacteria	C-S-01:Organic carbon oxidation	0.00708656692603191
+Alphaproteobacteria	C-S-04:Acetate oxidation	0.00708656692603191
+Alphaproteobacteria	C-S-06:Fermentation	0.00708656692603191
+Alphaproteobacteria	O-S-02:Arsenate reduction	0.00708656692603191
