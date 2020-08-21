@@ -34,7 +34,7 @@ metadata  <- path %>%
   mutate(gene_diff = `gene_count`/`gene_count_old`*100)
 
 #load GTDBtk taxonomy from metabolic output
-files <- list.files("../data/metabolic/taxonomy/", full.names = T)
+files <- list.files("../data/metabolic/taxonomy", full.names = T)
 
 read_files <- function(file){
   file %>% read_delim(delim = "\t")
@@ -98,14 +98,14 @@ data <- reduce(file_list, bind_rows)
 #metabolism <- c("Nitrogen cycling", "Sulfur cycling", "As cycling", "Hydrogenases", "Methane metabolism", "Carbon fixation", "Chlorite reduction", "Selenate reduction", "Metal reduction", "Perchlorate reduction")
 metabolism_color_dict <- read_csv("../data/metabolism_color_dict.csv")
 element_cycling <- metabolism_color_dict %>%
-  filter(group == "Element Cycling") %>%
+  filter(group == "Element Cycling" | Category %in% c("Fermentation", "C1 metabolism")) %>%
   distinct() %>%
   filter(!Category %in% c("As cycling", "Oxidative phosphorylation")) 
 element_cycling_colors <- element_cycling$color
 names(element_cycling_colors) <- element_cycling$Lump
 
 bubble_plot <- data %>%
-  filter(!`Gene abbreviation` %in% c("E3.8.1.2", "ccoN", "ccoO", "ccoP"))%>%
+  filter(!`Gene abbreviation` %in% c("E3.8.1.2", "ccoN", "ccoO", "ccoP", "nifK", "nifH", "nifD", "octR", "cydA", "cydB"))%>%
   left_join(metadata %>% dplyr::select(site, genome, gene_count_old)) %>%
   rename(gene_count = "gene_count_old") %>%
   filter(!is.na(gene_count)) %>%
@@ -125,7 +125,7 @@ bubble_plot <- data %>%
          Category = factor(Category, levels = c("Nitrogen cycling", "Sulfur cycling", "Hydrogenases",                               
                                                    "Oxygen metabolism (Oxidative phosphorylation Complex IV)",                                         
                                                   "Halogen cycling",                                           
-                                                   "Selenate reduction","Fe/Mn reduction")),
+                                                   "Selenate reduction","Fe/Mn reduction", "C1 metabolism", "Fermentation")),
          Lump = as.factor(Lump),
          `Gene abbreviation` = factor(`Gene abbreviation`, levels = unique(`Gene abbreviation`[order(Lump)]))) %>%
   ggplot(aes(site, `Gene abbreviation`, color = Lump, label=Category)) +
@@ -184,3 +184,9 @@ Ermiobacterota <- data %>%
 thiosulf <- data %>% select(Function, `Gene abbreviation`) %>% 
   filter(Function %in% c("Thiosulfate oxidation", "Sulfur oxidation")) %>% 
   distinct()
+
+c_fixation <- data %>% 
+  filter(Category == "Carbon fixation") %>%
+  select(Category, Function, `Gene abbreviation`, `Gene name`, `Hmm file`, `Corresponding KO`, Reaction, Substrate, Product) %>%
+  distinct()
+
