@@ -177,17 +177,29 @@ n_genomes_meta <- metadata %>%
 
 
 
-Ermiobacterota <- data %>%
-  left_join(taxonomy) %>%
-  filter(phylum == "Eremiobacterota") %>%
-  write_delim("Eremiobacterota_metabolic_output.txt", delim="\t")
 
-thiosulf <- data %>% select(Function, `Gene abbreviation`) %>% 
-  filter(Function %in% c("Thiosulfate oxidation", "Sulfur oxidation")) %>% 
-  distinct()
+# c-fixation bubble plot --------------------------------------------------
 
-c_fixation <- data %>% 
+c_fixation <- metabolism_color_dict %>%
   filter(Category == "Carbon fixation") %>%
-  select(Category, Function, `Gene abbreviation`, `Gene name`, `Hmm file`, `Corresponding KO`, Reaction, Substrate, Product) %>%
   distinct()
+
+c_fixation_colors <- c_fixation$color
+names(c_fixation_colors) <- c_fixation$Lump
+
+c_fix_pathways <- read_csv("../data/c_fixation_pathways.csv") %>%
+  select(Category, Function, `Gene abbreviation`)
+
+c_fix_plot <- data %>%
+  left_join(metadata %>% group_by(site) %>% summarize(n_genomes =)) %>%
+  rename(gene_count = "gene_count_old") %>%
+  filter(!is.na(gene_count)) %>%
+  filter(hits > 0) %>%
+  group_by(site) %>%
+  mutate(gene_count = sum(na.omit(gene_count)),
+         hits = (hits/gene_count)*100) %>%
+  group_by(site, Function, Category, `Gene abbreviation`) %>%
+  summarise(hits = sum(hits)) %>%
+  inner_join(element_cycling) %>%
+  
 
