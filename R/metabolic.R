@@ -106,6 +106,7 @@ names(element_cycling_colors) <- element_cycling$Lump
 
 bubble_plot <- data %>%
   filter(!`Gene abbreviation` %in% c("E3.8.1.2", "ccoN", "ccoO", "ccoP", "nifK", "nifH", "nifD", "octR", "cydA", "cydB"))%>%
+  mutate(`Gene abbreviation` = str_remove(`Gene abbreviation`, 'group-')) %>%
   left_join(metadata %>% dplyr::select(site, genome, gene_count_old)) %>%
   rename(gene_count = "gene_count_old") %>%
   filter(!is.na(gene_count)) %>%
