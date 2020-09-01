@@ -105,7 +105,7 @@ element_cycling_colors <- element_cycling$color
 names(element_cycling_colors) <- element_cycling$Lump
 
 bubble_plot <- data %>%
-  filter(!`Gene abbreviation` %in% c("E3.8.1.2", "ccoN", "ccoO", "ccoP", "nifK", "nifH", "nifD", "octR", "cydA", "cydB"))%>%
+  filter(!`Gene abbreviation` %in% c("E3.8.1.2", "ccoN", "ccoO", "ccoP", "nifK", "nifH", "nifD", "octR", "cydA", "cydB", "mauB"))%>%
   mutate(`Gene abbreviation` = str_remove(`Gene abbreviation`, 'group-')) %>%
   left_join(metadata %>% dplyr::select(site, genome, gene_count_old)) %>%
   rename(gene_count = "gene_count_old") %>%
@@ -178,7 +178,7 @@ n_genomes_meta <- metadata %>%
 
 
 
-# c-fixation bubble plot --------------------------------------------------
+# c-fixation heat map --------------------------------------------------
 
 c_fixation <- metabolism_color_dict %>%
   filter(Category == "Carbon fixation") %>%
@@ -187,19 +187,28 @@ c_fixation <- metabolism_color_dict %>%
 c_fixation_colors <- c_fixation$color
 names(c_fixation_colors) <- c_fixation$Lump
 
-c_fix_pathways <- read_csv("../data/c_fixation_pathways.csv") %>%
-  select(Category, Function, `Gene abbreviation`)
+c_fix_pathways <- read_csv("../data/c_fixation_pathways.csv") 
+
+c_fix_n_genes <- c_fix_pathways %>%
+  select(Category, Function) %>%
+  group_by(Category, Function) %>%
+  summarise(n_pathway_genes = n())
 
 c_fix_plot <- data %>%
-  left_join(metadata %>% group_by(site) %>% summarize(n_genomes =)) %>%
-  rename(gene_count = "gene_count_old") %>%
-  filter(!is.na(gene_count)) %>%
+  select(site, Category, Function, `Gene abbreviation`, hits) %>%
   filter(hits > 0) %>%
-  group_by(site) %>%
-  mutate(gene_count = sum(na.omit(gene_count)),
-         hits = (hits/gene_count)*100) %>%
-  group_by(site, Function, Category, `Gene abbreviation`) %>%
-  summarise(hits = sum(hits)) %>%
-  inner_join(element_cycling) %>%
+  select(-hits) %>%
+  distinct() %>%
+  inner_join(c_fix_pathways) %>%
+  group_by(site, Category, Function) %>%
+  summarize(hits = n()) %>%
+  inner_join(c_fix_n_genes) %>%
+  mutate(completeness = hits/n_pathway_genes*100) %>%
+  ggplot(aes(site, Function, fill=completeness)) +
+  geom_tile() + 
+  scale_fill_gradient(low = "white", high = "red") + 
+  scale_x_discrete(position = "top") 
+  
+
   
 
