@@ -14,13 +14,15 @@ taxonomy <- lapply(files, read_files) %>%
   separate(user_genome, c("site", "genome"), sep = "_") %>%
   separate(classification, c("domain","phylum", "class", "order", "family", "genus", "species"), sep = ";p__|;c__|;o__|;f__|;g__|;s__") %>%
   mutate(domain = str_remove(domain, "d__"),
-         site = str_remove(site, "eMMO"))
+         site = str_remove(site, "eMMO")) %>%
+  mutate_all(list(~na_if(.,"")))
 
 genome_abundance <- taxonomy %>%
   select(site, phylum, class) %>%
   group_by_all() %>%
   summarise(`Number of Genomes` = n()) %>%
   mutate(site = factor(site, levels = rev(c("D1", "D2", "D3", "D4", "D5", "D6", "SW", "WC")))) %>%
+  ungroup() %>%
   left_join(taxa_color_dict) %>%
   mutate(phylum = if_else(!is.na(new_taxonomy), new_taxonomy, phylum),
          class = if_else(!is.na(new_taxonomy), new_taxonomy, class),
@@ -55,43 +57,50 @@ phylum_abundance_plot <- phylum_abundance %>%
 
 class_colors <- genome_abundance %>%
   ungroup() %>%
-  select(class, color) %>%
+  mutate(class = if_else(is.na(class), phylum, class)) %>%
+  select(class, color_subplot) %>%
   distinct() %>%
-  select(color) %>%
+  select(color_subplot) %>%
   pull()
 
 names(class_colors) <- genome_abundance %>%
   ungroup() %>%
-  select(class, color) %>%
+  mutate(class = if_else(is.na(class), phylum, class)) %>%
+  select(class, color_subplot) %>%
   distinct() %>%
   select(class) %>%
   pull()
 
 subplot_a <- genome_abundance %>%
   filter(subplot == "A") %>%
-  ggplot(aes(site, `Number of Genomes`, fill = phylum)) +
+  ggplot(aes(site, `Number of Genomes`, fill = class)) +
   geom_bar(stat = "identity") +
-  scale_fill_manual(values = phylum_colors) + 
+  scale_fill_manual(values = class_colors) + 
   coord_flip() +
-  theme(legend.position = "none") +
+  theme(legend.key.size = unit(0.5, "cm")) +
+  #theme(legend.position = "none") +
   ggtitle("Archaea")
 
 subplot_p <- genome_abundance %>%
   filter(subplot == "P") %>%
-  ggplot(aes(site, `Number of Genomes`, fill = phylum)) +
+  ggplot(aes(site, `Number of Genomes`, fill = class)) +
   geom_bar(stat = "identity") +
-  scale_fill_manual(values = phylum_colors) + 
+  scale_fill_manual(values = class_colors) + 
   coord_flip() +
-  theme(legend.position = "none") +
+  theme(legend.key.size = unit(0.5, "cm")) +
+  #guides(fill=guide_legend(ncol=2)) +
+  #theme(legend.position = "none") +
   ggtitle("Proteobacteria")
 
 subplot_c <- genome_abundance %>%
   filter(subplot == "C") %>%
-  ggplot(aes(site, `Number of Genomes`, fill = phylum)) +
+  mutate(class = if_else(is.na(class), phylum, class)) %>%
+  ggplot(aes(site, `Number of Genomes`, fill = class)) +
   geom_bar(stat = "identity") +
-  scale_fill_manual(values = phylum_colors) + 
+  scale_fill_manual(values = class_colors) + 
   coord_flip() + 
-  theme(legend.position = "none") +
+  theme(legend.key.size = unit(0.5, "cm")) +
+  #theme(legend.position = "none") +
   ggtitle("Candidate Phyla Radiation")
 
 bottom_row <- plot_grid(subplot_a, subplot_p, subplot_c, labels = c('B.', 'C.' ,'D.'), label_size = 12, nrow=1)
