@@ -103,7 +103,7 @@ subplot_c <- genome_abundance %>%
   #theme(legend.position = "none") +
   ggtitle("Candidate Phyla Radiation")
 
-bottom_row <- plot_grid(subplot_a, subplot_p, subplot_c, labels = c('B.', 'C.' ,'D.'), label_size = 12, nrow=1)
+bottom_row <- plot_grid(subplot_a, subplot_c, labels = c('B.', 'C.'), label_size = 12, nrow=1)
 
 plot_grid(phylum_abundance_plot, bottom_row, labels = c('A.', ''), label_size = 12, ncol = 1, rel_heights = c(2, 1))
   
