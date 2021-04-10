@@ -1,6 +1,6 @@
 pacman::p_load(ggraph, tidyverse, igraph)
 
-files <- list.files("../data/metabolic/energy_flow", full.names = T, pattern = "Metabolic_network")
+files <- list.files("data/metabolic/energy_flow", full.names = T, pattern = "Metabolic_network")
 
 read_files <- function(file){
   site <- str_extract(file, "(?<=data/metabolic/energy_flow/)(.*)(?=_Metabolic_network_input[.]txt)")
@@ -13,7 +13,7 @@ read_files <- function(file){
 file_list = lapply(files, read_files)
 data <- reduce(file_list, bind_rows)
 
-phylum_colors <- read_csv("../data/phylum_color_data.csv")
+phylum_colors <- read_csv("data/phylum_color_data.csv")
   
   
 phylum_color_dict <- phylum_colors$hex.color
@@ -55,43 +55,16 @@ metabolism <- data.frame(Step1 = c("C-S-01:Organic carbon oxidation",
                   rep("#88CFA4", 2), rep("#5E4FA2", 8))) %>%
   mutate(Category = str_extract(Step1, "[^-]+"),
          Category = recode(Category, "C" = "Carbon", "S" = "Sulfur", "N" = "Nitrogen", "O" = "Oxygen"))
+
+
 metabolism_colors <- metabolism$color
 names(metabolism_colors) <- metabolism$order
 
 
-for(site_name in c("D1", "D2", "D3", "D4", "D5", "D6")){
-  #create plot
-  assign(paste0(site_name, "_network_plot"), 
-  data %>%
-  filter(site == site_name) %>%
-  left_join(metabolism) %>%
-  rename(from = "order") %>%
-  left_join(metabolism, by=c("Step2" = "Step1")) %>%
-  rename(to = "order") %>%
-  mutate(Category = str_extract(Step1, "[^-]+"),
-         Category = recode(Category, "C" = "Carbon", "S" = "Sulfur", "N" = "Nitrogen", "O" = "Oxygen")) %>%
-  select(from, to, `Taxonomic Group`, `Coverage value(average)`, Category) %>%
-  group_by(from, `Taxonomic Group`) %>%
-  mutate(n_connections = n()) %>%
-  arrange(from, desc(`Coverage value(average)`, desc(n_connections))) %>%
-  #mutate(`Taxonomic Group` = factor(`Taxonomic Group`, levels = unique(network_data$`Taxonomic Group`))) %>%
-  ggraph(layout = 'linear', circular = TRUE) + 
-  #geom_edge_arc(aes(colour = as.factor(`Taxonomic Group`))) +
-  geom_edge_arc(aes(colour = `Taxonomic Group`, edge_width = `Coverage value(average)`), alpha = 0.5) +
-  scale_edge_color_manual(values = phylum_color_dict) +
-  coord_fixed() +
-  geom_node_point(aes(color = as.factor(name)), size = 3)+ 
-  scale_color_manual(values = metabolism_colors, guide = F) +
-  geom_node_text(aes(label = name)) +
-  theme_minimal() +
-  theme(line = element_blank(),
-        axis.title = element_blank(),
-        axis.text = element_blank())
-)
-}
 
 
 all_sites <- data %>%
+  filter(!site %in% c("WC", "SW")) %>%
   left_join(metabolism) %>%
   rename(from = "order") %>%
   left_join(metabolism, by=c("Step2" = "Step1")) %>%
@@ -118,3 +91,33 @@ all_sites <- data %>%
   facet_wrap(~site)
 
 
+# for(site_name in c("D1", "D2", "D3", "D4", "D5", "D6")){
+#   #create plot
+#   assign(paste0(site_name, "_network_plot"), 
+#   data %>%
+#   filter(site == site_name) %>%
+#   left_join(metabolism) %>%
+#   rename(from = "order") %>%
+#   left_join(metabolism, by=c("Step2" = "Step1")) %>%
+#   rename(to = "order") %>%
+#   mutate(Category = str_extract(Step1, "[^-]+"),
+#          Category = recode(Category, "C" = "Carbon", "S" = "Sulfur", "N" = "Nitrogen", "O" = "Oxygen")) %>%
+#   select(from, to, `Taxonomic Group`, `Coverage value(average)`, Category) %>%
+#   group_by(from, `Taxonomic Group`) %>%
+#   mutate(n_connections = n()) %>%
+#   arrange(from, desc(`Coverage value(average)`, desc(n_connections))) %>%
+#   #mutate(`Taxonomic Group` = factor(`Taxonomic Group`, levels = unique(network_data$`Taxonomic Group`))) %>%
+#   ggraph(layout = 'linear', circular = TRUE) + 
+#   #geom_edge_arc(aes(colour = as.factor(`Taxonomic Group`))) +
+#   geom_edge_arc(aes(colour = `Taxonomic Group`, edge_width = `Coverage value(average)`), alpha = 0.5) +
+#   scale_edge_color_manual(values = phylum_color_dict) +
+#   coord_fixed() +
+#   geom_node_point(aes(color = as.factor(name)), size = 3)+ 
+#   scale_color_manual(values = metabolism_colors, guide = F) +
+#   geom_node_text(aes(label = name)) +
+#   theme_minimal() +
+#   theme(line = element_blank(),
+#         axis.title = element_blank(),
+#         axis.text = element_blank())
+# )
+# }

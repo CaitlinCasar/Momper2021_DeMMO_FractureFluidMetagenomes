@@ -1,6 +1,6 @@
 pacman::p_load(tidyverse,  ggalluvial, plotly)
 
-files <- list.files("../data/metabolic/energy_flow", full.names = T, pattern = "energy_flow")
+files <- list.files("data/metabolic/energy_flow", full.names = T, pattern = "energy_flow")
 
 read_files <- function(file){
   site <- str_extract(file, "(?<=data/metabolic/energy_flow/)(.*)(?=_Metabolic_energy_flow_input[.]txt)")
@@ -13,7 +13,7 @@ read_files <- function(file){
 file_list = lapply(files, read_files)
 data <- reduce(file_list, bind_rows)
 
-phylum_colors <- read_csv("../data/phylum_color_data.csv") 
+phylum_colors <- read_csv("data/phylum_color_data.csv") 
   
   
 phylum_color_dict <- phylum_colors$hex.color
