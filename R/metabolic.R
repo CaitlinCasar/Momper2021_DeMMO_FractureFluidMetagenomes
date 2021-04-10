@@ -140,5 +140,45 @@ bubble_plot <- data %>%
   
 plotly::ggplotly(bubble_plot)
 
+# c-fixation heat map --------------------------------------------------
+
+c_fixation <- metabolism_color_dict %>%
+  filter(Category == "Carbon fixation") %>%
+  distinct()
+
+c_fixation_colors <- c_fixation$color
+names(c_fixation_colors) <- c_fixation$Lump
+
+c_fix_pathways <- read_csv("../data/c_fixation_pathways.csv") 
+
+c_fix_n_genes <- c_fix_pathways %>%
+  select(Category, Function) %>%
+  group_by(Category, Function) %>%
+  summarise(n_pathway_genes = n())
+
+c_fix_plot <- data %>%
+  filter(hits > 0 & Category == "Carbon fixation") %>%
+  group_by(site, Category, Function, `Gene abbreviation`) %>%
+  summarize(hits = sum(hits)) %>%
+  left_join(metadata %>% group_by(site) %>% summarise(n_genomes = n())) %>%
+  left_join(c_fixation) %>%
+  mutate(hits_per_genome = hits/n_genomes) %>%
+  ggplot(aes(site, `Gene abbreviation`, color = Lump, label=Category)) +
+  geom_point(ggplot2::aes(size = hits_per_genome)) +
+  #scale_size_continuous(breaks = c(2e-05, 5e-05, 1e-04, 5e-04, 1e-03), name = "% metagenome") +
+  scale_x_discrete(position = "top") +
+  scale_color_manual(values = c_fixation_colors, name = "Pathway") +
+  theme_bw() +
+  guides(col = guide_legend(ncol = 1)) +
+  #guides(fill=guide_legend(title="Category")) +
+  theme(axis.title.x=ggplot2::element_blank(), 
+        axis.title.y=ggplot2::element_blank(),
+        #legend.position = "none",
+        #strip.background = element_blank(), 
+        panel.spacing = unit(0,"line"), 
+        panel.border = element_rect(size = 0.25, color = "black"),
+        strip.text.y = element_text(angle = 180, size=8, lineheight=1))  +
+  facet_grid(rows=vars(Function), switch = "y", scales = "free", space = "free_y",
+             labeller = labeller(Function = label_wrap_gen(10)))
 
 
