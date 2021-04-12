@@ -1,0 +1,47 @@
+SUBID     	BioProject	BioSample	Organism
+--------------------------------------------------------
+SUB9429564	PRJNA563685	SAMN18076501	Hadesarchaea archaeon
+
+[] We ran your sequences through our Contamination Screen. The screen found 
+contigs that need to be trimmed and/or excluded. The results are in the 
+Contamination.txt file posted in your submission on the WGS submission portal 
+https://submit.ncbi.nlm.nih.gov/subs/genome/.  Please adjust the sequences 
+appropriately and then resubmit your sequences. After you remove the 
+contamination, trim any Ns at the ends of the sequence and remove any sequences
+that are shorter than 200 nt and not part of a multi-component scaffold.
+
+Note that mismatches between the name of the adaptor/primer identified in the screen 
+and the sequencing technology used to generate the sequencing data should not be used 
+to discount the validity of the screen results as the adaptors/primers of many 
+different sequencing platforms share sequence similarity.
+
+
+Contamination Results:
+
+
+Adaptor:
+[] Some of the sequences hit primers or adaptors used in Illumina or 
+454 or other sequencing strategies or platforms.  Adaptor at the 
+end of a sequence should be removed. However, if adaptors are 
+present within sequences then you should strongly consider 
+splitting the sequences at the adaptors because the adaptor sequence 
+could have been the region of overlap, causing a misassembly.
+
+
+Screened 314 sequences, 1,243,801 bp.
+1 sequence to exclude, 5 sequences with locations to mask/trim
+
+Exclude:
+Sequence name, length, apparent source
+c_000000012199	4954	gamma proteobacterium HdN1
+
+
+Trim:
+Sequence name, length, span(s), apparent source
+c_000000003034	2827	1..20	adaptor:NGB01088.1
+c_000000012232	6939	6883..6939	adaptor:multiple
+c_000000013974	8927	1..27	adaptor:NGB01096.1
+c_000000018969	2582	1..1122	Bordetella parapertussis Bpp5
+c_000000022732	9040	623..4797	Paraburkholderia xenovorans LB400
+
+

@@ -1,0 +1,51 @@
+SUBID     	BioProject	BioSample	Organism
+--------------------------------------------------------
+SUB9429566	PRJNA563685	SAMN18076855	bacterium
+
+[] We ran your sequences through our Contamination Screen. The screen found 
+contigs that need to be trimmed and/or excluded. The results are in the 
+Contamination.txt file posted in your submission on the WGS submission portal 
+https://submit.ncbi.nlm.nih.gov/subs/genome/.  Please adjust the sequences 
+appropriately and then resubmit your sequences. After you remove the 
+contamination, trim any Ns at the ends of the sequence and remove any sequences
+that are shorter than 200 nt and not part of a multi-component scaffold.
+
+Note that mismatches between the name of the adaptor/primer identified in the screen 
+and the sequencing technology used to generate the sequencing data should not be used 
+to discount the validity of the screen results as the adaptors/primers of many 
+different sequencing platforms share sequence similarity.
+
+Adaptor:
+[] Some of the sequences hit primers or adaptors used in Illumina or 
+454 or other sequencing strategies or platforms.  Adaptor at the 
+end of a sequence should be removed. However, if adaptors are 
+present within sequences then you should strongly consider 
+splitting the sequences at the adaptors because the adaptor sequence 
+could have been the region of overlap, causing a misassembly.
+
+
+Screened 303 sequences, 1,877,265 bp.
+18 sequences with locations to mask/trim
+
+Trim:
+Sequence name, length, span(s), apparent source
+c_000000017014	7737	1..22	adaptor:NGB01088.1
+c_000000021072	11303	1..22	adaptor:NGB01096.1
+c_000000033626	6088	1..20	adaptor:NGB01088.1
+c_000000038068	3101	3076..3101	adaptor:NGB01088.1
+c_000000058656	2844	2811..2844	adaptor:NGB01083.1
+c_000000065036	9992	9969..9992	adaptor:NGB01088.1
+c_000000075603	4291	1..31	adaptor:NGB01096.1
+c_000000088420	3264	1..23	adaptor:NGB01088.1
+c_000000089870	8762	8736..8762	adaptor:NGB01096.1
+c_000000091226	4124	4104..4124	adaptor:NGB01088.1
+c_000000096819	12543	12519..12543	adaptor:NGB01096.1
+c_000000102380	5321	5301..5321	adaptor:NGB01088.1
+c_000000110289	7632	1..24	adaptor:NGB01088.1
+c_000000112584	2713	2681..2713	adaptor:NGB01096.1
+c_000000119871	3863	3841..3863	adaptor:NGB01096.1
+c_000000134103	3257	3231..3257	adaptor:NGB01088.1
+c_000000161269	3838	3811..3838	adaptor:NGB01088.1
+c_000000161399	3325	3298..3325	adaptor:NGB01088.1
+
+

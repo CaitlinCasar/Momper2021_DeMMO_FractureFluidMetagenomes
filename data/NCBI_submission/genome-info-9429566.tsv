@@ -1,0 +1,194 @@
+genome_acc	status	messages	assembly_methods	genome_coverage	sequencing_technologies	filename	sample_name	biosample_accession
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_36.fa	SW_36	SAMN18076837
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_63.fa	SW_63	SAMN18076838
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_18.fa	SW_18	SAMN18076839
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_75.fa	SW_75	SAMN18076840
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_61.fa	SW_61	SAMN18076841
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_35.fa	SW_35	SAMN18076842
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_25.fa	SW_25	SAMN18076843
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_65.fa	SW_65	SAMN18076844
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_84.fa	SW_84	SAMN18076845
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_31.fa	SW_31	SAMN18076846
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_24.fa	SW_24	SAMN18076847
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_11.fa	SW_11	SAMN18076848
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_14.fa	SW_14	SAMN18076849
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_57.fa	SW_57	SAMN18076850
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_46.fa	SW_46	SAMN18076851
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_42.fa	SW_42	SAMN18076852
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_4.fa	SW_4	SAMN18076853
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_40.fa	SW_40	SAMN18076854
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_29.fa	SW_29	SAMN18076855
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_19.fa	SW_19	SAMN18076856
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_73.fa	SW_73	SAMN18076857
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_53.fa	SW_53	SAMN18076858
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_56.fa	SW_56	SAMN18076859
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_5.fa	SW_5	SAMN18076860
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_34.fa	SW_34	SAMN18076861
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_44.fa	SW_44	SAMN18076862
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_69.fa	SW_69	SAMN18076863
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_67.fa	SW_67	SAMN18076864
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_9.fa	SW_9	SAMN18076865
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_47.fa	SW_47	SAMN18076866
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_32.fa	SW_32	SAMN18076867
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_38.fa	SW_38	SAMN18076868
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_79.fa	SW_79	SAMN18076869
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_27.fa	SW_27	SAMN18076870
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_23.fa	SW_23	SAMN18076871
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_15.fa	SW_15	SAMN18076872
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_58.fa	SW_58	SAMN18076873
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_41.fa	SW_41	SAMN18076874
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_12.fa	SW_12	SAMN18076875
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_43.fa	SW_43	SAMN18076876
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_74.fa	SW_74	SAMN18076877
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_10.fa	SW_10	SAMN18076878
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_54.fa	SW_54	SAMN18076879
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_30.fa	SW_30	SAMN18076880
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_39.fa	SW_39	SAMN18076881
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_80.fa	SW_80	SAMN18076882
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_28.fa	SW_28	SAMN18076883
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_21.fa	SW_21	SAMN18076884
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_77.fa	SW_77	SAMN18076885
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_88.fa	SW_88	SAMN18076886
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_66.fa	SW_66	SAMN18076887
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_72.fa	SW_72	SAMN18076888
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_33.fa	SW_33	SAMN18076889
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_91.fa	SW_91	SAMN18076890
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_17.fa	SW_17	SAMN18076891
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_82.fa	SW_82	SAMN18076892
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_37.fa	SW_37	SAMN18076893
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_8.fa	SW_8	SAMN18076894
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_55.fa	SW_55	SAMN18076895
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_70.fa	SW_70	SAMN18076896
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_50.fa	SW_50	SAMN18076897
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_16.fa	SW_16	SAMN18076898
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_2.fa	SW_2	SAMN18076899
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_64.fa	SW_64	SAMN18076900
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_22.fa	SW_22	SAMN18076901
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_59.fa	SW_59	SAMN18076902
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_20.fa	SW_20	SAMN18076903
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_90.fa	SW_90	SAMN18076904
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_51.fa	SW_51	SAMN18076905
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_93.fa	SW_93	SAMN18076906
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_3.fa	SW_3	SAMN18076907
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_13.fa	SW_13	SAMN18076908
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_52.fa	SW_52	SAMN18076909
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_45.fa	SW_45	SAMN18076910
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_6.fa	SW_6	SAMN18076911
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_85.fa	SW_85	SAMN18076912
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_68.fa	SW_68	SAMN18076913
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_71.fa	SW_71	SAMN18076914
+	Processing	modified fasta sequences, fixed foreign contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_26.fa	SW_26	SAMN18076915
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_92.fa	SW_92	SAMN18076916
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_7.fa	SW_7	SAMN18076917
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_62.fa	SW_62	SAMN18076918
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_49.fa	SW_49	SAMN18076919
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_78.fa	SW_78	SAMN18076920
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_83.fa	SW_83	SAMN18076921
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_87.fa	SW_87	SAMN18076922
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_76.fa	SW_76	SAMN18076923
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_48.fa	SW_48	SAMN18076924
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_86.fa	SW_86	SAMN18076925
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_1.fa	SW_1	SAMN18076926
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_81.fa	SW_81	SAMN18076927
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_89.fa	SW_89	SAMN18076928
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	SW_60.fa	SW_60	SAMN18076929
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_93.fa	DeMMO3_93	SAMN18076930
+	Error	modified fasta sequences, fixed foreign contaminations, has errors, remaining contaminations, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_61.fa	DeMMO3_61	SAMN18076931
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_11.fa	DeMMO3_11	SAMN18076932
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_35.fa	DeMMO3_35	SAMN18076933
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_45.fa	DeMMO3_45	SAMN18076934
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_30.fa	DeMMO3_30	SAMN18076935
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_50.fa	DeMMO3_50	SAMN18076936
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_56.fa	DeMMO3_56	SAMN18076937
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_59.fa	DeMMO3_59	SAMN18076938
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_17.fa	DeMMO3_17	SAMN18076939
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_76.fa	DeMMO3_76	SAMN18076940
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_100.fa	DeMMO3_100	SAMN18076941
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_39.fa	DeMMO3_39	SAMN18076942
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_40.fa	DeMMO3_40	SAMN18076943
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_74.fa	DeMMO3_74	SAMN18076944
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_13.fa	DeMMO3_13	SAMN18076945
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_1.fa	DeMMO3_1	SAMN18076946
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_14.fa	DeMMO3_14	SAMN18076947
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_42.fa	DeMMO3_42	SAMN18076948
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_73.fa	DeMMO3_73	SAMN18076949
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_92.fa	DeMMO3_92	SAMN18076950
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_97.fa	DeMMO3_97	SAMN18076951
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_31.fa	DeMMO3_31	SAMN18076952
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_12.fa	DeMMO3_12	SAMN18076953
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_80.fa	DeMMO3_80	SAMN18076954
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_24.fa	DeMMO3_24	SAMN18076955
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_96.fa	DeMMO3_96	SAMN18076956
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_26.fa	DeMMO3_26	SAMN18076957
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_28.fa	DeMMO3_28	SAMN18076958
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_64.fa	DeMMO3_64	SAMN18076959
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_25.fa	DeMMO3_25	SAMN18076960
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_21.fa	DeMMO3_21	SAMN18076961
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_89.fa	DeMMO3_89	SAMN18076962
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_48.fa	DeMMO3_48	SAMN18076963
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_15.fa	DeMMO3_15	SAMN18076964
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_16.fa	DeMMO3_16	SAMN18076965
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_27.fa	DeMMO3_27	SAMN18076966
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_54.fa	DeMMO3_54	SAMN18076967
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_77.fa	DeMMO3_77	SAMN18076968
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_67.fa	DeMMO3_67	SAMN18076969
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_75.fa	DeMMO3_75	SAMN18076970
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_87.fa	DeMMO3_87	SAMN18076971
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_6.fa	DeMMO3_6	SAMN18076972
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_62.fa	DeMMO3_62	SAMN18076973
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_72.fa	DeMMO3_72	SAMN18076974
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_95.fa	DeMMO3_95	SAMN18076975
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_23.fa	DeMMO3_23	SAMN18076976
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_46.fa	DeMMO3_46	SAMN18076977
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_82.fa	DeMMO3_82	SAMN18076978
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_19.fa	DeMMO3_19	SAMN18076979
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_44.fa	DeMMO3_44	SAMN18076980
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_78.fa	DeMMO3_78	SAMN18076981
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_8.fa	DeMMO3_8	SAMN18076982
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_60.fa	DeMMO3_60	SAMN18076983
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_37.fa	DeMMO3_37	SAMN18076984
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_10.fa	DeMMO3_10	SAMN18076985
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_70.fa	DeMMO3_70	SAMN18076986
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_53.fa	DeMMO3_53	SAMN18076987
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_49.fa	DeMMO3_49	SAMN18076988
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_36.fa	DeMMO3_36	SAMN18076989
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_5.fa	DeMMO3_5	SAMN18076990
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_47.fa	DeMMO3_47	SAMN18076991
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_65.fa	DeMMO3_65	SAMN18076992
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_90.fa	DeMMO3_90	SAMN18076993
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_33.fa	DeMMO3_33	SAMN18076994
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_18.fa	DeMMO3_18	SAMN18076995
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_79.fa	DeMMO3_79	SAMN18076996
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_63.fa	DeMMO3_63	SAMN18076997
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_86.fa	DeMMO3_86	SAMN18076998
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_41.fa	DeMMO3_41	SAMN18076999
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_68.fa	DeMMO3_68	SAMN18077000
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_7.fa	DeMMO3_7	SAMN18077001
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_32.fa	DeMMO3_32	SAMN18077002
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_94.fa	DeMMO3_94	SAMN18077003
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_99.fa	DeMMO3_99	SAMN18077004
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_88.fa	DeMMO3_88	SAMN18077005
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_22.fa	DeMMO3_22	SAMN18077006
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_58.fa	DeMMO3_58	SAMN18077007
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_9.fa	DeMMO3_9	SAMN18077008
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_69.fa	DeMMO3_69	SAMN18077009
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_83.fa	DeMMO3_83	SAMN18077010
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_81.fa	DeMMO3_81	SAMN18077011
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_71.fa	DeMMO3_71	SAMN18077012
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_84.fa	DeMMO3_84	SAMN18077013
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_98.fa	DeMMO3_98	SAMN18077014
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_66.fa	DeMMO3_66	SAMN18077015
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_34.fa	DeMMO3_34	SAMN18077016
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_55.fa	DeMMO3_55	SAMN18077017
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_4.fa	DeMMO3_4	SAMN18077018
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_51.fa	DeMMO3_51	SAMN18077019
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_43.fa	DeMMO3_43	SAMN18077020
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_20.fa	DeMMO3_20	SAMN18077021
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_91.fa	DeMMO3_91	SAMN18077022
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_29.fa	DeMMO3_29	SAMN18077023
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_2.fa	DeMMO3_2	SAMN18077024
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_85.fa	DeMMO3_85	SAMN18077025
+	Error	has errors, contaminations	"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_38.fa	DeMMO3_38	SAMN18077026
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_3.fa	DeMMO3_3	SAMN18077027
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_52.fa	DeMMO3_52	SAMN18077028
+	Processing		"[[""MEGAHIT"",""v1.0.6.1""]]"	1x	"[[""Illumina HiSeq 2500""]]"	DeMMO3_57.fa	DeMMO3_57	SAMN18077029

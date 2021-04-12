@@ -1,0 +1,42 @@
+SUBID     	BioProject	BioSample	Organism
+--------------------------------------------------------
+SUB9429564	PRJNA563685	SAMN18076501	Hadesarchaea archaeon
+
+[] We ran your sequences through our Contamination Screen. The screen found 
+sequences that need to be trimmed and/or excluded. The results are in the 
+Contamination.txt file posted in your submission on the WGS submission portal 
+https://submit.ncbi.nlm.nih.gov/subs/wgs/.  
+
+We were able to remove sequences marked to exclude and/or trimmed contamination 
+from the ends of sequence (see the FixedForeignContaminations.txt file). If the 
+contamination is on either side of a run of N's, the N's were also removed.
+We have uploaded the modified fasta file ForeignContaminationModified.zip to the 
+submission portal.
+
+However, we could not remove the contamination in the RemainingContamination.txt file.  
+We cannot remove contamination that is in the middle of a sequence. The sequence may need
+to be split at the contamination and the sequence on either side of the contamination submitted 
+as a separate sequence. In addition, we do not automatically remove mitochondrial 
+sequences in eukaryotic submissions. 
+
+Please adjust these remaining sequences appropriately and then resubmit.  After you 
+remove the contamination, trim any Ns at the ends of the sequence and remove any sequences 
+that are shorter than 200 nt and not part of a multi-component scaffold.
+
+Note that mismatches between the name of the adaptor/primer identified in the screen 
+and the sequencing technology used to generate the sequencing data should not be used 
+to discount the validity of the screen results as the adaptors/primers of many 
+different sequencing platforms share sequence similarity.
+
+
+The contamination that we could not automatically remove is listed below.
+You will need to adjust these sequences and resubmit:
+
+Skipped 309 same as before; screening 4 sequences, 20,049 bp.
+1 sequence with locations to mask/trim
+
+Trim:
+Sequence name, length, span(s), apparent source
+c_000000022732	9040	623..4797	Paraburkholderia xenovorans LB400-not_cleaned
+
+

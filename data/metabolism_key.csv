@@ -1,0 +1,28 @@
+Step1,order,color,Category
+C-S-01:Organic carbon oxidation,1,#9E0142,Carbon
+C-S-04:Acetate oxidation,2,#9E0142,Carbon
+C-S-06:Fermentation,3,#9E0142,Carbon
+C-S-02:Carbon fixation,4,#9E0142,Carbon
+C-S-08:Methanotrophy,5,#9E0142,Carbon
+C-S-07:Methanogenesis,6,#9E0142,Carbon
+N-S-01:Nitrogen fixation,7,#F88D51,Nitrogen
+N-S-04:Nitrate reduction,8,#F88D51,Nitrogen
+N-S-05:Nitrite reduction,9,#F88D51,Nitrogen
+N-S-06:Nitric oxide reduction,10,#F88D51,Nitrogen
+N-S-08:Nitrite ammonification,11,#F88D51,Nitrogen
+N-S-03:Nitrite oxidation,12,#F88D51,Nitrogen
+N-S-07:Nitrous oxide reduction,13,#F88D51,Nitrogen
+O-S-02:Arsenate reduction,14,#FFFFBF,Oxygen
+O-S-03:Arsenite oxidation,15,#FFFFBF,Oxygen
+O-S-04:Selenate reduction,16,#FFFFBF,Oxygen
+O-S-01:Metal reduction,17,#FFFFBF,Oxygen
+C-S-09:Hydrogen oxidation,18,#88CFA4,Carbon
+C-S-05:Hydrogen generation,19,#88CFA4,Carbon
+S-S-01:Sulfide oxidation,20,#5E4FA2,Sulfur
+S-S-03:Sulfur oxidation,21,#5E4FA2,Sulfur
+S-S-04:Sulfite oxidation,22,#5E4FA2,Sulfur
+S-S-05:Sulfate reduction,23,#5E4FA2,Sulfur
+S-S-07:Thiosulfate oxidation,24,#5E4FA2,Sulfur
+S-S-08:Thiosulfate disproportionation 1,25,#5E4FA2,Sulfur
+S-S-09:Thiosulfate disproportionation 2,26,#5E4FA2,Sulfur
+S-S-06:Sulfite reduction,27,#5E4FA2,Sulfur

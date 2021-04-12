@@ -1,0 +1,51 @@
+SUBID     	BioProject	BioSample	Organism
+--------------------------------------------------------
+SUB9429566	PRJNA563685	SAMN18076931	Candidatus Dojkabacteria bacterium
+
+[] We ran your sequences through our Contamination Screen. The screen found 
+sequences that need to be trimmed and/or excluded. The results are in the 
+Contamination.txt file posted in your submission on the WGS submission portal 
+https://submit.ncbi.nlm.nih.gov/subs/wgs/.  
+
+We were able to remove sequences marked to exclude and/or trimmed contamination 
+from the ends of sequence (see the FixedForeignContaminations.txt file). If the 
+contamination is on either side of a run of N's, the N's were also removed.
+We have uploaded the modified fasta file ForeignContaminationModified.zip to the 
+submission portal.
+
+However, we could not remove the contamination in the RemainingContamination.txt file.  
+We cannot remove contamination that is in the middle of a sequence. The sequence may need
+to be split at the contamination and the sequence on either side of the contamination submitted 
+as a separate sequence. In addition, we do not automatically remove mitochondrial 
+sequences in eukaryotic submissions. 
+
+Please adjust these remaining sequences appropriately and then resubmit.  After you 
+remove the contamination, trim any Ns at the ends of the sequence and remove any sequences 
+that are shorter than 200 nt and not part of a multi-component scaffold.
+
+Note that mismatches between the name of the adaptor/primer identified in the screen 
+and the sequencing technology used to generate the sequencing data should not be used 
+to discount the validity of the screen results as the adaptors/primers of many 
+different sequencing platforms share sequence similarity.
+
+
+Adaptor:
+[] Some of the sequences hit primers or adaptors used in Illumina or 
+454 or other sequencing strategies or platforms.  Adaptor at the 
+end of a sequence should be removed. However, if adaptors are 
+present within sequences then you should strongly consider 
+splitting the sequences at the adaptors because the adaptor sequence 
+could have been the region of overlap, causing a misassembly.
+
+
+The contamination that we could not automatically remove is listed below.
+You will need to adjust these sequences and resubmit:
+
+Skipped 136 same as before; screening 1 sequence, 9,921 bp.
+1 sequence with locations to mask/trim
+
+Trim:
+Sequence name, length, span(s), apparent source
+c_000000013178	10047	1194..1224	adaptor:NGB01085.1-not_cleaned
+
+

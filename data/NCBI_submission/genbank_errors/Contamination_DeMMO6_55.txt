@@ -1,0 +1,41 @@
+SUBID     	BioProject	BioSample	Organism
+--------------------------------------------------------
+SUB9429564	PRJNA563685	SAMN18076648	Bacteroidales bacterium
+
+[] We ran your sequences through our Contamination Screen. The screen found 
+contigs that need to be trimmed and/or excluded. The results are in the 
+Contamination.txt file posted in your submission on the WGS submission portal 
+https://submit.ncbi.nlm.nih.gov/subs/genome/.  Please adjust the sequences 
+appropriately and then resubmit your sequences. After you remove the 
+contamination, trim any Ns at the ends of the sequence and remove any sequences
+that are shorter than 200 nt and not part of a multi-component scaffold.
+
+Note that mismatches between the name of the adaptor/primer identified in the screen 
+and the sequencing technology used to generate the sequencing data should not be used 
+to discount the validity of the screen results as the adaptors/primers of many 
+different sequencing platforms share sequence similarity.
+
+
+Contamination Results:
+
+
+Adaptor:
+[] Some of the sequences hit primers or adaptors used in Illumina or 
+454 or other sequencing strategies or platforms.  Adaptor at the 
+end of a sequence should be removed. However, if adaptors are 
+present within sequences then you should strongly consider 
+splitting the sequences at the adaptors because the adaptor sequence 
+could have been the region of overlap, causing a misassembly.
+
+
+Screened 712 sequences, 2,848,620 bp.
+4 sequences with locations to mask/trim
+
+Trim:
+Sequence name, length, span(s), apparent source
+c_000000003906	3482	3355..3413	adaptor:NGB01033.1
+c_000000031781	5706	1..40	adaptor:NGB01033.1
+c_000000055933	2839	1..54	adaptor:NGB00360.1
+c_000000113523	2837	2808..2837	adaptor:NGB01096.1
+
+
