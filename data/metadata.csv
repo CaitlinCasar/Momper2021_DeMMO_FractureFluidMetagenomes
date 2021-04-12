@@ -1,458 +1,582 @@
-taxon_oid,Domain,Genome Name / Sample Name,IMG Genome ID ,Phylum,Class,Order,Family,Genus,Species,Genome Completeness %,Genome Size   * assembled,Gene Count   * assembled,Scaffold Count   * assembled
-2829239184,Archaea,Thermoplasmata archaeon DeMMO4_34,2829239184,Euryarchaeota,Thermoplasmata,unclassified,unclassified,unclassified,unclassified,,474896,579,123
-2828804047,Archaea,Woesearchaeota archaeon DeMMO1_7,2828804047,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1198981,1481,240
-2828951871,Archaea,Micrarchaeota bacterium DeMMO2_21,2828951871,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,922997,1120,172
-2829232593,Archaea,Methanoperedens sp. DeMMO4_29,2829232593,Euryarchaeota,Methanomicrobia,Methanosarcinales,Candidatus Methanoperedenaceae,Candidatus Methanoperedens,unclassified,,741699,1013,192
-2828920724,Archaea,Micrarchaeota bacterium DeMMO2_7,2828920724,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1379636,1481,108
-2829231995,Archaea,Thermoplasmata archaeon DeMMO4_28,2829231995,Euryarchaeota,Thermoplasmata,unclassified,unclassified,unclassified,unclassified,,458070,597,119
-2829039759,Archaea,Nanoarchaeota archaeon DeMMO2_77,2829039759,Nanoarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,759431,891,173
-2829110909,Archaea,Woesearchaeota archaeon DeMMO3_27,2829110909,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1637270,1799,117
-2828967080,Archaea,Nanoarchaeota bacterium DeMMO2_30,2828967080,Nanoarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1557010,1882,208
-2829128577,Archaea,Woesearchaeota archaeon DeMMO3_37,2829128577,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1105593,1438,192
-2828961092,Archaea,Micrarchaeota bacterium DeMMO2_26,2828961092,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1100949,1144,27
-2829001158,Archaea,Micrarchaeota archaeon DeMMO2_50,2829001158,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,727431,885,165
-2829106416,Archaea,Micrarchaeota archaeon DeMMO3_25,2829106416,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1123672,1347,79
-2829030403,Archaea,Micrarchaeota archaeon DeMMO2_69,2829030403,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,274344,354,23
-2829289267,Archaea,Thermoplasmatales archaeon DeMMO5_17,2829289267,Euryarchaeota,Thermoplasmata,Thermoplasmatales,unclassified,unclassified,unclassified,,1470208,1720,378
-2829125437,Archaea,Woesearchaeota archaeon DeMMO3_35,2829125437,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1374813,1747,210
-2829105106,Archaea,Micrarchaeota archaeon DeMMO3_24,2829105106,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1064373,1309,162
-2830499974,Archaea,Micrarchaeota archaeon DeMMO3_70,2830499974,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,690876,853,170
-2828987358,Archaea,Woesearchaeota bacterium DeMMO2_42,2828987358,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1264858,1511,275
-2828830594,Archaea,Micrarchaeota archaeon DeMMO1_25,2828830594,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,466426,596,168
-2828939703,Archaea,Woesearchaeota bacterium DeMMO2_15,2828939703,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1201343,1277,6
-2829132270,Archaea,Woesearchaeota archaeon DeMMO3_40,2829132270,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,679461,972,33
-2830506137,Archaea,Euryarchaeota archaeon DeMMO5_44,2830506137,Euryarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,516227,656,113
-2829320537,Archaea,Methanosarcinales archaeon DeMMO5_32,2829320537,Euryarchaeota,Methanomicrobia,Methanosarcinales,unclassified,unclassified,unclassified,,1367977,1925,307
-2828988870,Archaea,Thermoplasmata bacterium DeMMO2_43,2828988870,Euryarchaeota,Thermoplasmata,unclassified,unclassified,unclassified,unclassified,,1347745,1587,297
-2828805529,Archaea,Woesearchaeota archaeon DeMMO1_8,2828805529,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1314720,1631,262
-2829231228,Archaea,Thermoplasmata archaeon DeMMO4_27,2829231228,Euryarchaeota,Thermoplasmata,unclassified,unclassified,unclassified,unclassified,,604096,766,147
-2829103838,Archaea,Micrarchaeota archaeon DeMMO3_23,2829103838,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1087522,1267,112
-2829096502,Archaea,Woesearchaeota archaeon DeMMO3_20,2829096502,Candidatus Woesearchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1328720,1427,68
-2829200760,Archaea,Hadesarchaea archaeon DeMMO4_9,2829200760,Euryarchaeota,Hadesarchaea,unclassified,unclassified,unclassified,unclassified,,909860,1187,138
-2829080183,Archaea,Micrarchaeota archaeon DeMMO3_13,2829080183,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1590125,1636,20
-2828829874,Archaea,Methanobacteriaceae archaeon DeMMO1_24,2828829874,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,unclassified,unclassified,,584574,719,226
-2829123156,Archaea,Micrarchaeota archaeon DeMMO3_33,2829123156,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1027982,1249,179
-2829131179,Archaea,Thermoplasmata archaeon DeMMO3_39,2829131179,Euryarchaeota,Thermoplasmata,unclassified,unclassified,unclassified,unclassified,,875021,1090,208
-2828938327,Archaea,Micrarchaeota bacterium DeMMO2_14,2828938327,Candidatus Micrarchaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,1224631,1375,17
-2828973855,Bacteria,Omnitrophica bacterium DeMMO2_33,2828973855,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1729690,1829,223
-2828909032,Bacteria,Nitrospira bacterium DeMMO2_3,2828909032,Nitrospirae,Nitrospira,unclassified,unclassified,unclassified,unclassified,,4160673,4335,377
-2829284040,Bacteria,Omnitrophica bacterium DeMMO5_14,2829284040,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1867134,1738,90
-2830685004,Bacteria,Anaerolineales bacterium Service_water_75,2830685004,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,987899,1099,253
-2828990458,Bacteria,Omnitrophica bacterium DeMMO2_44,2828990458,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,916614,1063,184
-2829295561,Bacteria,Parcubacteria bacterium DeMMO5_21,2829295561,Candidatus Parcubacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,789074,857,143
-2830687482,Bacteria,Synechococcaceae bacterium White_creek_1,2830687482,Cyanobacteria,unclassified,Synechococcales,Synechococcaceae,unclassified,unclassified,,4351894,4963,580
-2829315506,Bacteria,Deltaproteobacteria bacterium DeMMO5_29,2829315506,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2003078,2232,509
-2830744909,Bacteria,Clostridiales bacterium DeMMO6_49,2830744909,Firmicutes,Clostridia,Clostridiales,unclassified,unclassified,unclassified,,1764228,2023,414
-2828811368,Bacteria,Uhrbacteria bacterium DeMMO1_11,2828811368,Candidatus Uhrbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,900077,993,125
-2829051213,Bacteria,Ignavibacteriaceae bacterium DeMMO3_4,2829051213,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,unclassified,unclassified,,4207972,3668,122
-2829475746,Bacteria,Clostridiales bacterium DeMMO6_82,2829475746,Firmicutes,Clostridia,Clostridiales,unclassified,unclassified,unclassified,,1864025,2220,459
-2829478809,Bacteria,Firmicutes bacterium DeMMO6_80,2829478809,Firmicutes,unclassified,unclassified,unclassified,unclassified,unclassified,,1001895,1228,269
-2830572098,Bacteria,Babeliales bacterium Service_water_23,2830572098,unclassified,Candidatus Babeliae,Candidatus Babeliales,unclassified,unclassified,unclassified,,1117380,1086,12
-2828960167,Bacteria,Berkelbacteria bacterium DeMMO2_25,2828960167,Candidatus Berkelbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,804660,924,64
-2830739101,Bacteria,Pacebacteria bacterium White_creek_36,2830739101,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,530660,670,108
-2829155907,Bacteria,Fusobacteria bacterium DeMMO3_56,2829155907,Fusobacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1760688,1900,306
-2829000484,Bacteria,Omnitrophica bacterium DeMMO2_49,2829000484,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,665029,673,15
-2830671439,Bacteria,Verrucomicrobiales bacterium Service_water 70,2830671439,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,unclassified,unclassified,unclassified,,2915912,3002,769
-2829505364,Bacteria,Elusimicrobia bacterium DeMMO6_65,2829505364,Elusimicrobia,unclassified,unclassified,unclassified,unclassified,unclassified,,1531995,1715,319
-2829492815,Bacteria,Firmicutes bacterium DeMMO6_71,2829492815,Firmicutes,unclassified,unclassified,unclassified,unclassified,unclassified,,1235119,1399,246
-2829002044,Bacteria,Syntrophobacterales bacterium DeMMO2_51,2829002044,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,unclassified,unclassified,unclassified,,2026216,2397,399
-2830565956,Bacteria,Parachlamydiaceae bacterium Service_water_18,2830565956,Chlamydiae,Chlamydiia,Parachlamydiales,unclassified,unclassified,unclassified,,2317802,2406,184
-2829176854,Bacteria,Halothiobacillaceae bacterium DeMMO4_1,2829176854,Proteobacteria,Gammaproteobacteria,Chromatiales,Halothiobacillaceae,unclassified,unclassified,,2274605,2255,62
-2829036992,Bacteria,Zixibacteria bacterium DeMMO2_74,2829036992,candidate division Zixibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,534139,576,150
-2830704485,Bacteria,Gracilibacteria bacterium White_creek_7,2830704485,Candidatus Gracilibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,962142,1090,125
-2829511296,Bacteria,Firmicutes bacterium DeMMO6_62,2829511296,Firmicutes,unclassified,unclassified,unclassified,unclassified,unclassified,,1892945,2105,252
-2829042165,Bacteria,Edwardsbacteria bacterium DeMMO3_1,2829042165,Candidatus Edwardsbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,2587139,2423,77
-2829423183,Bacteria,Omnitrophica bacterium DeMMO6_26,2829423183,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1421798,1522,114
-2829030758,Bacteria,Deltaproteobacteria bacterium DeMMO5_70,2829030758,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,974313,931,71
-2830804775,Bacteria,Caenarcaniphilales bacterium Service_water_12,2830804775,Candidatus Melainabacteria,unclassified,Candidatus Caenarcaniphilales,unclassified,unclassified,unclassified,,2493301,2413,30
-2829081820,Bacteria,Desulfobacterales bacterium DeMMO3_14,2829081820,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,2074804,2173,229
-2830734585,Bacteria,Pacebacteria bacterium White_creek_32,2830734585,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,433074,615,95
-2829006685,Bacteria,Deltaproteobacteria bacterium DeMMO2_54,2829006685,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1144743,1244,218
-2829072343,Bacteria,Brevinematales bacterium DeMMO3_10,2829072343,Spirochaetes,Spirochaetia,Brevinematales,unclassified,unclassified,unclassified,,2615017,2467,114
-2829029475,Bacteria,Omnitrophica bacterium DeMMO2_68,2829029475,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,855824,927,6
-2828984435,Bacteria,Zixibacteria bacterium DeMMO2_39,2828984435,candidate division Zixibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1535597,1569,306
-2829201948,Bacteria,Desantisbacteria bacterium DeMMO4_10,2829201948,Candidatus Desantisbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1374593,1457,246
-2829218897,Bacteria,Rhodocyclaceae bacterium DeMMO4_19,2829218897,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,unclassified,unclassified,,2426759,2794,442
-2829130016,Bacteria,Gracilibacteria bacterium DeMMO3_38,2829130016,Candidatus Gracilibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1166874,1162,111
-2829497777,Bacteria,Anaerolineaceae bacterium DeMMO6_69,2829497777,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,1832158,1997,407
-2829212817,Bacteria,Brocadiae bacterium DeMMO4_16,2829212817,Planctomycetes,Candidatus Brocadiae,unclassified,unclassified,unclassified,unclassified,,1186229,1211,211
-2829256892,Bacteria,Clostridiales bacterium DeMMO5_3,2829256892,Firmicutes,Clostridia,Clostridiales,unclassified,unclassified,unclassified,,2693188,2980,148
-2829241333,Bacteria,Brevundimonas sp. DeMMO4_37,2829241333,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,unclassified,,1439489,1638,312
-2830550274,Bacteria,Thiotrichales bacterium Service_water_10,2830550274,Proteobacteria,Gammaproteobacteria,Thiotrichales,unclassified,unclassified,unclassified,,1968916,1952,117
-2829120143,Bacteria,Syntrophaceae bacterium DeMMO3_32,2829120143,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,unclassified,unclassified,,2827391,3012,514
-2829481995,Bacteria,Microgenomates bacterium DeMMO6_78,2829481995,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,569067,736,138
-2829268622,Bacteria,Thermoanaerobacteraceae bacterium DeMMO5_7,2829268622,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,unclassified,unclassified,,1941400,2072,242
-2829141303,Bacteria,Omnitrophica bacterium DeMMO3_48,2829141303,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1297257,1503,274
-2828905575,Bacteria,Phycisphaerae bacterium DeMMO2_2,2828905575,Planctomycetes,Phycisphaerae,unclassified,unclassified,unclassified,unclassified,,3834847,3456,205
-2830552227,Bacteria,Parachlamydiaceae bacterium Service_water_11,2830552227,Chlamydiae,Chlamydiia,Parachlamydiales,Parachlamydiaceae,unclassified,unclassified,,2938636,2619,133
-2830610885,Bacteria,Legionella sp. Service_water_39,2830610885,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,unclassified,,1883851,1695,130
-2829233607,Bacteria,Parvibaculum sp. DeMMO4_30,2829233607,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,Parvibaculum,unclassified,,2683582,3185,711
-2830641983,Bacteria,Bacteroidetes bacterium Service_water_52,2830641983,Bacteroidetes,unclassified,unclassified,unclassified,unclassified,unclassified,,1869886,1830,126
-2829032123,Bacteria,Omnitrophica bacterium DeMMO2_72,2829032123,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,3127929,3659,559
-2829166205,Bacteria,Gracilibacteria bacterium DeMMO3_63,2829166205,Candidatus Gracilibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,946448,1050,221
-2829076929,Bacteria,Sideroxydans sp. DeMMO3_12,2829076929,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,unclassified,,3044951,3253,345
-2828928571,Bacteria,Desulfobacteraceae bacterium DeMMO2_10,2828928571,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,unclassified,unclassified,,3516476,3030,323
-2830692446,Bacteria,Gracilibacteria bacterium White_creek_2,2830692446,Candidatus Gracilibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1168903,1199,10
-2829355439,Bacteria,Desulfobacterales bacterium DeMMO6_6,2829355439,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,7298207,6670,147
-2829025692,Bacteria,Thiomonas sp. DeMMO2_65,2829025692,Proteobacteria,Betaproteobacteria,Burkholderiales,unclassified,Thiomonas,unclassified,,1597167,1769,313
-2829311186,Bacteria,Deltaproteobacteria bacterium DeMMO5_28,2829311186,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,3647133,4319,977
-2830781937,Bacteria,Dependentiae bacterium Service_water_44,2830781937,unclassified,unclassified,unclassified,unclassified,unclassified,unclassified,,1074440,1126,23
-2829153837,Bacteria,Thiobacillus sp. DeMMO3_55,2829153837,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Thiobacillaceae,Thiobacillus,unclassified,,1730238,2069,340
-2828807161,Bacteria,Omnitrophica bacterium DeMMO1_9,2828807161,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1367836,1640,397
-2830498579,Bacteria,Margulisbacteria bacterium DeMMO3_43,2830498579,Candidatus Margulisbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1105247,1394,215
-2829501449,Bacteria,Desulfobacula sp. DeMMO6_67,2829501449,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfobacula,unclassified,,2163935,2287,404
-2830640301,Bacteria,Porticoccaceae bacterium Service_water_51,2830640301,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Porticoccaceae,unclassified,unclassified,,1507568,1681,262
-2829333389,Bacteria,Elusimicrobia bacterium DeMMO5_42,2829333389,Elusimicrobia,unclassified,unclassified,unclassified,unclassified,unclassified,,864074,977,286
-2830529448,Bacteria,Bacteroidales bacterium Service_water_8,2830529448,Bacteroidetes,unclassified,unclassified,unclassified,unclassified,unclassified,,2912820,2705,84
-2829317739,Bacteria,Latescibacteria bacterium DeMMO5_30,2829317739,Candidatus Latescibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1798754,1834,482
-2830737263,Bacteria,Rhizobiales bacterium White_creek_35,2830737263,Proteobacteria,Alphaproteobacteria,Rhizobiales,unclassified,unclassified,unclassified,,1362554,1837,322
-2830623725,Bacteria,Hyphomicrobiaceae bacterium Service_water_50,2830623725,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,unclassified,unclassified,,3263480,3684,543
-2829305341,Bacteria,Desulfobacteraceae bacterium DeMMO5_26,2829305341,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,unclassified,unclassified,,2903536,3367,843
-2830587575,Bacteria,Legionellales bacterium Service_water_31,2830587575,Proteobacteria,Gammaproteobacteria,Legionellales,unclassified,unclassified,unclassified,,2754318,2487,53
-2830612581,Bacteria,Parachlamydiales bacterium Service_water_40,2830612581,Chlamydiae,Chlamydiia,Parachlamydiales,unclassified,unclassified,unclassified,,1669718,1811,303
-2829124406,Bacteria,Uhrbacteria bacterium DeMMO3_34,2829124406,Candidatus Uhrbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,999590,1030,63
-2828952992,Bacteria,Ignavibacteriae bacterium DeMMO2_22,2828952992,Ignavibacteriae,Ignavibacteria,unclassified,unclassified,unclassified,unclassified,,2605346,2445,425
-2828829430,Bacteria,Uhrbacteria bacterium DeMMO1_23,2828829430,Candidatus Uhrbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,351321,443,126
-2829436569,Bacteria,Desulfobulbaceae bacterium DeMMO6_32,2829436569,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,unclassified,unclassified,,2302073,2490,248
-2830675671,Bacteria,Porticoccaceae bacterium Service_water_72,2830675671,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Porticoccaceae,unclassified,unclassified,,2838259,3056,502
-2829208299,Bacteria,Azospira sp. DeMMO4_13,2829208299,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Azospira,unclassified,,2350514,2645,455
-2829195837,Bacteria,Omnitrophica bacterium DeMMO4_7,2829195837,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1277938,1472,201
-2829394446,Bacteria,Anaerolineaceae bacterium DeMMO6_16,2829394446,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,4051806,3767,176
-2830666880,Bacteria,Bacteroidetes bacterium Service_water_66,2830666880,Bacteroidetes,unclassified,unclassified,unclassified,unclassified,unclassified,,2116949,2087,143
-2829170484,Bacteria,Pacebacteria bacterium DeMMO3_67,2829170484,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,356031,433,57
-2829164531,Bacteria,Desulfobulbaceae bacterium DeMMO3_62,2829164531,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,unclassified,unclassified,,1754135,1673,81
-2830761193,Bacteria,Gallionellaceae bacterium DeMMO6_53,2830761193,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,unclassified,unclassified,,1765137,2059,345
-2828943725,Bacteria,Desulfovibrionaceae bacterium DeMMO2_17,2828943725,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,unclassified,unclassified,,3075565,2848,96
-2830741553,Bacteria,Pacebacteria bacterium White_creek_40,2830741553,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,363739,484,95
-2829027462,Bacteria,Omnitrophica bacterium DeMMO2_66,2829027462,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,564783,579,28
-2828993248,Bacteria,Sulfuritalea sp. DeMMO2_46,2828993248,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Sterolibacteriaceae,Sulfuritalea,unclassified,,3202909,3556,495
-2830621561,Bacteria,Bacteroidetes bacterium Service_water_48,2830621561,Bacteroidetes,unclassified,unclassified,unclassified,unclassified,unclassified,,2319051,2163,76
-2830501427,Bacteria,Microgenomates bacterium DeMMO3_72,2830501427,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,548962,715,103
-2828983664,Bacteria,Pacebacteria bacterium DeMMO2_38,2828983664,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,668784,770,121
-2829431250,Bacteria,Melioribacteraceae bacterium DeMMO6_29,2829431250,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,unclassified,unclassified,,2983240,3043,431
-2829434294,Bacteria,Latescibacteria bacterium DeMMO6_31,2829434294,Candidatus Latescibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,2296687,2274,368
-2829248920,Bacteria,Nitrospiraceae bacterium DeMMO5_1,2829248920,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,unclassified,unclassified,,2619295,2857,47
-2830644881,Bacteria,Hylemonella sp. Service_water_57,2830644881,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hylemonella,unclassified,,1458037,1726,314
-2829024164,Bacteria,Deltaproteobacteria bacterium DeMMO2_64,2829024164,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1389850,1527,261
-2830507872,Bacteria,Methylotenera sp. Service_Water_1,2830507872,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylotenera,unclassified,,2442352,2414,19
-2828916388,Bacteria,Omnitrophica bacterium DeMMO2_5,2828916388,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1785209,1669,42
-2830668968,Bacteria,Oligoflexia bacterium Service_water_67,2830668968,Proteobacteria,Oligoflexia,unclassified,unclassified,unclassified,unclassified,,1306535,1454,229
-2829417391,Bacteria,Alicyclobacillaceae bacterium DeMMO6_24,2829417391,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,unclassified,unclassified,,2676701,3164,423
-2829439060,Bacteria,Anaerolineaceae bacterium DeMMO6_33,2829439060,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,3093098,3037,33
-2830726445,Bacteria,Pacebacteria bacterium White_Creek_22,2830726445,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,788000,823,54
-2829004442,Bacteria,Microgenomates bacterium DeMMO2_52,2829004442,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,689154,890,136
-2830740227,Bacteria,Pacebacteria bacterium White_creek_38,2830740227,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,363689,436,89
-2830693646,Bacteria,Chitinophagaceae bacterium White_creek_3,2830693646,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,unclassified,unclassified,,3684031,3827,498
-2830733542,Bacteria,Polynucleobacter sp. White_creek_31,2830733542,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,unclassified,,818893,1042,200
-2830736632,Bacteria,Nanopelagicales bacterium White_creek_34,2830736632,Actinobacteria,Actinobacteria,Candidatus Nanopelagicales,unclassified,unclassified,unclassified,,514886,630,114
-2830678728,Bacteria,Legionella sp. Service_water_73,2830678728,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,unclassified,,1847017,1771,225
-2830604426,Bacteria,Planctomycetaceae bacterium Service_water_38,2830604426,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,unclassified,unclassified,,6640358,6458,1351
-2829137720,Bacteria,Brocadiae bacterium DeMMO3_45,2829137720,Planctomycetes,Candidatus Brocadiae,unclassified,unclassified,unclassified,unclassified,,1295975,1327,284
-2828963126,Bacteria,Planctomycetes bacterium DeMMO2_28,2828963126,Planctomycetes,unclassified,unclassified,unclassified,unclassified,unclassified,,3731543,2852,288
-2829259873,Bacteria,Flammeovirgaceae bacterium DeMMO5_4,2829259873,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,unclassified,unclassified,,2977789,3084,396
-2829113610,Bacteria,Anaerolineales bacterium DeMMO3_29,2829113610,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,3179592,2895,64
-2829510535,Bacteria,Microgenomates bacterium DeMMO6_63,2829510535,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,658693,760,17
-2829139048,Bacteria,Pacebacteria bacterium DeMMO3_46,2829139048,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,909648,989,91
-2830655670,Bacteria,Planctomycetaceae bacterium Service_water_62,2830655670,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,unclassified,unclassified,,3051196,3144,722
-2829415748,Bacteria,Omnitrophica bacterium DeMMO6_23,2829415748,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1521626,1642,12
-2829167256,Bacteria,Pacebacteria bacterium DeMMO3_64,2829167256,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,460931,481,93
-2828932947,Bacteria,Nitrospirales bacterium DeMMO2_12,2828932947,Nitrospirae,Nitrospira,Nitrospirales,unclassified,unclassified,unclassified,,2709224,2734,276
-2828778552,Bacteria,Pseudomonas sp. DeMMO1_1,2828778552,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,unclassified,,6672551,6408,248
-2830590063,Bacteria,Pacebacteria bacterium Service_water_34,2830590063,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,553959,751,84
-2829182026,Bacteria,Hydrogenophilaceae bacterium DeMMO4_3,2829182026,Proteobacteria,Hydrogenophilalia,Hydrogenophilales,Hydrogenophilaceae,unclassified,unclassified,,4586904,4769,336
-2830562554,Bacteria,Rickettsiales bacterium Service_water_16,2830562554,Proteobacteria,Alphaproteobacteria,Rickettsiales,unclassified,unclassified,unclassified,,1262344,1332,33
-2829328276,Bacteria,Pacebacteria bacterium DeMMO5_37,2829328276,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,343676,425,96
-2830697474,Bacteria,Polaromonas sp. White_creek_4,2830697474,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,unclassified,,2547246,3305,522
-2829246650,Bacteria,Chloroflexi bacterium DeMMO4_40,2829246650,Chloroflexi,unclassified,unclassified,unclassified,unclassified,unclassified,,317343,401,95
-2829297275,Bacteria,Rhodocyclaceae bacterium DeMMO5_23,2829297275,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,unclassified,unclassified,,3142504,3705,651
-2829238571,Bacteria,Nitrospiraceae bacterium DeMMO4_33,2829238571,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,unclassified,unclassified,,506385,612,130
-2830705576,Bacteria,Parachlamydiales bacterium White_creek_8,2830705576,Chlamydiae,Chlamydiia,Parachlamydiales,unclassified,unclassified,unclassified,,921897,974,198
-2830728129,Bacteria,Pacebacteria bacterium White_creek_24,2830728129,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,353511,415,71
-2828996805,Bacteria,Nitrospira bacterium DeMMO2_47,2828996805,Nitrospirae,Nitrospira,unclassified,unclassified,unclassified,unclassified,,2570024,3035,474
-2829387719,Bacteria,Brevinematales bacterium DeMMO6_14,2829387719,Spirochaetes,Spirochaetia,Brevinematales,unclassified,unclassified,unclassified,,3187540,3081,48
-2829093102,Bacteria,Actinobacteria bacterium DeMMO3_18,2829093102,Actinobacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1639671,1734,35
-2830512774,Bacteria,Obscuribacteraceae bacterium Service_water_4,2830512774,Candidatus Melainabacteria,unclassified,Candidatus Obscuribacterales,unclassified,unclassified,unclassified,,6673105,5993,81
-2829149976,Bacteria,Brocadiae bacterium DeMMO3_52,2829149976,Planctomycetes,Candidatus Brocadiae,unclassified,unclassified,unclassified,unclassified,,1198660,1124,116
-2829304429,Bacteria,Omnitrophica bacterium DeMMO5_25,2829304429,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,888512,911,194
-2830746933,Bacteria,Firmicutes bacterium DeMMO6_51,2830746933,Firmicutes,unclassified,unclassified,unclassified,unclassified,unclassified,,2029011,2151,268
-2829048197,Bacteria,Zixibacteria bacterium DeMMO3_3,2829048197,candidate division Zixibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,3526793,3015,43
-2829338966,Bacteria,Ignavibacteriaceae bacterium DeMMO6_2,2829338966,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,unclassified,unclassified,,4207972,3668,122
-2829140038,Bacteria,Margulisbacteria bacterium DeMMO3_47,2829140038,Candidatus Margulisbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1128794,1264,246
-2829442098,Bacteria,Clostridia bacterium DeMMO6_34,2829442098,Firmicutes,Clostridia,unclassified,unclassified,unclassified,unclassified,,2123151,2367,152
-2829451547,Bacteria,Pacebacteria bacterium DeMMO6_38,2829451547,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,717907,808,16
-2830733034,Bacteria,Pacebacteria bacterium White_creek_30,2830733034,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,413878,507,94
-2830749085,Bacteria,Myxococcales bacterium DeMMO6_52,2830749085,Proteobacteria,Deltaproteobacteria,Myxococcales,unclassified,unclassified,unclassified,,4782608,4710,846
-2829319574,Bacteria,Pacebacteria bacterium DeMMO5_31,2829319574,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,769630,962,179
-2829210945,Bacteria,Omnitrophica bacterium DeMMO4_14,2829210945,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,868220,962,184
-2829236793,Bacteria,Elusimicrobiales bacterium DeMMO4_31,2829236793,Elusimicrobia,Elusimicrobia,Elusimicrobiales,unclassified,unclassified,unclassified,,868410,1081,245
-2829170918,Bacteria,Phycisphaerae bacterium DeMMO3_68,2829170918,Planctomycetes,Phycisphaerae,unclassified,unclassified,unclassified,unclassified,,4262247,4317,1221
-2829398214,Bacteria,Deltaproteobacteria bacterium DeMMO6_17,2829398214,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,4378877,4343,167
-2829291762,Bacteria,Deltaproteobacteria bacterium DeMMO5_19,2829291762,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2373829,2709,499
-2830810320,Bacteria,Obscuribacterales bacterium Service_water_21,2830810320,Candidatus Melainabacteria,unclassified,Candidatus Obscuribacterales,unclassified,unclassified,unclassified,,8533795,8073,995
-2830618848,Bacteria,Sphingobium sp. Service_water_46,2830618848,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,unclassified,,2443950,2712,433
-2828922206,Bacteria,Deltaproteobacteria bacterium DeMMO2_8,2828922206,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2363273,2460,193
-2829408314,Bacteria,Desulfobacterales bacterium DeMMO6_21,2829408314,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,3362778,3253,349
-2829247052,Bacteria,Acidovorax sp. DeMMO4_41,2829247052,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,unclassified,,1724250,1867,247
-2830818394,Bacteria,Microgenomates bacterium DeMMO6_57,2830818394,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,768176,891,3
-2829287289,Bacteria,Bipolaricaulota bacterium DeMMO5_16,2829287289,Candidatus Bipolaricaulota,unclassified,unclassified,unclassified,unclassified,unclassified,,1708986,1977,330
-2830582322,Bacteria,Chlorobi bacterium Service_water_29,2830582322,Chlorobi,unclassified,unclassified,unclassified,unclassified,unclassified,,1877265,1902,303
-2830643814,Bacteria,Gammaproteobacteria bacterium Service_water_53,2830643814,Proteobacteria,Gammaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1084199,1066,77
-2828956440,Bacteria,Deltaproteobacteria bacterium DeMMO2_24,2828956440,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,3744770,3726,741
-2830510287,Bacteria,Alphaproteobacteria bacterium Service_water_3,2830510287,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2218708,2486,113
-2828931602,Bacteria,Omnitrophica bacterium DeMMO2_11,2828931602,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1244920,1344,70
-2829518495,Bacteria,Phycisphaerae bacterium DeMMO6_58,2829518495,Planctomycetes,Phycisphaerae,unclassified,unclassified,unclassified,unclassified,,1979434,1898,457
-2829203406,Bacteria,Nitrospirae bacterium DeMMO4_11,2829203406,Nitrospirae,unclassified,unclassified,unclassified,unclassified,unclassified,,1842993,2163,303
-2830650953,Bacteria,Gammaproteobacteria bacterium Service_water_60,2830650953,Proteobacteria,Gammaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2103128,2295,167
-2828820414,Bacteria,Sideroxydans sp. DeMMO1_15,2828820414,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,unclassified,,1055389,1296,322
-2829023234,Bacteria,Deltaproteobacteria bacterium DeMMO2_63,2829023234,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,972766,929,41
-2829444466,Bacteria,Chlorobi bacterium DeMMO6_35,2829444466,Chlorobi,unclassified,unclassified,unclassified,unclassified,unclassified,,2711369,2762,437
-2830674442,Bacteria,Dependentiae bacterium Service_water_71,2830674442,unclassified,unclassified,unclassified,unclassified,unclassified,unclassified,,1088900,1228,171
-2830598450,Bacteria,Gemmataceae bacterium Service_water_37,2830598450,Planctomycetes,Planctomycetia,Planctomycetales,Gemmataceae,unclassified,unclassified,,5578162,5975,1115
-2828940981,Bacteria,Thiobacillus sp. DeMMO2_16,2828940981,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Thiobacillaceae,Thiobacillus,unclassified,,2588817,2743,189
-2830753796,Bacteria,Microgenomates bacterium DeMMO6_54,2830753796,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,857453,939,5
-2828991522,Bacteria,Deltaproteobacteria bacterium DeMMO2_45,2828991522,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1501343,1725,365
-2829169138,Bacteria,Planctomycetes bacterium DeMMO3_66,2829169138,Planctomycetes,unclassified,unclassified,unclassified,unclassified,unclassified,,1380797,1345,117
-2830708281,Bacteria,Polaromonas sp. White_creek_10,2830708281,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,unclassified,,2050894,2581,422
-2829028042,Bacteria,Ignavibacteriae bacterium DeMMO2_67,2829028042,Ignavibacteriae,unclassified,unclassified,unclassified,unclassified,unclassified,,1348385,1432,340
-2830703132,Bacteria,Polynucleobacter sp. White_creek_6,2830703132,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,unclassified,,1144802,1352,226
-2828797260,Bacteria,Alfipia sp. DeMMO1_5,2828797260,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Afipia,unclassified,,4560429,5202,909
-2828808802,Bacteria,Alphaproteobacteria bacterium DeMMO1_10,2828808802,Proteobacteria,Alphaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2171073,2565,539
-2830728545,Bacteria,Gracilibacteria bacterium White_creek_25,2830728545,Candidatus Gracilibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,690580,719,11
-2829007930,Bacteria,Pacebacteria bacterium DeMMO2_55,2829007930,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,887458,1125,144
-2829179110,Bacteria,Bacteroidales bacterium DeMMO4_2,2829179110,Bacteroidetes,Bacteroidia,Bacteroidales,unclassified,unclassified,unclassified,,3468893,2915,58
-2830729265,Bacteria,Uhrbacteria bacterium Service_water_26,2830729265,Candidatus Uhrbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,419134,548,103
-2830740664,Bacteria,Pacebacteria bacterium White_creek_39,2830740664,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,703498,888,141
-2829031690,Bacteria,Pacebacteria bacterium DeMMO2_71,2829031690,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,335987,432,79
-2830653249,Bacteria,Hyphomicrobium sp. Service_water_61,2830653249,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Hyphomicrobium,unclassified,,2117824,2420,410
-2829058785,Bacteria,Melioribacteraceae bacterium DeMMO3_6,2829058785,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,unclassified,unclassified,,3674390,3246,21
-2829276980,Bacteria,Brocadiae bacterium DeMMO5_12,2829276980,Planctomycetes,Candidatus Brocadiae,unclassified,unclassified,unclassified,unclassified,,3580799,3878,826
-2829112709,Bacteria,Microgenomates bacterium DeMMO3_28,2829112709,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,711483,900,94
-2828787903,Bacteria,Gallionellaceae bacterium DeMMO1_2,2828787903,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,unclassified,unclassified,,2787787,3068,343
-2830729814,Bacteria,Omnitrophica bacterium White_creek_27,2830729814,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1503236,1697,356
-2829009056,Bacteria,Melioribacteraceae bacterium DeMMO2_56,2829009056,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,unclassified,unclassified,,2938215,3087,572
-2829224035,Bacteria,Aquabacterium sp. DeMMO4_24,2829224035,Proteobacteria,Betaproteobacteria,Burkholderiales,unclassified,Aquabacterium,unclassified,,2281532,2306,304
-2830576440,Bacteria,Gammaproteobacteria bacterium Service_water_25,2830576440,Proteobacteria,Gammaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1821982,1652,42
-2829480038,Bacteria,Desulfarculaceae bacterium DeMMO6_79,2829480038,Proteobacteria,Deltaproteobacteria,Desulfarculales,Desulfarculaceae,unclassified,unclassified,,1768971,1956,411
-2828823555,Bacteria,Pacebacteria bacterium DeMMO1_18,2828823555,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,502771,654,149
-2829214029,Bacteria,Sphingopyxis sp. DeMMO4_17,2829214029,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,unclassified,,2264699,2556,369
-2829323843,Bacteria,Nitrospiraceae bacterium DeMMO5_34,2829323843,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,unclassified,unclassified,,1562044,1997,460
-2829135571,Bacteria,Uhrbacteria bacterium DeMMO3_42,2829135571,Candidatus Uhrbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,786342,874,39
-2830686104,Bacteria,Rickettsiales bacterium Service_water_76,2830686104,Proteobacteria,Alphaproteobacteria,Rickettsiales,unclassified,unclassified,unclassified,,1257541,1377,268
-2829513402,Bacteria,Anaerolineales bacterium DeMMO6_61,2829513402,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,1953435,1832,98
-2829328702,Bacteria,Thermoanaerobacteraceae bacterium DeMMO5_38,2829328702,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,unclassified,unclassified,,1190926,1511,380
-2829022801,Bacteria,Pacebacteria bacterium DeMMO2_62,2829022801,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,353393,432,65
-2829370336,Bacteria,Melioribacteraceae bacterium DeMMO6_10,2829370336,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,unclassified,unclassified,,3674390,3246,21
-2829157808,Bacteria,Microgenomates bacterium DeMMO3_57,2829157808,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,856638,1087,107
-2830715487,Bacteria,Pacebacteria bacterium White_creek_15,2830715487,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1014421,1215,123
-2830506794,Bacteria,Parcubacteria bacterium DeMMO6_47,2830506794,Candidatus Parcubacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,977776,1077,68
-2829494215,Bacteria,Anaerolineales bacterium DeMMO6_70,2829494215,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,3297201,3561,527
-2829239764,Bacteria,Pacebacteria bacterium DeMMO4_35,2829239764,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,849854,1067,216
-2829503737,Bacteria,Anaerolineaceae bacterium DeMMO6_66,2829503737,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,1565351,1626,257
-2829484368,Bacteria,Desulfovibrionaceae bacterium DeMMO6_75,2829484368,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,unclassified,unclassified,,1533545,1710,359
-2830614393,Bacteria,Babeliales bacterium Service_water_41,2830614393,unclassified,Candidatus Babeliae,Candidatus Babeliales,unclassified,unclassified,unclassified,,737866,837,128
-2829456583,Bacteria,Pacebacteria bacterium DeMMO6_41,2829456583,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,686396,807,7
-2829188662,Bacteria,Ignavibacteriaceae bacterium DeMMO4_5,2829188662,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,unclassified,unclassified,,4582124,4262,415
-2829242972,Bacteria,Rhodocyclaceae bacterium DeMMO4_38,2829242972,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,unclassified,unclassified,,2674791,3136,428
-2828999841,Bacteria,Falkowbacteria bacterium DeMMO2_48,2828999841,Candidatus Falkowbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,592952,642,35
-2829152934,Bacteria,Microgenomates bacterium DeMMO3_54,2829152934,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,733255,902,84
-2828986005,Bacteria,Omnitrophica bacterium DeMMO2_40,2828986005,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,769691,842,96
-2829222322,Bacteria,Pacebacteria bacterium DeMMO4_21,2829222322,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,581752,704,112
-2829517543,Bacteria,Microgenomates bacterium DeMMO6_59,2829517543,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,854577,951,60
-2829064950,Bacteria,Nitrospirae bacterium DeMMO3_8,2829064950,Nitrospirae,unclassified,unclassified,unclassified,unclassified,unclassified,,3989724,3926,135
-2830503553,Bacteria,Thioalkalivibrio sp. DeMMO5_35,2830503553,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalivibrio,unclassified,,2171968,2583,549
-2828924667,Bacteria,Phycisphaerae bacterium DeMMO2_9,2828924667,Planctomycetes,Phycisphaerae,unclassified,unclassified,unclassified,unclassified,,4275092,3903,531
-2830563887,Bacteria,Thiotrichales bacterium Service_water_17,2830563887,Proteobacteria,Gammaproteobacteria,Thiotrichales,unclassified,unclassified,unclassified,,2162938,2068,117
-2829453649,Bacteria,Desulfobacterales bacterium DeMMO6_40,2829453649,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,2697695,2933,585
-2829362110,Bacteria,Clostridiaceae bacterium DeMMO6_7,2829362110,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,unclassified,unclassified,,1732568,1708,23
-2829477967,Bacteria,Bipolaricaulota bacterium DeMMO6_81,2829477967,Candidatus Bipolaricaulota,unclassified,unclassified,unclassified,unclassified,unclassified,,701584,841,176
-2829322463,Bacteria,Desantisbacteria bacterium DeMMO5_33,2829322463,Candidatus Desantisbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1280163,1379,388
-2829038200,Bacteria,Sideroxydans sp. DeMMO2_76,2829038200,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,unclassified,,1364258,1558,297
-2829447229,Bacteria,Clostridia bacterium DeMMO6_36,2829447229,Firmicutes,Clostridia,unclassified,unclassified,unclassified,unclassified,,2466726,2707,200
-2829308709,Bacteria,Opitutaceae bacterium DeMMO5_27,2829308709,Verrucomicrobia,Opitutae,Opitutales,Opitutaceae,unclassified,unclassified,,2381719,2476,571
-2829325841,Bacteria,Peptococcaceae bacterium DeMMO5_36,2829325841,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,unclassified,unclassified,,1915900,2434,629
-2829290988,Bacteria,Pacebacteria bacterium DeMMO5_18,2829290988,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,632804,773,90
-2830785189,Bacteria,Alphaproteobacteria bacterium Service_water_33,2830785189,Proteobacteria,Alphaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1178087,1249,35
-2830777115,Bacteria,Alphaproteobacteria bacterium Service_water_2,2830777115,Proteobacteria,Alphaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2536248,2578,15
-2829116506,Bacteria,Nitrospirae bacterium DeMMO3_30,2829116506,Nitrospirae,unclassified,unclassified,unclassified,unclassified,unclassified,,1439466,1682,182
-2829167738,Bacteria,Clostridia bacterium DeMMO3_65,2829167738,Firmicutes,Clostridia,unclassified,unclassified,unclassified,unclassified,,1235119,1399,246
-2830781015,Bacteria,Dependentiae bacterium Service_water_49,2830781015,unclassified,unclassified,unclassified,unclassified,unclassified,unclassified,,822721,921,148
-2828955438,Bacteria,Veblenbacteria bacterium DeMMO2_23,2828955438,Candidatus Veblenbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,952480,1001,21
-2829054882,Bacteria,Lentimicrobiaceae bacterium DeMMO3_5,2829054882,Bacteroidetes,Bacteroidia,Bacteroidales,Lentimicrobiaceae,unclassified,unclassified,,4671881,3902,94
-2828824210,Bacteria,Parachlamydiales bacterium DeMMO1_19,2828824210,Chlamydiae,Chlamydiia,Parachlamydiales,unclassified,unclassified,unclassified,,1322751,1540,418
-2829094837,Bacteria,Omnitrophica bacterium DeMMO3_19,2829094837,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1715096,1664,55
-2829100819,Bacteria,Eisenbacteria bacterium DeMMO3_22,2829100819,Candidatus Eisenbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,3258723,3018,411
-2829373583,Bacteria,Anaerolineales bacterium DeMMO6_11,2829373583,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,3992153,3933,279
-2830721052,Bacteria,Planktophila sp. White_creek_18,2830721052,Actinobacteria,Actinobacteria,Candidatus Nanopelagicales,Candidatus Nanopelagicaceae,Candidatus Planktophila,unclassified,,536900,686,142
-2830731512,Bacteria,Pacebacteria bacterium White_creek_28,2830731512,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,445201,575,76
-2830721739,Bacteria,Gracilibacteria bacterium White_creek_19,2830721739,Candidatus Gracilibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,679464,801,149
-2829274855,Bacteria,Nitrospiraceae bacterium DeMMO5_11,2829274855,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,unclassified,unclassified,,1755399,2124,434
-2830800996,Bacteria,Obscuribacterales bacterium Service_water_9,2830800996,Candidatus Melainabacteria,unclassified,Candidatus Obscuribacterales,unclassified,unclassified,unclassified,,4403246,3778,70
-2829240832,Bacteria,Kuenenbacteria bacterium DeMMO4_36,2829240832,Candidatus Kuenenbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,418681,500,115
-2830664598,Bacteria,Alphaproteobacteria bacterium Service_water_65,2830664598,Proteobacteria,Alphaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2179189,2281,112
-2829296419,Bacteria,Pacebacteria bacterium DeMMO5_22,2829296419,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,712071,855,118
-2828794254,Bacteria,Aquabacterium sp. DeMMO1_4,2828794254,Proteobacteria,Betaproteobacteria,Burkholderiales,unclassified,Aquabacterium,unclassified,,2799355,3005,538
-2830584225,Bacteria,Oligoflexia bacterium Service_water_30,2830584225,Proteobacteria,Oligoflexia,unclassified,unclassified,unclassified,unclassified,,3115760,3349,337
-2829083994,Bacteria,Omnitrophica bacterium DeMMO3_15,2829083994,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,2380992,2161,232
-2829005333,Bacteria,Desulfobulbaceae bacterium DeMMO2_53,2829005333,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,unclassified,unclassified,,1170741,1351,259
-2828814034,Bacteria,Variovorax paradoxus DeMMO1_13,2828814034,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus,,4216984,4999,1091
-2830527445,Bacteria,Parachlamydiales bacterium Service_water_7,2830527445,Chlamydiae,Chlamydiia,Parachlamydiales,unclassified,unclassified,unclassified,,2188274,2002,72
-2829491638,Bacteria,Deltaproteobacteria bacterium DeMMO6_72,2829491638,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1021740,1176,262
-2830732088,Bacteria,Methylophilus sp. White_creek_29,2830732088,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylophilus,unclassified,,774668,945,204
-2829404553,Bacteria,Desulfobacterales bacterium DeMMO6_20,2829404553,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,3824544,3760,453
-2829334864,Bacteria,Planctomycetes bacterium DeMMO6_1,2829334864,Planctomycetes,unclassified,unclassified,unclassified,unclassified,unclassified,,4784005,4101,130
-2829186796,Bacteria,Ignavibacteriaceae bacterium DeMMO4_4,2829186796,Ignavibacteriae,Ignavibacteria,unclassified,unclassified,unclassified,unclassified,,1858072,1865,151
-2830783064,Bacteria,Alphaproteobacteria bacterium Service_water_32,2830783064,Proteobacteria,Alphaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1859121,2124,332
-2828949107,Bacteria,Pacebacteria bacterium DeMMO2_19,2828949107,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,782866,948,46
-2829251778,Bacteria,Pseudomonadales bacterium DeMMO5_2,2829251778,Proteobacteria,Gammaproteobacteria,Pseudomonadales,unclassified,unclassified,unclassified,,5779219,5113,92
-2829229021,Bacteria,Actinobacteria bacterium DeMMO4_26,2829229021,Actinobacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1880406,2206,461
-2829472912,Bacteria,Desulfarculaceae bacterium DeMMO6_84,2829472912,Proteobacteria,Deltaproteobacteria,Desulfarculales,Desulfarculaceae,unclassified,unclassified,,1884222,2132,370
-2829175236,Bacteria,Veblenbacteria bacterium DeMMO3_69,2829175236,Candidatus Veblenbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,356220,422,86
-2830661292,Bacteria,Planctomycetaceae bacterium Service_water_64,2830661292,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,unclassified,unclassified,,3636810,3305,358
-2829133243,Bacteria,Anaerolineaceae bacterium DeMMO3_41,2829133243,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,2321999,2327,243
-2829330214,Bacteria,Elusimicrobia bacterium DeMMO5_39,2829330214,Elusimicrobia,unclassified,unclassified,unclassified,unclassified,unclassified,,1273582,1466,422
-2828812362,Bacteria,Thiobacillus sp. DeMMO1_12,2828812362,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Thiobacillaceae,Thiobacillus,unclassified,,1372103,1671,386
-2830712961,Bacteria,Microgenomates bacterium White_creek_13,2830712961,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,1333418,1561,185
-2828935682,Bacteria,Nitrospirales bacterium DeMMO2_13,2828935682,Nitrospirae,Nitrospira,Nitrospirales,unclassified,unclassified,unclassified,,2591594,2644,263
-2830649127,Bacteria,Dadabacteria bacterium Service_water_59,2830649127,Candidatus Dadabacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1693823,1825,278
-2829462990,Bacteria,WWE3 bacterium DeMMO6_44,2829462990,candidate division WWE3,unclassified,unclassified,unclassified,unclassified,unclassified,,964175,1089,72
-2829499775,Bacteria,Desulfobacterales bacterium DeMMO6_68,2829499775,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,1754135,1673,81
-2828968963,Bacteria,Desulfobacterales bacterium DeMMO2_31,2828968963,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,3049674,2879,581
-2830670423,Bacteria,Alphaproteobacteria bacterium Service_water_69,2830670423,Proteobacteria,Alphaproteobacteria,unclassified,unclassified,unclassified,unclassified,,878143,1015,135
-2830716703,Bacteria,Chamaesiphon sp. White_creek_16,2830716703,Cyanobacteria,unclassified,Synechococcales,Chamaesiphonaceae,Chamaesiphon,unclassified,,2197882,2514,436
-2829515235,Bacteria,Anaerolineaceae bacterium DeMMO6_60,2829515235,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,2113971,2307,383
-2829471771,Bacteria,Anaerolineales bacterium DeMMO6_85,2829471771,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,1042510,1140,241
-2829487320,Bacteria,Phycisphaerae bacterium DeMMO6_73,2829487320,Planctomycetes,Phycisphaerae,unclassified,unclassified,unclassified,unclassified,,4262247,4317,1221
-2829483927,Bacteria,Pacebacteria bacterium DeMMO6_76,2829483927,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,337215,440,74
-2829044589,Bacteria,Calditrichaeota bacterium DeMMO3_2,2829044589,Calditrichaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,4068806,3607,196
-2829107764,Bacteria,Nitrospiraceae bacterium DeMMO3_26,2829107764,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,unclassified,unclassified,,3269809,3144,124
-2829466238,Bacteria,Anaerolineaceae bacterium DeMMO6_46,2829466238,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,2321999,2327,243
-2830807189,Bacteria,Obscuribacterales bacterium Service_water_20,2830807189,Candidatus Melainabacteria,unclassified,Candidatus Obscuribacterales,unclassified,unclassified,unclassified,,3295155,3130,48
-2829175659,Bacteria,Clostridia bacterium DeMMO3_74,2829175659,Firmicutes,Clostridia,unclassified,unclassified,unclassified,unclassified,,1057865,1194,119
-2829294472,Bacteria,Omnitrophica bacterium DeMMO5_20,2829294472,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,937670,1088,139
-2829086156,Bacteria,Desulfobacteraceae bacterium DeMMO3_16,2829086156,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,unclassified,unclassified,,4568961,4942,491
-2830754736,Bacteria,Prolixibacteraceae bacterium DeMMO6_55,2830754736,Bacteroidetes,Bacteroidia,Marinilabiliales,Prolixibacteraceae,unclassified,unclassified,,2848620,2788,712
-2830580276,Bacteria,Parachlamydiales bacterium Service_water_28,2830580276,Chlamydiae,Chlamydiia,Parachlamydiales,unclassified,unclassified,unclassified,,1948009,2045,224
-2829424706,Bacteria,Anaerolineales bacterium DeMMO6_27,2829424706,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,3150014,3135,325
-2829226342,Bacteria,Acidovorax sp. DeMMO4_25,2829226342,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,unclassified,,2661900,2678,271
-2829273695,Bacteria,Omnitrophica bacterium DeMMO5_9,2829273695,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,998006,1159,134
-2829383823,Bacteria,Syntrophobacterales bacterium DeMMO6_13,2829383823,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,unclassified,unclassified,unclassified,,4154319,3895,175
-2828980803,Bacteria,Zixibacteria bacterium DeMMO2_37,2828980803,candidate division Zixibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,2750102,2860,571
-2829021622,Bacteria,Pacebacteria bacterium DeMMO2_60,2829021622,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,479149,588,100
-2829342635,Bacteria,Melioribacteraceae bacterium DeMMO6_3,2829342635,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,unclassified,unclassified,,3687892,3304,47
-2830554847,Bacteria,Parachlamydiaceae bacterium Service_water_13,2830554847,Chlamydiae,Chlamydiia,Parachlamydiales,unclassified,unclassified,unclassified,,2392063,2191,144
-2828821711,Bacteria,Kuenenbacteria bacterium DeMMO1_16,2828821711,Candidatus Kuenenbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,453795,562,173
-2830739772,Bacteria,Gracilibacteria bacterium White_creek_37,2830739772,Candidatus Gracilibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,449005,454,14
-2829151101,Bacteria,Anaerolineales bacterium DeMMO3_53,2829151101,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,1953435,1832,98
-2829221692,Bacteria,Kuenenbacteria bacterium DeMMO4_20,2829221692,Candidatus Kuenenbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,619658,629,99
-2830714523,Bacteria,Pacebacteria bacterium White_creek_14,2830714523,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,812110,963,56
-2828913368,Bacteria,Bacteroidetes bacterium DeMMO2_4,2828913368,Bacteroidetes,unclassified,unclassified,unclassified,unclassified,unclassified,,3499320,3019,62
-2830615231,Bacteria,Legionellaceae bacterium Service_water_42,2830615231,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,unclassified,unclassified,,1179678,1255,247
-2829223627,Bacteria,Pacebacteria bacterium DeMMO4_23,2829223627,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,331095,407,50
-2830700780,Bacteria,Sphingobacteriaceae bacterium White_creek_5,2830700780,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,unclassified,unclassified,,2360781,2351,419
-2829211908,Bacteria,Omnitrophica bacterium DeMMO4_15,2829211908,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,835654,908,162
-2828962237,Bacteria,Uhrbacteria bacterium DeMMO2_27,2828962237,Candidatus Uhrbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,848922,888,30
-2829411568,Bacteria,Armatimonadetes bacterium DeMMO6_22,2829411568,Armatimonadetes,unclassified,unclassified,unclassified,unclassified,unclassified,,4864111,4179,440
-2829390801,Bacteria,Anaerolineales bacterium DeMMO6_15,2829390801,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,3668499,3644,155
-2830578093,Bacteria,Gammaproteobacteria bacterium Service_water_26,2830578093,Proteobacteria,Gammaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2139866,2182,155
-2828822274,Bacteria,Nitrospira bacterium DeMMO1_17,2828822274,Nitrospirae,Nitrospira,unclassified,unclassified,unclassified,unclassified,,1037615,1280,347
-2829402558,Bacteria,Thermoanaerobacteraceae bacterium DeMMO6_19,2829402558,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,unclassified,unclassified,,1863235,1994,216
-2829469616,Bacteria,Melioribacteraceae bacterium DeMMO6_86,2829469616,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,unclassified,unclassified,,1946791,2154,502
-2829158896,Bacteria,Pacebacteria bacterium DeMMO3_58,2829158896,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,825044,1018,120
-2829091099,Bacteria,Omnitrophica bacterium DeMMO3_17,2829091099,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,2027445,2002,109
-2828978088,Bacteria,Calditrichaeota bacterium DeMMO2_36,2828978088,Calditrichaeota,unclassified,unclassified,unclassified,unclassified,unclassified,,2888451,2714,537
-2830616487,Bacteria,Phycisphaerales bacterium Service_water_45,2830616487,Planctomycetes,Phycisphaerae,Phycisphaerales,unclassified,unclassified,unclassified,,2263808,2360,412
-2829216586,Bacteria,Syntrophaceae bacterium DeMMO4_18,2829216586,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,unclassified,unclassified,,2041218,2310,444
-2829460094,Bacteria,Anaerolineales bacterium DeMMO6_43,2829460094,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,3179592,2895,64
-2828971843,Bacteria,Desulfobacterales bacterium DeMMO2_32,2828971843,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,1855766,2011,305
-2829146308,Bacteria,Anaerolineales bacterium DeMMO3_51,2829146308,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,3929570,3667,122
-2830735201,Bacteria,Nitrospira sp. White_creek_33,2830735201,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Nitrospira,unclassified,,1064291,1430,267
-2829197310,Bacteria,Sphingopyxis sp. DeMMO4_8,2829197310,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,unclassified,,3146149,3449,430
-2828950056,Bacteria,Omnitrophica bacterium DeMMO2_20,2828950056,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1961636,1814,75
-2828965979,Bacteria,Falkowbacteria bacterium DeMMO2_29,2828965979,Candidatus Falkowbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1009896,1100,66
-2830594275,Bacteria,Nitrospiraceae bacterium Service_water_36,2830594275,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,unclassified,unclassified,,3892760,4174,383
-2829016879,Bacteria,Latescibacteria bacterium DeMMO2_58,2829016879,Candidatus Latescibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,3889769,3901,750
-2830779694,Bacteria,Holosporales bacterium Service_water_47,2830779694,Proteobacteria,Alphaproteobacteria,Holosporales,unclassified,unclassified,unclassified,,1302172,1320,29
-2830590815,Bacteria,Bacteroidia bacterium Service_water_35,2830590815,Bacteroidetes,Bacteroidia,unclassified,unclassified,unclassified,unclassified,,4050959,3459,117
-2829037569,Bacteria,Microgenomates bacterium DeMMO2_75,2829037569,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,477496,630,100
-2828827434,Bacteria,Gallionella sp. DeMMO1_21,2828827434,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Gallionella,unclassified,,1244006,1644,458
-2829022211,Bacteria,Berkelbacteria bacterium DeMMO2_61,2829022211,Candidatus Berkelbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,471001,589,101
-2829068877,Bacteria,Ignavibacteria bacterium DeMMO3_9,2829068877,Ignavibacteriae,Ignavibacteria,unclassified,unclassified,unclassified,unclassified,,3897877,3465,281
-2829475045,Bacteria,Anaerolineaceae bacterium DeMMO6_83,2829475045,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,597230,700,120
-2829097930,Bacteria,Zixibacteria bacterium DeMMO3_21,2829097930,candidate division Zixibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,3125420,2888,263
-2828946574,Bacteria,Ignavibacteriaceae bacterium DeMMO2_18,2828946574,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,unclassified,unclassified,,2534016,2532,304
-2829468566,Bacteria,Anaerolineaceae bacterium DeMMO6_87,2829468566,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,888559,1049,248
-2830757525,Bacteria,Anaerolineales bacterium DeMMO6_56,2830757525,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,3929570,3667,122
-2829223027,Bacteria,Parcubacteria bacterium DeMMO4_22,2829223027,Candidatus Parcubacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,537408,599,99
-2829118189,Bacteria,Deltaproteobacteria bacterium DeMMO3_31,2829118189,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,1777846,1953,340
-2828829079,Bacteria,Pacebacteria bacterium DeMMO1_22,2828829079,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,253957,350,64
-2829020781,Bacteria,Omnitrophica bacterium DeMMO2_59,2829020781,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,794497,840,22
-2829265538,Bacteria,Ignavibacterium sp. DeMMO5_6,2829265538,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,Ignavibacterium,unclassified,,3261115,3083,301
-2830646608,Bacteria,Pyrinomonadaceae bacterium Service_water_58,2830646608,Acidobacteria,Blastocatellia,Blastocatellales,Pyrinomonadaceae,unclassified,unclassified,,2163425,2518,506
-2830711996,Bacteria,Berkelbacteria bacterium White_creek_12,2830711996,Candidatus Berkelbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,803317,964,115
-2830502143,Bacteria,Elusimicrobia bacterium DeMMO3_73,2830502143,Elusimicrobia,unclassified,unclassified,unclassified,unclassified,unclassified,,1314482,1409,313
-2828901765,Bacteria,Thiothrix sp. DeMMO2_1,2828901765,Proteobacteria,Gammaproteobacteria,Thiotrichales,Thiotrichaceae,Thiothrix,unclassified,,3722790,3809,74
-2829144959,Bacteria,Microgenomates bacterium DeMMO3_50,2829144959,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,1143613,1348,81
-2828986848,Bacteria,Kuenenbacteria bacterium DeMMO2_41,2828986848,Candidatus Kuenenbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,523205,509,84
-2829040946,Bacteria,Eisenbacteria bacterium DeMMO2_79,2829040946,Candidatus Eisenbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1130591,1218,338
-2829142807,Bacteria,Elusimicrobia bacterium DeMMO3_49,2829142807,Elusimicrobia,unclassified,unclassified,unclassified,unclassified,unclassified,,2029011,2151,268
-2829262958,Bacteria,Actinobacteria bacterium DeMMO5_5,2829262958,Actinobacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,2510360,2579,214
-2830658815,Bacteria,Betaproteobacteria bacterium Service_water_63,2830658815,Proteobacteria,Betaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2184960,2476,316
-2829035783,Bacteria,Nitrospira bacterium DeMMO2_73,2829035783,Nitrospirae,Nitrospira,unclassified,unclassified,unclassified,unclassified,,1110874,1208,196
-2829345940,Bacteria,Omnitrophica bacterium DeMMO6_4,2829345940,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,7542699,6595,206
-2829449937,Bacteria,Dehalococcoidales bacterium DeMMO6_37,2829449937,Chloroflexi,Dehalococcoidia,Dehalococcoidales,unclassified,unclassified,unclassified,,1368447,1609,234
-2829161542,Bacteria,Actinobacteria bacterium DeMMO3_60,2829161542,Actinobacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,2042358,2240,448
-2829127185,Bacteria,Uhrbacteria bacterium DeMMO3_36,2829127185,Candidatus Uhrbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1328702,1391,105
-2829363819,Bacteria,Actinobacteria bacterium DeMMO6_8,2829363819,Actinobacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,3923156,3584,167
-2829334367,Bacteria,Pacebacteria bacterium DeMMO5_43,2829334367,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,368027,496,95
-2829205570,Bacteria,Aquabacterium sp. DeMMO4_12,2829205570,Proteobacteria,Betaproteobacteria,Burkholderiales,unclassified,Aquabacterium,unclassified,,2593327,2728,389
-2830719218,Bacteria,Pseudorhodobacter sp. White_creek_17,2830719218,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter,unclassified,,1465073,1833,338
-2830557039,Bacteria,Gammaproteobacteria bacterium Service_water_14,2830557039,Proteobacteria,Gammaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2521959,2400,150
-2830706551,Bacteria,Omnitrophica bacterium White_creek_9,2830706551,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1681322,1729,307
-2830500828,Bacteria,Desantisbacteria bacterium DeMMO3_71,2830500828,Candidatus Desantisbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,720146,598,196
-2829280859,Bacteria,Parvibaculum sp. DeMMO5_13,2829280859,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,Parvibaculum,unclassified,,2774733,3180,453
-2830524530,Bacteria,Bacteroidales bacterium Service_water_6,2830524530,Bacteroidetes,unclassified,unclassified,unclassified,unclassified,unclassified,,3170262,2914,87
-2830570827,Bacteria,Babeliales bacterium Service_water_22,2830570827,unclassified,Candidatus Babeliae,Candidatus Babeliales,unclassified,unclassified,unclassified,,1252684,1270,29
-2829486079,Bacteria,Anaerolineaceae bacterium DeMMO6_74,2829486079,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,1116911,1240,215
-2829331681,Bacteria,Rhodocyclaceae bacterium DeMMO5_40,2829331681,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,unclassified,unclassified,,931453,1188,280
-2829270695,Bacteria,Gemmatimonadetes bacterium DeMMO5_8,2829270695,Gemmatimonadetes,unclassified,unclassified,unclassified,unclassified,unclassified,,3263900,2999,479
-2829452356,Bacteria,Microgenomates bacterium DeMMO6_39,2829452356,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,1039570,1292,27
-2830568363,Bacteria,Berkiella sp. Service_water_19,2830568363,Proteobacteria,Gammaproteobacteria,Legionellales,Coxiellaceae,Candidatus Berkiella,unclassified,,2527638,2463,78
-2830573185,Bacteria,Betaproteobacteria bacterium Service_water_24,2830573185,Proteobacteria,Betaproteobacteria,unclassified,unclassified,unclassified,unclassified,,2970030,3254,344
-2829040651,Bacteria,Pacebacteria bacterium DeMMO2_78,2829040651,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,225123,294,56
-2829482732,Bacteria,Clostridia bacterium DeMMO6_77,2829482732,Firmicutes,Clostridia,unclassified,unclassified,unclassified,unclassified,,1057865,1194,119
-2828975685,Bacteria,Sideroxydans sp. DeMMO2_34,2828975685,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,unclassified,,1423758,1661,270
-2829367404,Bacteria,Bacteroidales bacterium DeMMO6_9,2829367404,Bacteroidetes,Bacteroidia,Bacteroidales,unclassified,unclassified,unclassified,,3493350,2931,55
-2829192925,Bacteria,Gemmatimonadetes bacterium DeMMO4_6,2829192925,Gemmatimonadetes,unclassified,unclassified,unclassified,unclassified,unclassified,,3320272,2911,341
-2830821404,Bacteria,Microgenomates bacterium DeMMO6_50,2830821404,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,1092880,1176,40
-2829012144,Bacteria,Luteitalea sp. DeMMO2_57,2829012144,Acidobacteria,Vicinamibacteria,unclassified,Vicinamibacteraceae,Luteitalea,unclassified,,4039861,4734,1037
-2828802463,Bacteria,Desantibacteria bacterium DeMMO1_6,2828802463,Candidatus Desantisbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1908953,1583,530
-2829464080,Bacteria,Anaerolineales bacterium DeMMO6_45,2829464080,Chloroflexi,Anaerolineae,Anaerolineales,unclassified,unclassified,unclassified,,2219904,2157,63
-2830680500,Bacteria,Opitutaceae bacterium Service_water_74,2830680500,Verrucomicrobia,Opitutae,Opitutales,Opitutaceae,unclassified,unclassified,,3987305,4503,1140
-2829507080,Bacteria,Deltaproteobacteria bacterium DeMMO6_64,2829507080,Proteobacteria,Deltaproteobacteria,unclassified,unclassified,unclassified,unclassified,,3106002,3454,754
-2830742038,Bacteria,Parcubacteria bacterium DeMMO6_47,2830742038,Candidatus Parcubacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,977776,1077,68
-2829237875,Bacteria,Pacebacteria bacterium DeMMO4_32,2829237875,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,501194,695,100
-2830722541,Bacteria,Planctomycetes bacterium White_creek_20,2830722541,Planctomycetes,Planctomycetia,Planctomycetales,unclassified,unclassified,unclassified,,2803435,2824,731
-2829136446,Bacteria,Omnitrophica bacterium DeMMO3_44,2829136446,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1093903,1273,199
-2829332870,Bacteria,Pacebacteria bacterium DeMMO5_41,2829332870,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,402569,518,112
-2829300981,Bacteria,Hydrogenophilaceae bacterium DeMMO5_24,2829300981,Proteobacteria,Hydrogenophilalia,Hydrogenophilales,Hydrogenophilaceae,unclassified,unclassified,,2883791,3447,588
-2829062032,Bacteria,Goldbacteria bacterium DeMMO3_7,2829062032,Candidatus Goldbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,3166304,2917,200
-2830710863,Bacteria,Pacebacteria bacterium White_creek_11,2830710863,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,901737,1132,30
-2829159915,Bacteria,Anaerolineaceae bacterium DeMMO3_59,2829159915,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,unclassified,unclassified,,1565351,1626,257
-2828918058,Bacteria,Zixibacteria bacterium DeMMO2_6,2828918058,candidate division Zixibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,2904656,2665,248
-2828825751,Bacteria,Desulfovibrio sp. DeMMO1_20,2828825751,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,unclassified,,1379504,1682,439
-2829420556,Bacteria,Clostridia bacterium DeMMO6_25,2829420556,Firmicutes,Clostridia,unclassified,unclassified,unclassified,unclassified,,2515802,2626,135
-2828819034,Bacteria,Desantibacteria bacterium DeMMO1_14,2828819034,Candidatus Desantisbacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1280163,1379,388
-2829163783,Bacteria,Dojkabacteria bacterium DeMMO3_61,2829163783,unclassified,unclassified,unclassified,unclassified,unclassified,unclassified,,658029,747,137
-2830743116,Bacteria,Zixibacteria bacterium DeMMO6_48,2830743116,candidate division Zixibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,1662053,1792,379
-2828977347,Bacteria,Microgenomates bacterium DeMMO2_35,2828977347,Candidatus Microgenomates,unclassified,unclassified,unclassified,unclassified,unclassified,,576804,740,75
-2830518768,Bacteria,Obscuribacteraceae bacterium Service_water_5,2830518768,Candidatus Melainabacteria,unclassified,Candidatus Obscuribacterales,unclassified,unclassified,unclassified,,7010342,5761,154
-2829285779,Bacteria,Omnitrophica bacterium DeMMO5_15,2829285779,Candidatus Omnitrophica,unclassified,unclassified,unclassified,unclassified,unclassified,,1374954,1509,295
-2829074811,Bacteria,Thermoleophilia bacterium DeMMO3_11,2829074811,Actinobacteria,Thermoleophilia,unclassified,unclassified,unclassified,unclassified,,2039771,2117,49
-2829352536,Bacteria,Verrucomicrobia bacterium DeMMO6_5,2829352536,Verrucomicrobia,unclassified,unclassified,unclassified,unclassified,unclassified,,3731897,2902,61
-2829246109,Bacteria,Aquabacterium sp. DeMMO4_39,2829246109,Proteobacteria,Betaproteobacteria,Burkholderiales,unclassified,Aquabacterium,unclassified,,507294,540,47
-2829457391,Bacteria,Gemmatimonadetes bacterium DeMMO6_42,2829457391,Gemmatimonadetes,unclassified,unclassified,unclassified,unclassified,unclassified,,2927360,2702,444
-2830727269,Bacteria,Pacebacteria bacterium White_creek_23,2830727269,Candidatus Pacebacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,666627,859,116
-2829427842,Bacteria,Melioribacteraceae bacterium DeMMO6_28,2829427842,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,unclassified,unclassified,,3438740,3407,344
-2830559440,Bacteria,Xanthobacteraceae bacterium Service_water_15,2830559440,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,unclassified,unclassified,,2818240,3113,211
-2829377517,Bacteria,Desulfobacterales bacterium DeMMO6_12,2829377517,Proteobacteria,Deltaproteobacteria,Desulfobacterales,unclassified,unclassified,unclassified,,6693675,6305,450
-2830725366,Bacteria,Gracilibacteria bacterium White_creek_21,2830725366,Candidatus Gracilibacteria,unclassified,unclassified,unclassified,unclassified,unclassified,,885256,1078,201
+site,genome,Completeness,Contamination,gene_count,domain,phylum,class,order,family,genus,species
+D1,1,97.64,4.37,6297,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,GCF_000510915.2
+D1,10,61.93,1.12,2509,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp5
+D1,11,59.8,0,912,Bacteria,Patescibacteria,ABY1,Uhrbacterales,2-12-FULL-60-25,2-12-FULL-60-25,
+D1,12,58.68,9.02,1634,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Hydrogenophilaceae,Thiobacillus,
+D1,13,58.15,1.26,4967,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Variovorax,Variovorax paradoxus_B
+D1,14,49.82,9.34,1307,Bacteria,UBA9089,UBA9088,UBA9088,,,
+D1,15,48.68,1.54,1275,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Gallionellaceae,Sideroxydans,
+D1,16,44.06,10.66,536,Bacteria,Patescibacteria,ABY1,UBA2591,,,
+D1,17,43.19,0,1236,Bacteria,Nitrospirota,Nitrospiria,HDB-SIOI813,HDB-SIOI813,,
+D1,18,39.32,2.7,603,Bacteria,Patescibacteria,Paceibacteria,UBA9983,,,
+D1,19,37.78,1.01,1489,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,,,
+D1,2,93.36,7.09,2978,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Gallionellaceae,,
+D1,20,31.1,0.61,1648,Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio_P,
+D1,21,29.94,3.25,1583,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Gallionellaceae,Gallionella,
+D1,22,29.65,0,322,Bacteria,Patescibacteria,Paceibacteria,UBA9983,UBA9983,,
+D1,23,26.62,0,420,Bacteria,Patescibacteria,ABY1,UBA1544,,,
+D1,24,24.4,0.92,687,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,UBA349,
+D1,25,20.6,0.93,576,Archaea,Micrarchaeota,Micrarchaeia,UBA10214,UBA10161,,
+D1,3,84.94,2.06,2754,Bacteria,Verrucomicrobiota,Lentisphaeria,UBA1784,GWF2-50-93,,
+D1,4,79.35,0.96,2954,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Aquabacterium,
+D1,5,78.62,5.53,5051,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Afipia,
+D1,6,76.3,0,1521,Bacteria,UBA9089,CG2-30-40-21,CG2-30-40-21,CG2-30-40-21,,
+D1,7,73.36,0.47,1415,Archaea,Nanoarchaeota,Woesearchaeia,UBA10200,UBA10200,,
+D1,8,64.8,0.93,1610,Archaea,Nanoarchaeota,Woesearchaeia,Pacearchaeales,CG1-02-32-21,,
+D1,9,62.35,9.68,1588,Bacteria,Omnitrophota,koll11,UBA1572,UBA1572,um-filter-44-12,
+D2,1,99.48,0.57,3698,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Thiotrichaceae,Thiothrix,
+D2,10,87.42,0.65,2933,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfatibacillaceae,,
+D2,100,10.17,0,326,Bacteria,UBP1,PRR-12,LZORAL124-64-63,LZORAL124-64-63,um-filter-65-15,
+D2,11,86.84,5.11,1276,Bacteria,Omnitrophota,koll11,1-14-0-20-42-13,,,
+D2,12,86.57,9.51,2659,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,UBA6898,,
+D2,13,86.57,0.96,2563,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,UBA6898,,
+D2,14,86.14,0,1286,Archaea,Micrarchaeota,Micrarchaeia,UBA8480,UBA97,,
+D2,15,82.71,0,1229,Archaea,Nanoarchaeota,Woesearchaeia,SM23-78,UBA9642,UBA9642,
+D2,16,81.98,2.96,2672,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Hydrogenophilaceae,Thiobacillus,
+D2,17,78.95,1.75,2773,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,,
+D2,18,78.58,2.61,2463,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,UBA1563,
+D2,19,76.7,0,863,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Vogelbacteraceae,,
+D2,2,97.73,1.7,3281,Bacteria,Planctomycetota,Phycisphaerae,UBA1845,UBA1845,,
+D2,20,75.38,5.38,1730,Bacteria,Omnitrophota,koll11,UBA1572,,,
+D2,21,73.36,1.87,1058,Archaea,Micrarchaeota,Iainarchaeia,Iainarchaeales,GCA-2688035,,
+D2,22,72.37,1.55,2385,Bacteria,Bacteroidota,UBA10030,UBA10030,UBA10030,UBA9647,
+D2,23,71.1,0,936,Bacteria,Patescibacteria,ABY1,Veblenbacterales,UBA10138,,
+D2,24,70.79,0,3694,Bacteria,Desulfobacterota,Desulfarculia,Adiutricales,,,
+D2,25,69.82,1.85,864,Bacteria,Patescibacteria,Berkelbacteria,2-12-FULL-50-11,,,
+D2,26,68.69,0,1076,Archaea,Micrarchaeota,Micrarchaeia,UBA10214,,,
+D2,27,68.32,0.99,831,Bacteria,Patescibacteria,ABY1,Uhrbacterales,GWF2-40-263,,
+D2,28,67.84,0.54,2741,Bacteria,Planctomycetota,UBA8742,,,,
+D2,29,67.13,1.98,1016,Bacteria,Patescibacteria,ABY1,XYB2-FULL-38-15,,,
+D2,3,97.27,2.78,4157,Bacteria,Nitrospirota,Thermodesulfovibrionia,UBA6902,UBA6902,,
+D2,30,66.53,0,1811,Archaea,Nanoarchaeota,Woesearchaeia,SM23-78,SM23-78,,
+D2,31,65.75,1.94,2823,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,YD0425bin50,,
+D2,32,64.85,2.58,1944,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,BuS5,,
+D2,33,64.69,0.54,1750,Bacteria,Omnitrophota,UBA9649,UBA9649,UBA9649,2-02-FULL-67-20,
+D2,34,63.91,0.95,1621,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Gallionellaceae,Sideroxydans,
+D2,35,63.32,0,688,Bacteria,Patescibacteria,Microgenomatia,Shapirobacterales,UBA12405,UBA12158,
+D2,36,62.95,1.1,2557,Bacteria,AABM5-125-24,AABM5-125-24,,,,
+D2,37,62.26,0,2776,Bacteria,Zixibacteria,MSB-5A5,,,,
+D2,38,60.2,2.87,716,Bacteria,Patescibacteria,Paceibacteria,UBA6257,2-01-FULL-56-20,,
+D2,39,59.84,3.3,1507,Bacteria,Zixibacteria,MSB-5A5,,,,
+D2,4,96.7,1.64,2878,Bacteria,Bacteroidota,UBA10030,UBA10030,,,
+D2,40,59.83,0,799,Bacteria,Omnitrophota,koll11,UBA1572,UBA1572,um-filter-44-12,
+D2,41,59.5,0.99,494,Bacteria,Patescibacteria,ABY1,UBA2591,uenenbacteria-1,uenenbacteria-1,
+D2,42,59.17,2.18,1449,Archaea,Nanoarchaeota,Woesearchaeia,GW2011-AR15,GW2011-AR15,,
+D2,43,57.85,1.6,1513,Archaea,Thermoplasmatota,Thermoplasmata_A,UBA10834,UBA10834,COMBO-56-21,
+D2,44,57.7,0,1021,Bacteria,Omnitrophota,koll11,UBA10183,UBA10183,UBA10183,
+D2,45,57.19,0,1689,Bacteria,Desulfobacterota,Desulfobaccia,RBG-13-43-22,,,
+D2,46,55.17,3.45,3484,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,Sulfuritalea,
+D2,47,55.08,7.78,2901,Bacteria,Nitrospirota,Thermodesulfovibrionia,UBA6902,UBA6902,,
+D2,48,53.64,0,589,Bacteria,Patescibacteria,ABY1,Falkowbacterales,UBA12465,UBA12465,
+D2,49,53.16,0,643,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,GCA-002774445,
+D2,5,95.16,1.68,1603,Bacteria,Omnitrophota,koll11,UBA1560,2-01-FULL-45-10,,
+D2,50,52.57,0.93,847,Archaea,Micrarchaeota,Iainarchaeia,Iainarchaeales,1-14-0-10-31-34,1-14-0-10-31-34,
+D2,51,52.36,4.77,2280,Bacteria,Desulfobacterota,Syntrophia,Syntrophales,CG2-30-49-12,CG2-30-49-12,
+D2,52,51.45,0,844,Bacteria,Patescibacteria,Microgenomatia,UBA10105,,,
+D2,53,50.93,0,1308,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,UBA2262,
+D2,54,50.86,0,1236,Bacteria,MBNT15,MBNT15,MBNT15,MBNT15,RBG-16-64-85,
+D2,55,50.01,0.85,1070,Bacteria,Patescibacteria,Paceibacteria,Ryanbacterales,GWA2-47-10b,,
+D2,56,49.92,6.02,3011,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,navibacteriae-3,
+D2,57,49.39,8.82,4635,Bacteria,Acidobacteriota,Luteitaleia,,,,
+D2,58,47.54,2.2,3842,Bacteria,Latescibacterota,UBA2968,UBA8231,,,
+D2,59,46.71,0,801,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,UBA6249,
+D2,6,93.89,1.1,2544,Bacteria,Zixibacteria,MSB-5A5,Zixibacteria-1,Zixibacteria-1,,
+D2,60,45.54,1.85,546,Bacteria,Patescibacteria,Paceibacteria,UBA6257,Jorgensenbacteraceae,,
+D2,61,44.87,0.99,562,Bacteria,Patescibacteria,Berkelbacteria,,,,
+D2,62,44.44,3.45,421,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Nomurabacteraceae,UBA9973,
+D2,63,44.17,0,901,Bacteria,UBA10199,UBA10199,GCA-002796325,1-14-0-20-49-13,,
+D2,64,43.61,9.24,1485,Bacteria,MBNT15,MBNT15,MBNT15,,,
+D2,65,42.47,3.39,1725,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Thiomonas,
+D2,66,41.38,0,557,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,UBA6249,
+D2,67,39.83,0,1368,Bacteria,Bacteroidota,UBA10030,UBA10030,UBA8401,,
+D2,68,39.66,0,891,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,GCA-002774445,
+D2,69,39.13,0,324,Archaea,Micrarchaeota,Iainarchaeia,Iainarchaeales,,,
+D2,7,93.46,0,1392,Archaea,Micrarchaeota,Micrarchaeia,UBA10214,UBA10161,,
+D2,70,38.79,0,889,Bacteria,UBA10199,UBA10199,GCA-002796325,1-14-0-20-49-13,,
+D2,71,38.27,3.99,417,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Nomurabacteraceae,UBA9973,
+D2,72,37.88,8.24,3475,Bacteria,Omnitrophota,4484-49,,,,
+D2,73,37.18,0.91,1164,Bacteria,Nitrospirota,Thermodesulfovibrionia,UBA6902,UBA6902,,
+D2,74,36.23,1.72,561,Bacteria,Zixibacteria,MSB-5A5,,,,
+D2,75,34.84,1.49,589,Bacteria,Patescibacteria,Microgenomatia,UBA1400,,,
+D2,76,33.82,1.72,1548,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Gallionellaceae,Sideroxydans,
+D2,77,31.78,0,869,Archaea,Nanoarchaeota,Woesearchaeia,UBA12501,UBA11576,,
+D2,78,31.15,2.42,272,Bacteria,Patescibacteria,Paceibacteria,UBA9983,,,
+D2,79,29.51,5.85,1212,Bacteria,Eisenbacteria,RBG-16-71-46,,,,
+D2,8,92.44,1.01,2390,Bacteria,MBNT15,MBNT15,MBNT15,MBNT15,CG2-30-66-27,
+D2,80,28.32,1.14,673,Bacteria,Planctomycetota,Brocadiae,SM23-32,,,
+D2,81,26.3,5.27,3854,Bacteria,Desulfobacterota,Desulfobulbia,,,,
+D2,82,26.24,0.99,224,Bacteria,Patescibacteria,ABY1,Falkowbacterales,UBA12465,UBA12465,
+D2,83,24.11,0,1375,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfococcaceae_A,,
+D2,84,23.17,2.98,595,Bacteria,Patescibacteria,ABY1,Falkowbacterales,GWE2-39-37,,
+D2,85,22.34,0,338,Bacteria,Patescibacteria,Paceibacteria,UBA9983,UBA12445,,
+D2,86,21.99,0,297,Bacteria,Patescibacteria,ABY1,Veblenbacterales,,,
+D2,87,20.69,0,602,Bacteria,Omnitrophota,koll11,UBA1572,UBA1572,um-filter-44-12,
+D2,88,20.47,0,1527,Bacteria,Acidobacteriota,Thermoanaerobaculia,UBA5066,UBA5066,,
+D2,89,20.35,1,923,Bacteria,Desulfobacterota,Syntrophia,Syntrophales,UBA5619,UBA5619,
+D2,9,90.34,5.68,3771,Bacteria,Planctomycetota,Phycisphaerae,UBA1845,,,
+D2,90,19.09,0,524,Bacteria,Patescibacteria,Microgenomatia,UBA10105,UBA927,,
+D2,91,18.69,0,545,Archaea,Micrarchaeota,Iainarchaeia,0-14-0-20-30-16,,,
+D2,92,16.79,0,263,Bacteria,Patescibacteria,ABY1,Falkowbacterales,UBA917,,
+D2,93,16.55,1.1,564,Bacteria,Zixibacteria,MSB-5A5,,,,
+D2,94,15.81,0,1213,Bacteria,Planctomycetota,Brocadiae,,,,
+D2,95,15.18,0,317,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfococcaceae_A,,
+D2,96,12.4,0,315,Bacteria,Zixibacteria,MSB-5A5,Zixibacteria-1,,,
+D2,97,11.8,0,581,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfobacteraceae,,
+D2,98,11.78,0.86,530,Bacteria,Patescibacteria,Microgenomatia,GWA2-44-7,Amesbacteraceae,,
+D2,99,10.34,0,549,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Hydrogenophilaceae,UBA3361,
+D3,1,100,0,2336,Bacteria,Edwardsbacteria,AC1,AC1,EtOH8,UBA2226,
+D3,10,94.38,0,2412,Bacteria,Spirochaetota,Brevinematia,Brevinematales,GWF1-51-8,,
+D3,100,10.18,0,560,Bacteria,MBNT15,MBNT15,MBNT15,MBNT15,CG2-30-66-27,
+D3,11,93.97,2.59,1980,Bacteria,Actinobacteriota,Thermoleophilia,,,,
+D3,12,93.46,0.87,3153,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Gallionellaceae,Sideroxydans,
+D3,13,93.22,0,1562,Archaea,Micrarchaeota,Micrarchaeia,UBA10214,UBA10214,,
+D3,14,93.15,1.51,2076,Bacteria,Desulfobacterota,Desulfobulbia,,,,
+D3,15,92.69,2.21,2023,Bacteria,Omnitrophota,koll11,UBA6215,,,
+D3,16,92.26,6.96,4678,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,UBA5616,,
+D3,17,91.51,1.08,1902,Bacteria,Omnitrophota,koll11,UBA10015,kpj58rc,,
+D3,18,91.06,0,1641,Bacteria,Actinobacteriota,,,,,
+D3,19,87.39,3.23,1589,Bacteria,Omnitrophota,koll11,UBA1572,UBA1572,UBA9636,
+D3,2,98.9,0.55,3488,Bacteria,AABM5-125-24,AABM5-125-24,,,,
+D3,20,84.81,0,1338,Archaea,Nanoarchaeota,Woesearchaeia,ARS49,GCA-2687275,,
+D3,21,84.78,3.3,2793,Bacteria,Zixibacteria,MSB-5A5,,,,
+D3,22,83.52,0.55,2951,Bacteria,Eisenbacteria,RBG-16-71-46,,,,
+D3,23,82.94,0.93,1213,Archaea,Micrarchaeota,Micrarchaeia,UBA10214,UBA10214,,
+D3,24,78.19,1.87,1252,Archaea,Micrarchaeota,Iainarchaeia,,,,
+D3,25,78.04,1.87,1259,Archaea,Micrarchaeota,Iainarchaeia,Iainarchaeales,GCA-2688035,,
+D3,26,76.18,0.91,3061,Bacteria,Nitrospirota,Thermodesulfovibrionia,UBA6902,UBA6902,UBA6902,
+D3,27,75.74,0,1710,Archaea,Nanoarchaeota,Woesearchaeia,UBA12501,UBA11576,,
+D3,28,75.55,7.76,846,Bacteria,Patescibacteria,Microgenomatia,Shapirobacterales,UBA12405,UBA12158,
+D3,29,72.73,2.91,2814,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA4823,RBG-16-57-11,
+D3,3,98.9,4.95,2904,Bacteria,Zixibacteria,MSB-5A5,,,,
+D3,30,72.67,0.45,1610,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,SM23-35,,
+D3,31,72.03,2.26,1910,Bacteria,Desulfobacterota,Desulfomonilia,UBA1062,UBA1062,,
+D3,32,71.96,0.97,2933,Bacteria,Desulfobacterota,Desulfobaccia,Desulfobaccales,0-14-0-80-60-11,0-14-0-80-60-11,
+D3,33,70.79,0.93,1209,Archaea,Micrarchaeota,Micrarchaeia,UBA10214,UBA10214,,
+D3,34,69.31,0,960,Bacteria,Patescibacteria,ABY1,Uhrbacterales,GWF2-40-263,,
+D3,35,68.22,0.93,1531,Archaea,Nanoarchaeota,Woesearchaeia,GW2011-AR9,GW2011-AR9,um-filter-33-13,
+D3,36,67.82,2.97,1335,Bacteria,Patescibacteria,ABY1,Uhrbacterales,GWF2-40-263,UBA12403,
+D3,37,67.69,0,1374,Archaea,Nanoarchaeota,Woesearchaeia,UBA12501,UBA10107,,
+D3,38,67.42,5.56,1108,Bacteria,Patescibacteria,Gracilibacteria,Peregrinibacterales,LOWO2-01-FULL-3,2-01-FULL-39-12,
+D3,39,66.46,0,1045,Archaea,Thermoplasmatota,CG49143,CG49143,CG49143,CG49143,
+D3,4,98.88,0.56,3542,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,,
+D3,40,65.97,2.8,900,Archaea,Nanoarchaeota,Woesearchaeia,Pacearchaeales,GW2011-AR1,,
+D3,41,65.45,8.38,2262,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA4781,
+D3,42,65.35,0,826,Bacteria,Patescibacteria,ABY1,Uhrbacterales,UBA9934,UBA11707,
+D3,43,64.69,1.71,1332,Bacteria,Margulisbacteria,WOR-1,O2-12-FULL-45-9,XYB2-FULL-48-7,2-01-FULL-53-15,
+D3,44,64.17,1.08,1228,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,UBA6249,
+D3,45,63,1.14,1260,Bacteria,Planctomycetota,Brocadiae,,,,
+D3,46,62.48,3.75,940,Bacteria,Patescibacteria,Paceibacteria,,,,
+D3,47,62.25,1.86,1220,Bacteria,Margulisbacteria,WOR-1,O2-12-FULL-45-9,,,
+D3,48,61.37,9.97,1441,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,UBA1562,
+D3,49,61.29,2.45,2079,Bacteria,Firmicutes_E,DTU015,UBA995,,,
+D3,5,96.77,3.41,3810,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Lentimicrobiaceae,,
+D3,50,60.69,3.08,1225,Bacteria,Patescibacteria,Microgenomatia,UBA1400,,,
+D3,51,57.27,7.73,3560,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA4823,,
+D3,52,56.79,0,1102,Bacteria,Planctomycetota,Brocadiae,,,,
+D3,53,56.36,0.18,1776,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA4823,,
+D3,54,54.76,0,834,Bacteria,Patescibacteria,Microgenomatia,UBA1400,Collierbacteraceae,UBA10133,
+D3,55,52.33,1.83,2032,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Hydrogenophilaceae,Thiobacillus,
+D3,56,51.65,5.83,1824,Bacteria,Fusobacteriota,,,,,
+D3,57,51.31,0.99,1028,Bacteria,Patescibacteria,Microgenomatia,UBA10105,UBA927,XYB1-FULL-47-11,
+D3,58,50.54,0,965,Bacteria,Patescibacteria,Paceibacteria,UBA6257,1-14-0-10-40-38,,
+D3,59,50,0,1592,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA6170,UBA6170 sp1
+D3,6,96.37,1.12,3164,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,,
+D3,60,49.78,0.09,2221,Bacteria,Actinobacteriota,RBG-13-55-18,ctinobacteria-3,ctinobacteria-3,,
+D3,61,49.61,0.86,704,Bacteria,Patescibacteria,Dojkabacteria,SC72,GCA-002793355,GCA-002793355,
+D3,62,48.89,0.6,1608,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfobulbaceae,UBA10518,
+D3,63,48.1,4.17,1029,Bacteria,Patescibacteria,Gracilibacteria,Peregrinibacterales,UBA1369,,
+D3,64,46.11,2.73,446,Bacteria,Patescibacteria,Paceibacteria,Paceibacterales,CG1-02-41-26,,
+D3,65,43.88,2.05,1370,Bacteria,Firmicutes_E,DTU015,UBA9673,UBA9673,,
+D3,66,42.11,2.27,1285,Bacteria,Planctomycetota,,,,,
+D3,67,40.89,1.71,397,Bacteria,Patescibacteria,Paceibacteria,UBA9983,UBA9983,,
+D3,68,40.28,4.72,4262,Bacteria,Planctomycetota,Phycisphaerae,SG8-4,SG8-4,PLanc-01,
+D3,69,39.6,0.11,400,Bacteria,Patescibacteria,ABY1,Veblenbacterales,UBA10138,,
+D3,7,95.51,2.25,2797,Bacteria,Goldbacteria-1,Goldbacteria-1,,,,
+D3,70,39.17,0,812,Archaea,Micrarchaeota,Micrarchaeia,UBA8480,UBA8480,,
+D3,71,39.01,0,588,Bacteria,UBA9089,CG2-30-40-21,CG2-30-40-21,CG2-30-40-21,,
+D3,72,35.15,0,682,Bacteria,Patescibacteria,Microgenomatia,UBA1400,Beckwithbacteraceae,,
+D3,73,34.02,0,1391,Bacteria,Elusimicrobiota,Elusimicrobia,UBA1565,UBA9628,UBA9628,
+D3,74,33.65,4.95,1140,Bacteria,Firmicutes_E,DTU015,UBA8153,,,
+D3,75,28.34,0.15,903,Bacteria,Nitrospirota,Thermodesulfovibrionia,UBA6902,UBA6902,,
+D3,76,28.02,4.8,992,Bacteria,Firmicutes_E,DTU015,UBA9673,UBA9673,,
+D3,77,27.97,1.14,687,Bacteria,Planctomycetota,Phycisphaerae,SG8-4,SG8-4,,
+D3,78,27.94,0,419,Bacteria,Patescibacteria,ABY1,,,,
+D3,79,27.03,1.81,1991,Bacteria,Chloroflexota,,,,,
+D3,8,95.38,1.82,3803,Bacteria,Nitrospirota,UBA9217,UBA9217,UBA9217,,
+D3,80,26.56,1.68,664,Bacteria,MBNT15,MBNT15,MBNT15,MBNT15,,
+D3,81,25.99,0.55,1488,Bacteria,Bacteroidota,UBA10030,UBA10030,UBA10030,,
+D3,82,25.16,0,220,Bacteria,Patescibacteria,ABY1,UBA2591,uenenbacteria-1,uenenbacteria-1,
+D3,83,24.22,0,432,Bacteria,Omnitrophota,koll11,UBA10183,,,
+D3,84,24.14,0.91,402,Bacteria,Actinobacteriota,UBA9087,UBA9087,,,
+D3,85,23.66,0.18,748,Bacteria,Bacteroidota,UBA10030,UBA10030,,,
+D3,86,22.81,1.75,984,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfobulbaceae,UBA10518,
+D3,87,22.49,0,758,Bacteria,Omnitrophota,koll11,UBA1560,2-01-FULL-45-10,2-01-FULL-45-10,
+D3,88,22.41,0,428,Bacteria,Omnitrophota,koll11,UBA1560,2-01-FULL-45-10,2-01-FULL-45-10,
+D3,89,22.02,1.72,1431,Bacteria,OLB16,OLB16,OLB16,OLB16,,
+D3,9,94.81,2.73,3317,Bacteria,Bacteroidota,UBA10030,UBA10030,UBA8401,,
+D3,90,20.41,0,1014,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,UBA1546,UBA1546,
+D3,91,20.41,3.2,499,Archaea,Thermoplasmatota,E2,hermoplasmata-2,hermoplasmata-2,hermoplasmata-2,
+D3,92,19.02,0.05,246,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,SM23-35,,
+D3,93,18.21,1.62,1306,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfobulbaceae,UBA10518,
+D3,94,15.52,0,270,Bacteria,Patescibacteria,ABY1,Magasanikibacterales,UBA10003,UBA10003,
+D3,95,12.19,0,407,Bacteria,UBA10199,UBA10199,2-02-FULL-44-16,,,
+D3,96,11.99,0,458,Bacteria,Actinobacteriota,UBA4738,,,,
+D3,97,11.16,0,525,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,,
+D3,98,10.42,0,819,Bacteria,Nitrospirota,Thermodesulfovibrionia,UBA6902,UBA6902,,
+D3,99,10.27,0,1003,Bacteria,Zixibacteria,MSB-5A5,Zixibacteria-1,,,
+D4,1,96.95,0.29,2147,Bacteria,Proteobacteria,Gammaproteobacteria,Halothiobacillales,Halothiobacillaceae,28-57-27,
+D4,10,77.74,1.12,1369,Bacteria,UBA9089,UBA9088,UBA9088,,,
+D4,11,77.17,2.12,2063,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,SM23-35,,
+D4,12,73.12,3.56,2672,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Aquabacterium,GCA_001770725.1
+D4,13,69.25,0.76,2618,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,Dechlorosoma,Dechlorosoma suillum
+D4,14,68.27,1.08,915,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,,
+D4,15,68.23,1.08,862,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,,
+D4,16,64.81,1.2,1132,Bacteria,Planctomycetota,Brocadiae,,,,
+D4,17,62.76,2.76,2469,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,
+D4,18,62.31,2.46,2250,Bacteria,Desulfobacterota,BSN033,BSN033,UBA1163,,
+D4,19,60.41,5.57,2751,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,,
+D4,2,96.24,1.08,2859,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,F082,UBA6192,
+D4,20,57.03,0.99,611,Bacteria,Patescibacteria,ABY1,UBA2591,uenenbacteria-1,uenenbacteria-1,
+D4,21,56.73,0.99,650,Bacteria,Patescibacteria,Paceibacteria,Paceibacterales,GBS-2,,
+D4,22,54.62,0,568,Bacteria,Patescibacteria,ABY1,GCA-002771165,,,
+D4,23,54.21,0,367,Bacteria,Patescibacteria,Paceibacteria,UBA6257,Jorgensenbacteraceae,,
+D4,24,51.72,0,2251,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Aquabacterium,GCA_001770775.1
+D4,25,50.86,0,2617,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Acidovorax,
+D4,26,47.84,7.27,2076,Bacteria,Actinobacteriota,UBA9087,UBA9087,,,
+D4,27,47.14,0,741,Archaea,Thermoplasmatota,CG49143,CG49143,CG49143,CG49143,
+D4,28,45.84,0,574,Archaea,Thermoplasmatota,CG49143,CG49143,,,
+D4,29,44.44,0.9,958,Archaea,Halobacterota,Methanosarcinia,Methanosarcinales,Methanoperedenaceae,Methanoperedens,
+D4,3,95.99,1.45,4668,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Hydrogenophilaceae,UBA3361,
+D4,30,42.05,6.45,3122,Bacteria,Proteobacteria,Alphaproteobacteria,Parvibaculales,Parvibaculaceae,Parvibaculum,
+D4,31,40.83,2.13,1036,Bacteria,Elusimicrobiota,Elusimicrobia,Elusimicrobiales,,,
+D4,32,39.48,1.39,632,Bacteria,Patescibacteria,Paceibacteria,UBA9983,,,
+D4,33,34.75,0,589,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,SM23-35,,
+D4,34,32.71,0,559,Archaea,Thermoplasmatota,Thermoplasmata_A,UBA10834,UBA10834,RBG-16-62-10,
+D4,35,29.73,4.46,1008,Bacteria,Patescibacteria,Paceibacteria,Paceibacterales,GBS-2,,
+D4,36,29.32,9.26,466,Bacteria,Patescibacteria,ABY1,UBA2591,UBA2591,,
+D4,37,29.31,0,1602,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp5
+D4,38,28.93,3.45,3057,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,,
+D4,39,28.45,0,519,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Aquabacterium,GCA_001770775.1
+D4,4,93.13,1.64,1725,Bacteria,Bacteroidota,UBA10030,UBA10030,,,
+D4,40,23.35,0,388,Bacteria,Chloroflexota,Anaerolineae,UBA7937,UBA7937,,
+D4,41,20.61,0,1825,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Acidovorax,
+D4,42,18.97,0,1495,Bacteria,Proteobacteria,Alphaproteobacteria,Reyranellales,Reyranellaceae,Reyranella,
+D4,43,17.64,2.25,481,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,,
+D4,44,14.95,1.72,2576,Bacteria,Proteobacteria,Alphaproteobacteria,Reyranellales,Reyranellaceae,Reyranella,
+D4,45,10.34,0,963,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,
+D4,5,92.4,6.67,4147,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,,
+D4,6,86.81,0,2852,Bacteria,Gemmatimonadota,GCA-2686955,,,,
+D4,7,82.91,1.61,1425,Bacteria,Omnitrophota,koll11,UBA6215,UBA6215,,
+D4,8,80.39,1.32,3377,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,
+D4,9,77.93,10.4,1120,Archaea,Hadesarchaeota,YNP-45,YNP-45,YNP-45,,
+D5,1,100,0.91,2749,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,UBA9935,,
+D5,10,79.15,6.2,5560,Bacteria,Eremiobacterota,Eremiobacteria,Eremiobacterales,,,
+D5,11,78.12,15.88,2026,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,SM23-35,,
+D5,12,77.44,3.41,3677,Bacteria,Planctomycetota,Brocadiae,,,,
+D5,13,75.84,2.17,3126,Bacteria,Proteobacteria,Alphaproteobacteria,Parvibaculales,Parvibaculaceae,Parvibaculum,
+D5,14,75.45,4.3,1668,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,,
+D5,15,74.95,8.06,1437,Bacteria,Omnitrophota,koll11,,,,
+D5,16,74.58,2.16,1918,Bacteria,Bipolaricaulota,Bipolaricaulia,Bipolaricaulales,Bipolaricaulaceae,Bipolaricaulis,
+D5,17,73.26,2.4,1687,Archaea,Thermoplasmatota,Thermoplasmata_A,UBA10834,UBA10834,COMBO-56-21,
+D5,18,72.7,3.45,708,Bacteria,Patescibacteria,Paceibacteria,UBA6257,Jorgensenbacteraceae,,
+D5,19,71.2,4.35,2605,Bacteria,Desulfobacterota,BSN033,UBA8473,UBA8473,UBA8473,
+D5,2,97.4,1.76,5063,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Ketobacteraceae,,
+D5,20,70.62,13.74,1013,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,UBA1562,
+D5,21,68.15,0,811,Bacteria,Patescibacteria,ABY1,GCA-002771165,,,
+D5,22,67.77,1,782,Bacteria,Patescibacteria,Paceibacteria,Paceibacterales,GBS-2,,
+D5,23,67.09,8.89,3633,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,,
+D5,24,66.97,10.44,3395,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Hydrogenophilaceae,UBA3361,
+D5,25,66.84,1.08,868,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,,
+D5,26,65.88,0.81,3308,Bacteria,Desulfobacterota,Desulfobacteria,Desulfatiglanales,HGW-15,,
+D5,27,65.32,2.03,2418,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Opitutales,Opitutaceae,Didemnitutus,
+D5,28,63.76,19.22,4239,Bacteria,Desulfobacterota,BSN033,BSN033,UBA1163,,
+D5,29,63.67,7.95,2175,Bacteria,Desulfobacterota,BSN033,BSN033,UBA1163,RBG-16-49-23,
+D5,3,97.15,0.32,2796,Bacteria,Firmicutes_B,Desulfotomaculia,Desulfotomaculales,,,
+D5,30,56.33,0.28,1801,Bacteria,UBP1,PRR-12,,,,
+D5,31,54.28,4.52,903,Bacteria,Patescibacteria,Paceibacteria,Paceibacterales,GBS-2,,
+D5,32,50.7,10.28,1810,Archaea,Halobacterota,Methanosarcinia,Methanosarcinales,Methanoperedenaceae,Methanoperedens,
+D5,33,49.82,9.34,1307,Bacteria,UBA9089,UBA9088,UBA9088,,,
+D5,34,45.28,9.15,1927,Bacteria,Nitrospirota,Thermodesulfovibrionia,Thermodesulfovibrionales,SM23-35,,
+D5,35,43.77,3.76,2558,Bacteria,Proteobacteria,Gammaproteobacteria,Ectothiorhodospirales,Thioalkalivibrionaceae,Thioalkalivibrio,GCF_000025545.1
+D5,36,41.69,1.87,2391,Bacteria,Firmicutes_B,Desulfotomaculia,Desulfotomaculales,BRHc4a,,
+D5,37,41.15,1.23,391,Bacteria,Patescibacteria,Paceibacteria,UBA6257,,,
+D5,38,36.94,0.08,1441,Bacteria,Firmicutes_B,Desulfotomaculia,Ammonifexales,Ammonificaceae,,
+D5,39,36.58,3.37,1446,Bacteria,Elusimicrobiota,Elusimicrobia,Elusimicrobiales,UBA9959,UBA2231,
+D5,4,93.6,1.35,2996,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,UBA2336,
+D5,40,36.36,7.76,1174,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,UBA2250,
+D5,41,33.99,3.06,481,Bacteria,Patescibacteria,Paceibacteria,UBA6257,Brennerbacteraceae,,
+D5,42,32.7,0,949,Bacteria,Elusimicrobiota,Endomicrobia,Elusimicrobia-1,Elusimicrobia-1,Elusimicrobia-1,
+D5,43,32.28,0.46,459,Bacteria,Patescibacteria,Paceibacteria,UBA9983,UBA9983,,
+D5,44,31.67,2.69,623,Archaea,JdFR-18,JdFR-18,JdFR-18,,,
+D5,45,30.57,4.63,665,Bacteria,Patescibacteria,Kazan,,,,
+D5,46,30.23,0,341,Bacteria,Patescibacteria,,,,,
+D5,47,29.29,1.97,4049,Bacteria,Proteobacteria,Alphaproteobacteria,Reyranellales,Reyranellaceae,,
+D5,48,29.19,0.96,723,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Hydrogenophilaceae,,
+D5,49,28.67,1.72,1440,Bacteria,Proteobacteria,Alphaproteobacteria,Reyranellales,Reyranellaceae,Reyranella,
+D5,5,93.36,2.14,2488,Bacteria,Actinobacteriota,RBG-13-55-18,ctinobacteria-3,ctinobacteria-3,,
+D5,50,25.31,0.84,1552,Archaea,Hadesarchaeota,YNP-45,YNP-45,YNP-45,,
+D5,51,25.23,0.93,472,Archaea,JdFR-18,JdFR-18,JdFR-18,,,
+D5,52,25.22,2.69,1048,Bacteria,Proteobacteria,Gammaproteobacteria,UBA5335,UBA5335,,
+D5,53,21.93,0.82,1667,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,,
+D5,54,19.98,2.2,2934,Archaea,Thermoplasmatota,CG49143,CG49143,,,
+D5,55,19.81,1.39,541,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,,
+D5,56,16.36,0.16,418,Bacteria,Desulfobacterota,Desulfobaccia,Desulfobaccales,0-14-0-80-60-11,,
+D5,58,14.73,0,619,Bacteria,Actinobacteriota,RBG-13-55-18,ctinobacteria-3,ctinobacteria-3,,
+D5,59,12.5,0,363,Bacteria,Actinobacteriota,UBA9087,UBA10029,UBA10029,UBA10029,
+D5,6,92.23,2.33,3008,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,Ignavibacterium,
+D5,7,91.61,2.77,1981,Bacteria,Firmicutes_B,Desulfotomaculia,Ammonifexales,Ammonificaceae,,
+D5,8,84.62,0,2964,Bacteria,Gemmatimonadota,GCA-2686955,,,,
+D5,9,84.46,0.06,1096,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,UBA1562,
+D6,1,98.92,1.08,3992,Bacteria,Planctomycetota,,,,,
+D6,10,96.37,1.12,3164,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,,
+D6,100,13.79,0,342,Bacteria,Firmicutes_D,Dethiobacteria,DTU022,UBA8154,UBA9862,
+D6,11,96.36,2.91,3838,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,envOPS12,UBA8950,
+D6,12,95.48,1.94,6139,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,UBA2245,,
+D6,13,95.32,2.26,3793,Bacteria,Desulfobacterota,Desulfobaccia,Desulfobaccales,0-14-0-80-60-11,,
+D6,14,94.38,0.19,3018,Bacteria,Spirochaetota,Brevinematia,Brevinematales,GWF1-51-8,GWF1-51-8,
+D6,15,92.73,1.82,3507,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,envOPS12,OLB14,
+D6,16,92.73,5.91,3642,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,,
+D6,17,92.72,5.05,4217,Bacteria,Desulfobacterota,BSN033,BSN033,UBA1163,RBG-16-49-23,
+D6,18,92.56,0.81,5065,Bacteria,Desulfobacterota,Desulfobacteria,Desulfatiglanales,HGW-15,,
+D6,19,91.38,1.27,1893,Bacteria,Firmicutes_B,Desulfotomaculia,Ammonifexales,Ammonificaceae,,
+D6,2,98.88,0.56,3542,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,,
+D6,20,91.02,4.77,3665,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,20-14-all-51-8,,
+D6,21,90.66,1.29,3105,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfatibacillaceae,,
+D6,22,90.59,3.7,4097,Bacteria,Armatimonadota,,,,,
+D6,23,89.36,1.08,1564,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,,
+D6,24,89.09,1.79,3010,Bacteria,Firmicutes,Alicyclobacillia,Tumebacillales,Effusibacillaceae,,
+D6,25,88.14,2.82,2491,Bacteria,Firmicutes_D,Dethiobacteria,DTU022,DTU022,,
+D6,26,88.11,1.08,1459,Bacteria,Omnitrophota,koll11,GIF10,UBA6249,,
+D6,27,87.27,3.82,3051,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA6092,,
+D6,28,86.83,0.56,3341,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,,
+D6,29,85.35,0.11,3001,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,,
+D6,3,98.88,1.68,3203,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,,
+D6,30,83.39,2.67,3816,Bacteria,Eremiobacterota,,,,,
+D6,31,83.24,3.3,2227,Bacteria,UBP1,PRR-12,SSS58A,SSS58A,SSS58A,GCA_002403075.1
+D6,32,83.2,9.23,2429,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,,
+D6,33,82.73,5.76,2921,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA8523,
+D6,34,82.2,1.13,2197,Bacteria,Firmicutes_D,Dethiobacteria,DTU022,UBA8154,UBA9862,
+D6,35,80.95,1.28,2657,Bacteria,Bacteroidota,Kapabacteria,Kapabacteriales,XYC2-FULL-35-21,,
+D6,36,80.51,0,2480,Bacteria,Firmicutes_D,Dethiobacteria,DTU022,UBA8154,UBA9862,
+D6,37,78.05,0.99,1536,Bacteria,Chloroflexota,Dehalococcoidia,Dehalococcoidales,UBA3254,,
+D6,38,77.9,0,756,Bacteria,Patescibacteria,Paceibacteria,UBA6257,Jorgensenbacteraceae,GWA2-45-9,
+D6,39,76.57,0.16,1206,Bacteria,Patescibacteria,Microgenomatia,Shapirobacterales,UBA12405,,
+D6,4,98.88,5.72,6296,Bacteria,OLB16,OLB16,,,,
+D6,40,76,2.63,2882,Bacteria,Desulfobacterota,Desulfobacteria,Desulfatiglanales,CG2-30-51-40,CG2-30-51-40,
+D6,41,75.66,2.25,743,Bacteria,Patescibacteria,Paceibacteria,UBA6257,Jorgensenbacteraceae,,
+D6,42,74.63,0,2641,Bacteria,Gemmatimonadota,GCA-2686955,,,,
+D6,43,72.73,2.91,2814,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA4823,RBG-16-57-11,
+D6,44,68.81,3.45,1012,Bacteria,Patescibacteria,WWE3,UBA101185,UBA10185,OXYD1-FULL-39-9,
+D6,45,67.27,2.27,2104,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA11579,UBA11579,
+D6,46,65.45,8.38,2262,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA4781,
+D6,47,64.76,0,982,Bacteria,Patescibacteria,ABY1,UBA10025,,,
+D6,48,64.74,1.1,1739,Bacteria,Zixibacteria,MSB-5A5,Zixibacteria-1,Zixibacteria-1,,
+D6,49,64.24,0.47,1942,Bacteria,Firmicutes_B,Desulfotomaculia,Desulfotomaculales,BRHc4a,,
+D6,5,98.86,2.15,2835,Bacteria,UBA3054,UBA3054,,,,
+D6,50,63.43,0,1089,Bacteria,Patescibacteria,Microgenomatia,Woykebacterales,,,
+D6,51,61.29,2.45,2079,Bacteria,Firmicutes_E,DTU015,UBA995,,,
+D6,52,60.21,2.58,4659,Bacteria,Myxococcota,UBA1671,,,,
+D6,53,60.13,0.5,2018,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Sulfuricellaceae,UBA2239,
+D6,54,58.91,0,863,Bacteria,Patescibacteria,Microgenomatia,Shapirobacterales,Um-filter-40-11,,
+D6,55,58.77,0.54,2766,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prolixibacteraceae,,
+D6,56,57.27,7.73,3560,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA4823,,
+D6,57,56.9,0,828,Bacteria,Patescibacteria,Microgenomatia,GWA2-44-7,Woesebacteraceae,GWB1-39-10,
+D6,58,53.68,0,1837,Bacteria,Planctomycetota,Phycisphaerae,UBA1845,,,
+D6,59,53.56,0,867,Bacteria,Patescibacteria,Microgenomatia,GWA2-44-7,Woesebacteraceae,GWC1-37-12b,
+D6,6,98.71,4.19,6514,Bacteria,Desulfobacterota,Desulfobacteria,Desulfatiglanales,HGW-15,HGW-15,
+D6,60,52.88,1.44,2258,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA6170,
+D6,61,56.36,0.18,1776,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA4823,,
+D6,62,52.31,1.49,2030,Bacteria,Firmicutes_E,DTU015,UBA8153,UBA8153,,
+D6,63,51.49,0,713,Bacteria,Patescibacteria,Microgenomatia,GWA2-44-7,Woesebacteraceae,,
+D6,64,51,4.09,3428,Bacteria,Desulfobacterota,JdFR-97,JdFR-97,JdFR-97,,
+D6,65,50.02,0.56,1687,Bacteria,Elusimicrobiota,Elusimicrobia,Elusimicrobiales,UBA9959,UBA2231,
+D6,66,50,0,1592,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA6170,UBA6170 sp1
+D6,67,49.11,0,2253,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfobacteraceae,Desulfobacula,
+D6,68,48.89,0.6,1608,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfobulbaceae,UBA10518,
+D6,69,48.16,0.91,1950,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,,
+D6,7,98.67,0.89,1663,Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,UBA2284,
+D6,70,46.55,5.17,3467,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,envOPS12,,
+D6,71,43.88,2.05,1370,Bacteria,Firmicutes_E,DTU015,UBA9673,UBA9673,,
+D6,72,41.27,0,1138,Bacteria,Desulfobacterota,BSN033,UBA8473,UBA8473,UBA8473,
+D6,73,40.28,4.72,4262,Bacteria,Planctomycetota,Phycisphaerae,SG8-4,SG8-4,PLanc-01,
+D6,74,40.24,2.73,1207,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA5211,
+D6,75,39.2,0.6,1690,Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,,
+D6,76,34.4,1.72,429,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Campbellbacteraceae,UBA12079,
+D6,77,33.65,4.95,1140,Bacteria,Firmicutes_E,DTU015,UBA8153,,,
+D6,78,33.33,0.1,693,Bacteria,Patescibacteria,Microgenomatia,Shapirobacterales,Um-filter-40-11,,
+D6,79,33.31,0.78,1946,Bacteria,Desulfobacterota,Desulfarculia,Desulfarculales,Desulfarculaceae,,
+D6,8,97.86,0.85,3504,Bacteria,Actinobacteriota,RBG-13-55-18,RBG-13-55-18,RBG-13-55-18,,
+D6,80,33.13,0.49,1145,Bacteria,Firmicutes_E,UBA3569,,,,
+D6,81,32.52,0,812,Bacteria,Bipolaricaulota,Bipolaricaulia,Bipolaricaulales,Bipolaricaulaceae,Bipolaricaulis,
+D6,82,32.05,0,2144,Bacteria,Firmicutes_B,Thermincolia,Thermincolales,UBA2595,,
+D6,83,31.88,0,670,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA5211,
+D6,84,31.15,0,2111,Bacteria,Desulfobacterota,Desulfarculia,Desulfarculales,Desulfarculaceae,,
+D6,85,30.09,0,1121,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,envOPS12,,
+D6,86,29.62,0,2098,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,XYB12-FULL-38-5,
+D6,87,29.53,2.21,1036,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA8523,
+D6,88,28.02,4.8,992,Bacteria,Firmicutes_E,DTU015,UBA9673,UBA9673,,
+D6,89,27.03,1.81,1991,Bacteria,Chloroflexota,,,,,
+D6,9,97.31,1.08,2881,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,F082,UBA6192,
+D6,90,22.93,0.14,1509,Bacteria,Deferrisomatota,Deferrisomatia,Deferrisomatales,Deferrisomataceae,,
+D6,91,22.81,1.75,984,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfobulbaceae,UBA10518,
+D6,92,22.35,1.22,1390,Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,,
+D6,93,20.94,0,588,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfobacteraceae,Desulfobacula,
+D6,94,18.21,1.62,1306,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfobulbaceae,UBA10518,
+D6,95,17.46,1.94,940,Bacteria,Desulfobacterota,Desulfarculia,Desulfarculales,Desulfarculaceae,,
+D6,96,15.83,0,465,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,,
+D6,97,15.52,0,528,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,Anaerolineaceae,UBA4781,
+D6,98,14.5,0.91,525,Bacteria,Chloroflexota,Anaerolineae,SBR1031,UBA2029,,
+D6,99,13.79,0,639,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,UBA11579,UBA11579,
+SW,1,99.15,0.82,2359,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Methylophilaceae,Methylotenera_A,
+SW,10,95.69,2.59,1861,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,,,
+SW,11,95.27,4.73,2520,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,Parachlamydiaceae,,
+SW,12,94.87,0,2357,Bacteria,Cyanobacteriota,Vampirovibrionia,Caenarcaniphilales,2-02-FULL-35-15,,
+SW,13,94.26,0.68,2122,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,Parachlamydiaceae,,
+SW,14,94.19,1.16,2381,Bacteria,Proteobacteria,Gammaproteobacteria,UBA1113,UBA1113,,
+SW,15,94.1,0.95,3006,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Ga0077548,
+SW,16,92.89,3.08,1279,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,,,
+SW,17,89.75,0.14,1986,Bacteria,Proteobacteria,Gammaproteobacteria,Berkiellales,UBA6186,,
+SW,18,89.71,3.04,2338,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,Parachlamydiaceae,,
+SW,19,87.36,1.72,2417,Bacteria,Proteobacteria,Gammaproteobacteria,Berkiellales,Berkiellaceae,Berkiella,
+SW,2,98.9,0,2492,Bacteria,Proteobacteria,Alphaproteobacteria,,,,
+SW,20,87.18,1.42,3050,Bacteria,Cyanobacteriota,Vampirovibrionia,Obscuribacterales,,,
+SW,21,87.07,8.06,7706,Bacteria,Cyanobacteriota,Vampirovibrionia,Obscuribacterales,,,
+SW,22,85.89,0,1225,Bacteria,Dependentiae,Babeliae,Babeliales,,,
+SW,23,85.39,0,1044,Bacteria,Dependentiae,Babeliae,Babeliales,Vermiphilaceae,Vermiphilus,Vermiphilus pyriformis
+SW,24,84.8,0.59,3180,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,SG8-41,Ga0077527,
+SW,25,83.91,0.96,1615,Bacteria,Proteobacteria,Gammaproteobacteria,UBA1113,,,
+SW,26,83.76,2.05,2071,Bacteria,Proteobacteria,Gammaproteobacteria,Ga0077554,Ga007554,Ga0077554,
+SW,27,83.63,0.97,1526,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,,
+SW,28,83.31,2.19,1978,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,,,
+SW,29,83.11,1.82,1828,Bacteria,Bacteroidota,Kapabacteria,Kapabacteriales,Kapabacteriaceae,,
+SW,3,97.8,0,2389,Bacteria,Proteobacteria,Alphaproteobacteria,,,,
+SW,30,82.51,5.36,3242,Bacteria,Bdellovibrionota,Bacteriovoracia,UBA1018,UBA1018,,
+SW,31,77.59,0,2454,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella_B,
+SW,32,74.46,2.15,2065,Bacteria,Proteobacteria,Alphaproteobacteria,,,,
+SW,33,73.23,0.88,1201,Bacteria,Proteobacteria,Alphaproteobacteria,UBA9655,UBA9655,,
+SW,34,71.81,0,695,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Kaiserbacteraceae,GWA1-54-10,
+SW,35,70.69,0,3408,Bacteria,Bacteroidota,Bacteroidia,AKYH767,2-12-FULL-35-15,2-12-FULL-35-15,
+SW,36,70.57,4.55,4127,Bacteria,Nitrospirota,Nitrospiria,Nitrospirales,Nitrospiraceae,UBA6488,
+SW,37,68.74,2.27,5818,Bacteria,Planctomycetota,Planctomycetes,Gemmatales,Gemmataceae,,
+SW,38,67.7,5.62,6312,Bacteria,Planctomycetota,Planctomycetes,Planctomycetales,Planctomycetaceae,,
+SW,39,66.17,5.17,1665,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,
+SW,4,97.44,4.84,5786,Bacteria,Cyanobacteriota,Vampirovibrionia,Obscuribacterales,Obscuribacteraceae,Ga0077546,
+SW,40,64.88,1.95,1763,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,Ga0074140,,
+SW,41,64.47,0.55,800,Bacteria,Dependentiae,Babeliae,Babeliales,,,
+SW,42,62.78,0.26,1250,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,UBA11403,
+SW,43,62.58,1.15,4096,Bacteria,Planctomycetota,Planctomycetes,Planctomycetales,Planctomycetaceae,,
+SW,44,62.28,0,1088,Bacteria,Dependentiae,Babeliae,Babeliales,Vermiphilaceae,,
+SW,45,61.93,1.14,2301,Bacteria,Planctomycetota,Phycisphaerae,Phycisphaerales,SM1A02,UBA11155,
+SW,46,61.15,0.68,2654,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,
+SW,47,60.34,0,1291,Bacteria,Proteobacteria,Alphaproteobacteria,Caedibacterales,Nucleicultricaceae,Nucleicultrix,Nucleicultrix amoebiphila
+SW,48,59.52,0.48,2044,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA9320,,
+SW,49,59.13,0,903,Bacteria,Dependentiae,Babeliae,Babeliales,Vermiphilaceae,,
+SW,5,97.44,3.56,5594,Bacteria,Cyanobacteriota,Vampirovibrionia,Obscuribacterales,Obscuribacteraceae,,
+SW,50,57.73,0,3599,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,,
+SW,51,57.25,8.83,1646,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Porticoccaceae,,
+SW,52,57.01,1.22,1795,Bacteria,Bacteroidota,Bacteroidia,AKYH767,2-12-FULL-35-15,,
+SW,53,56.9,0,1040,Bacteria,Proteobacteria,Gammaproteobacteria,UBA6002,UBA6002,UBA6002,
+SW,54,56.73,1.69,1290,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,Parachlamydiaceae,,
+SW,55,56.71,1.02,1449,Bacteria,Dependentiae,Babeliae,Babeliales,Vermiphilaceae,,
+SW,56,55.86,2.61,1363,Bacteria,Dependentiae,Babeliae,Babeliales,Babeliaceae,,
+SW,57,55.17,3.45,1698,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Hylemonella,
+SW,58,55.07,0,2382,Bacteria,Acidobacteriota,Blastocatellia,Pyrinomonadales,Pyrinomonadaceae,OLB17,
+SW,59,54.62,0.84,1802,Bacteria,Dadabacteria,UBA1144,UBA2774,UBA2774,,
+SW,6,97.12,0.48,2827,Bacteria,Bacteroidota,Bacteroidia,AKYH767,GCA-2737665,,
+SW,60,54.41,1.82,2226,Bacteria,Proteobacteria,Gammaproteobacteria,UBA5335,UBA5335,UBA5335,GCA_002862435.1
+SW,61,51.93,1.41,2399,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Hyphomicrobium,
+SW,62,50.06,1.49,2983,Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,,
+SW,63,48.27,0.98,2408,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,SG8-41,,
+SW,64,47.65,9.2,3145,Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Thermoguttaceae,,
+SW,65,46.55,5.17,2221,Bacteria,Proteobacteria,Alphaproteobacteria,SL26,SL26,UBA11222,
+SW,66,45.27,4.29,1977,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,,,
+SW,67,42.3,0,1407,Bacteria,Bdellovibrionota,Bacteriovoracia,UBA1018,UBA1018,,
+SW,68,41.98,0.14,1226,Bacteria,Cyanobacteriota,Vampirovibrionia,Obscuribacterales,Obscuribacteraceae,,
+SW,69,40,1.72,968,Bacteria,Proteobacteria,Alphaproteobacteria,UBA9655,UBA9655,UBA9655,
+SW,7,96.96,2.03,1943,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,Ga0074140,,
+SW,70,39.69,2.7,2933,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Pedosphaerales,,,
+SW,71,39.64,2.88,1176,Bacteria,Dependentiae,Babeliae,Babeliales,Babeliaceae,,
+SW,72,38.97,6.03,2960,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Porticoccaceae,HB2-32-21,
+SW,73,38.97,4.31,1741,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,
+SW,74,38.1,6.84,4434,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Opitutales,Opitutaceae,,
+SW,75,36.04,0.91,1082,Bacteria,Chloroflexota,Anaerolineae,Anaerolineales,envOPS12,OLB14,
+SW,76,30.86,3.51,1341,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,UBA6177,,
+SW,77,29.25,7.62,809,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,UTBCD1,
+SW,78,27.91,5.74,390,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,,,
+SW,79,27.19,0,1510,Bacteria,Planctomycetota,Planctomycetes,Pirellulales,UBA7805,,
+SW,8,95.95,0.48,2616,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,,,
+SW,80,25.86,5.17,1059,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,
+SW,81,24.62,2.96,4974,Bacteria,Nitrospirota,Nitrospiria,Nitrospirales,Nitrospiraceae,UBA6488,GCA_002083555.1
+SW,82,23.73,0,360,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,,
+SW,83,23.69,2.68,1179,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,,,
+SW,84,23.24,1.22,634,Bacteria,Dependentiae,Babeliae,Babeliales,Vermiphilaceae,,
+SW,85,21.68,1.03,1036,Bacteria,Actinobacteriota,Actinobacteria,Actinomycetales,Microbacteriaceae,UBA1487,
+SW,86,21.55,0,2972,Bacteria,Proteobacteria,Alphaproteobacteria,Reyranellales,Reyranellaceae,Reyranella,
+SW,87,21.05,9.01,215,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,,,
+SW,88,21.03,0.1,426,Bacteria,Elusimicrobiota,Elusimicrobia,UBA1565,UBA9628,21-14-0-20-64-6,
+SW,89,20.69,5.17,2009,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,,
+SW,9,95.73,0.57,3602,Bacteria,Cyanobacteriota,Vampirovibrionia,Obscuribacterales,Obscuribacteraceae,,
+SW,90,20.44,1.1,2759,Bacteria,Acidobacteriota,Luteitaleia,,,,
+SW,91,18.97,0,657,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Rhizorhabdus,
+SW,92,18.97,0,1318,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Aquabacterium,Aquabacterium parvum
+SW,93,18.04,0.65,1376,Bacteria,Proteobacteria,Alphaproteobacteria,Caedibacterales,Nucleicultricaceae,Nucleicultrix,Nucleicultrix amoebiphila
+WC,1,88.49,2.08,4675,Bacteria,Cyanobacteriota,Cyanobacteriia,Thermosynechococcales,Thermosynechococcaceae,,
+WC,10,59.73,8.75,2506,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Polaromonas,
+WC,11,58.95,0,1042,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Zambryskibacteraceae,12-FULL-43-12b,
+WC,12,58.15,0,925,Bacteria,Patescibacteria,Berkelbacteria,,,,
+WC,13,58.09,6.77,1462,Bacteria,Patescibacteria,Microgenomatia,Levybacterales,UBA12049,,
+WC,14,58.04,1.71,911,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Kaiserbacteraceae,,
+WC,15,56.87,0,1134,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Kaiserbacteraceae,UBA10103,
+WC,16,52.72,0.33,2397,Bacteria,Cyanobacteriota,Cyanobacteriia,Cyanobacteriales,Chamaesiphonaceae,Chamaesiphon,
+WC,17,50.15,1.03,1769,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter_A,
+WC,18,46.55,0,662,Bacteria,Actinobacteriota,Actinobacteria,Nanopelagicales,Nanopelagicaceae,Planktophila,
+WC,19,45.39,0.8,757,Bacteria,Patescibacteria,Gracilibacteria,Peribacterales,Peribacteraceae,,
+WC,2,81.94,0.93,1120,Bacteria,Patescibacteria,Gracilibacteria,Peribacterales,Peribacteraceae,,
+WC,20,45.33,7.57,2785,Bacteria,Planctomycetota,UBA11346,UBA11346,UBA11346,,
+WC,21,44.85,3.33,1014,Bacteria,Patescibacteria,Gracilibacteria,Peribacterales,Peribacteraceae,,
+WC,22,44.11,0.68,786,Bacteria,Patescibacteria,Paceibacteria,UBA9983,UBA1006,,
+WC,23,43.29,0.47,812,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Kaiserbacteraceae,UBA10103,
+WC,24,43.27,2.81,402,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Nomurabacteraceae,2-01-FULL-33-17,
+WC,25,42.95,0.8,674,Bacteria,Patescibacteria,Gracilibacteria,Peribacterales,Peribacteraceae,,
+WC,26,41.38,0.57,521,Bacteria,Patescibacteria,ABY1,Uhrbacterales,UBA9934,UBA11707,
+WC,27,39.7,2.15,1645,Bacteria,Omnitrophota,koll11,UBA10015,kpj58rc,,
+WC,28,39.42,0.85,539,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Taylorbacteraceae,UBA6065,
+WC,29,37.93,0,920,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Methylophilaceae,Methylophilus,
+WC,3,74.06,0.74,3737,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,UBA10320,
+WC,30,37.73,5.06,489,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Zambryskibacteraceae,UBA910,
+WC,31,37.07,0,1022,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Polynucleobacter,
+WC,32,36.06,0,589,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Kaiserbacteraceae,1-14-0-10-45-20,
+WC,33,35.9,0.23,1397,Bacteria,Nitrospirota,Nitrospiria,Nitrospirales,Nitrospiraceae,Nitrospira,
+WC,34,35.85,0.81,612,Bacteria,Actinobacteriota,Actinobacteria,Nanopelagicales,AcAMD-5,,
+WC,35,35.19,2.35,1828,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,OSC116,,
+WC,36,34.73,1.72,631,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Kaiserbacteraceae,2-01-FULL-51-21,
+WC,37,33.08,0,412,Bacteria,Patescibacteria,Gracilibacteria,Peribacterales,Peribacteraceae,,
+WC,38,32.52,0,420,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Taylorbacteraceae,,
+WC,39,29.38,0,834,Bacteria,Patescibacteria,Paceibacteria,UBA9983,GCA-2401445,,
+WC,4,71.31,12.65,3189,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Polaromonas,
+WC,40,28.48,2.25,464,Bacteria,Patescibacteria,Paceibacteria,UBA9983,GCA-2401445,,
+WC,41,28.07,0,381,Bacteria,Actinobacteriota,Actinobacteria,Actinomycetales,Microbacteriaceae,Rhodoluna,
+WC,42,27.47,0,487,Bacteria,Actinobacteriota,Actinobacteria,Nanopelagicales,Nanopelagicaceae,Nanopelagicus,
+WC,43,27.41,1.19,848,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Taylorbacteraceae,,
+WC,44,24.16,0,598,Bacteria,Omnitrophota,UBA9649,2-02-FULL-51-18,,,
+WC,45,24.14,0,1327,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Sediminibacterium,
+WC,46,23.88,1.82,334,Bacteria,Patescibacteria,Paceibacteria,UBA9983,,,
+WC,47,21.61,1.12,249,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Kaiserbacteraceae,,
+WC,48,21.61,0.34,952,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Ga0077559,
+WC,49,21.57,6.71,1586,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,GCA-2402195,
+WC,5,66.38,1.72,2305,Bacteria,Bacteroidota,Bacteroidia,Sphingobacteriales,Solitaleaceae,,
+WC,50,20.69,1.72,287,Bacteria,Actinobacteriota,Actinobacteria,Nanopelagicales,Nanopelagicaceae,Planktophila,
+WC,51,20.61,0,331,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Kaiserbacteraceae,,
+WC,52,19.12,0,1042,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,
+WC,53,19.04,0,457,Bacteria,Patescibacteria,Gracilibacteria,BD1-5,UBA6164,GCA-2747975,
+WC,54,16.88,1.72,4472,Bacteria,Bacteroidota,Bacteroidia,AKYH767-A,2013-40CM-41-45,,
+WC,55,16.38,0,514,Bacteria,Omnitrophota,Omnitrophia,Omnitrophales,GWA2-52-8,,
+WC,56,16.22,0,441,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,UBA2334,
+WC,57,15.91,0,654,Bacteria,Patescibacteria,Paceibacteria,UBA9983,Zambryskibacteraceae,,
+WC,58,14.81,0,946,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Rhodoferax,
+WC,59,14.66,1.38,683,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Brachymonas,
+WC,6,65.31,2.76,1335,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Polynucleobacter,
+WC,60,13.79,1.72,942,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Saprospiraceae,,
+WC,7,64.95,0.85,1016,Bacteria,Patescibacteria,Gracilibacteria,Peribacterales,Peribacteraceae,,
+WC,8,61.72,0.37,938,Bacteria,Verrucomicrobiota,Chlamydiia,Parachlamydiales,SM23-39,,
+WC,9,60.44,1.17,1673,Bacteria,Omnitrophota,UBA9649,2-02-FULL-51-18,,,

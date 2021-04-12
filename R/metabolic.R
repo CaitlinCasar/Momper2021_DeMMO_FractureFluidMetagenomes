@@ -59,7 +59,7 @@ presence <- file %>%
 file_list = lapply(files, read_files)
 data <- reduce(file_list, bind_rows) 
 
-
+write_csv(data, "data/metabolic_MAG_data.csv")
 # metadata ----------------------------------------------------------------
 
 metabolic_MAGS <- data %>% select(site, genome) %>% distinct()
@@ -72,19 +72,10 @@ gene_counts <- read_delim("data/geneCounts_19Feb2021.txt", delim = "\t", col_nam
          gene_count = as.numeric(gene_count)) %>%
   inner_join(metabolic_MAGS)
 
-#load old metadata - need to update with new checkM output 
-path <- "data/DeMMO_genome_master.xlsx"
 
-metadata  <- path %>%
-  excel_sheets() %>%
-  set_names() %>%
-  map(read_excel, path = path) %>%
-  reduce(bind_rows) %>%
-  select(user_genome, Completeness, Contamination) %>%
-  separate(user_genome, c("site", "genome"), sep = "_") %>%
-  mutate(site = str_remove(site, "eMMO")) %>%
-  right_join(gene_counts) %>%
-  distinct()
+metadata  <- read_csv("data/checkm.csv") %>%
+  mutate(genome = as.character(genome)) %>%
+  right_join(gene_counts) 
 
 # bubble plot -------------------------------------------------------------
 
